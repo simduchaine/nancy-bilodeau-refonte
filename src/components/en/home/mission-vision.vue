@@ -3,7 +3,7 @@
     <div class="columns">
       <div
         class="column"
-        v-for="edge in $static.allhomeEn.edges"
+        v-for="edge in $static.allHomeEn.edges"
         :key="edge.node.id"
       >
         <h2 class="title is-5">{{ edge.node.title }}</h2>

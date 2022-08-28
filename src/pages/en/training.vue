@@ -14,7 +14,7 @@
                 <g-image :src="formation.node.thumbnail"></g-image>
               </div>
               <div class="card-content">
-                <h2 class="title is-6">{{formation.node.title}}</h2>
+                <h2 class="title is-6">{{ formation.node.title }}</h2>
                 <div v-html="formation.node.content"></div>
                 <a :href="formation.node.link">More information ></a>
               </div>
@@ -29,7 +29,7 @@
 
 <page-query>
 query Training {
-  training: allTraining (filter: { path: { nin: ["/en/training/type/training", "/en/training/type/bottom-section"] }}, sortBy: "type", order: ASC) {
+  training: allTraining (filter: { path: { nin: ["/en/training/type/training/", "/en/training/type/bottom-section/"] }}, sortBy: "type", order: ASC) {
     edges {
       node {
         title
@@ -52,13 +52,13 @@ export default {
   metaInfo: {
     title: "Training",
     htmlAttrs: {
-      lang: "en"
-    }
+      lang: "en",
+    },
   },
   components: {
     intro,
-    bottomCta
-  }
+    bottomCta,
+  },
 };
 </script>
 

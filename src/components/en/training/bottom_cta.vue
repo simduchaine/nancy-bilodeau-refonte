@@ -6,7 +6,7 @@
 
 <static-query>
 query {
-  training(path: "/en/training/type/bottom-section") {
+  training(path: "/en/training/type/bottom-section/") {
     content
   }
 }
@@ -15,6 +15,6 @@ query {
 
 <script>
 export default {
-  name: "training_bottom"
+  name: "training_bottom",
 };
 </script>

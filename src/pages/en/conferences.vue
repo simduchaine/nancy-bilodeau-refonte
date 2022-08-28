@@ -14,7 +14,7 @@
                 <g-image :src="conference.node.thumbnail"></g-image>
               </div>
               <div class="card-content">
-                <h2 class="title is-6">{{conference.node.title}}</h2>
+                <h2 class="title is-6">{{ conference.node.title }}</h2>
                 <div v-html="conference.node.content"></div>
               </div>
             </div>
@@ -28,7 +28,7 @@
 
 <page-query>
 query Conferences {
-  conferencesEn: allConferencesEn (filter: { path: { nin: ["/en/conferences/type/lunch-and-learn", "/en/conferences/type/bottom-section"] }}, sortBy: "type", order: ASC) {
+  conferencesEn: allConferencesEn (filter: { path: { nin: ["/en/conferences/type/lunch-and-learn/", "/en/conferences/type/bottom-section/"] }}, sortBy: "type", order: ASC) {
     edges {
       node {
         title

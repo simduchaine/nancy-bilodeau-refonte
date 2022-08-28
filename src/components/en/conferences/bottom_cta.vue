@@ -6,7 +6,7 @@
 
 <static-query>
 query {
-  conferencesEn(path: "/en/conferences/type/bottom-section") {
+  conferencesEn(path: "/en/conferences/type/bottom-section/") {
     content
   }
 }
@@ -15,6 +15,6 @@ query {
 
 <script>
 export default {
-  name: "conferencesEn_bottom"
+  name: "conferencesEn_bottom",
 };
 </script>

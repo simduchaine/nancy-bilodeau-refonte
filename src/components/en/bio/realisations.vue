@@ -7,7 +7,7 @@
 
 <static-query>
 query {
-  bioEn(path: "/data-en/bio/highlights") {
+  bioEn(path: "/data-en/bio/highlights/") {
     title
     content
   }
@@ -16,6 +16,6 @@ query {
 
 <script>
 export default {
-  name: "Highlights"
+  name: "Highlights",
 };
 </script>

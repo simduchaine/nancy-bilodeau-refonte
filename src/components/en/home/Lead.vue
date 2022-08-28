@@ -12,7 +12,7 @@
 
 <static-query>
 query {
-  homeEn(path: "/data-en/home/lead") {
+  homeEn(path: "/data-en/home/lead/") {
     title
     content
   }
@@ -21,6 +21,6 @@ query {
 
 <script>
 export default {
-  name: "Lead"
+  name: "Lead",
 };
 </script>

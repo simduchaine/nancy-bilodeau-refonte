@@ -1,7 +1,7 @@
 <template>
   <div class="columns is-marginless is-vcentered">
     <div class="column is-paddingless">
-      <g-image :src="$static.homeEn.thumbnail" style="width:100%" />
+      <g-image :src="$static.homeEn.thumbnail" style="width: 100%" />
     </div>
     <div class="column is-paddingless">
       <div class="column is-three-fifths is-offset-one-fifth">
@@ -14,7 +14,7 @@
 
 <static-query>
 query {
-  homeEn(path: "/data-en/home/call-to-action") {
+  homeEn(path: "/data-en/home/call-to-action/") {
     title
     content
     thumbnail (quality: 100, height: 680, width: 940)
@@ -24,6 +24,6 @@ query {
 
 <script>
 export default {
-  name: "CTA"
+  name: "CTA",
 };
 </script>

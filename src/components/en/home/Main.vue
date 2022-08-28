@@ -15,7 +15,7 @@
 
 <static-query>
 query {
-  homeEn(path: "/data-en/home/holistic-coaching") {
+  homeEn(path: "/data-en/home/holistic-coaching/") {
     title
     content
     definition
@@ -25,6 +25,6 @@ query {
 
 <script>
 export default {
-  name: "Main"
+  name: "Main",
 };
 </script>

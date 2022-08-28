@@ -1,8 +1,12 @@
 <template>
   <div class="container">
     <div class="columns">
-      <div class="column" v-for="edge in $static.allhomeEn.edges" :key="edge.node.id">
-        <h2 class="title is-5">{{edge.node.title}}</h2>
+      <div
+        class="column"
+        v-for="edge in $static.allhomeEn.edges"
+        :key="edge.node.id"
+      >
+        <h2 class="title is-5">{{ edge.node.title }}</h2>
         <p v-html="edge.node.content"></p>
       </div>
     </div>
@@ -11,7 +15,7 @@
 
 <static-query>
 query MissionVision {
-  allHomeEn(filter: { path: { in: ["/data-en/home/mission", "/data-en/home/vision"] }}) {
+  allHomeEn(filter: { path: { in: ["/data-en/home/mission/", "/data-en/home/vision/"] }}) {
       edges {
           node {
             id
@@ -25,6 +29,6 @@ query MissionVision {
 
 <script>
 export default {
-  name: "missionVision"
+  name: "missionVision",
 };
 </script>

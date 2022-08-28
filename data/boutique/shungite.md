@@ -1,8 +1,8 @@
 ---
 title: Shungite
 url: "#"
-thumbnail: "/uploads/shungite.png"
-featured_image: "/uploads/shungite.png"
+thumbnail: "/uploads/shungite-compressed.jpg"
+featured_image: "/uploads/shungite-compressed.jpg"
 categorie: Protection Ondes Nocives
 order: 5
 ---

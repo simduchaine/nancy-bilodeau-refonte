@@ -1,7 +1,7 @@
 ---
 title: Gestion du changement
 id: gestion-changement
-thumbnail: "/uploads/gestion-du-changement-large.png"
+thumbnail: "/uploads/gestion-du-changement-large-compressed.jpg"
 link: https://nancybilodeau.com/contact
 order: 6
 

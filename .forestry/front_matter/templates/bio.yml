@@ -1,0 +1,25 @@
+---
+label: bio
+hide_body: false
+fields:
+- type: text
+  name: id
+  label: id
+  hidden: true
+- type: text
+  name: title
+  label: Titre
+- type: file
+  name: thumbnail
+  label: Image
+- type: file
+  name: cv_link
+  label: CV à télécharger
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO
+pages:
+- data/bio/bio.md
+- data_en/bio/bio.md

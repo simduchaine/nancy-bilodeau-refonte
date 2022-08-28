@@ -1,0 +1,10 @@
+---
+label: Settings
+hide_body: true
+fields:
+- type: file
+  name: hero_image
+  label: Image principale sur l'accueil
+  default: "/uploads/hero-corpo.jpg"
+pages:
+- data/site.yaml

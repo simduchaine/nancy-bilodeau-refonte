@@ -1,0 +1,18 @@
+---
+label: Conference page
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: id
+  label: id
+  hidden: true
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO
+pages:
+- data/conference-midi/intro.md

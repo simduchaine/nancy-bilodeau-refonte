@@ -1,0 +1,22 @@
+---
+id: a-propos
+title: À propos de moi
+thumbnail: "/uploads/Mindset_Cover_Sept2022_FINAL.jpg"
+---
+Née à Québec en 1972 j'ai tout un parcours de vie. Je suis détentrice d'un Baccalauréat en affaire de l'[*Université de Sherbrooke*](https://www.usherbrooke.ca/) et d'un MBA de l'[*Université Keller Graduate School of Management*](https://www.keller.edu/). J'ai vécu 12 ans aux États Unis et ai travaillé dans plusieurs industries, tant pour des grandes, des moyennes que des petites entreprises. J'en suis à ma deuxième entreprise et j'ai voyagé à travers le monde principalement pour mon travail et aussi par pure plaisir de découvrir de nouvelles cultures et différentes façons d'approcher la vie et la santé.
+
+Je suis d'abord et avant tout une gestionnaire passionnée et accomplie avec plus de 25 ans d'expérience en transformation organisationnelle, gestion de projets, de programmes, de portefeuilles et d'amélioration des processus. Je suis dynamique, visionnaire et orienté sur l'humain. J'ai la capacité de gérer des situations complexes et de développer des équipes performantes qui livrent des résultats durables. J'adore le travail d'équipe et mon équipe et moi avons remporté l'honneur décerné par PMI du projet de l'année à Chicago en 2012.
+
+J'étais alors directrice de projets chez Sears Holdings Corporation. Malheureusement, j'ai dû quitter cet emploi et revenir vivre chez mes parents à 40 ans pour des problèmes sérieux de santé qui m'ont lancé sur une toute nouvelle aventure, celle de retrouver la santé et comprendre comment prendre soin de moi pour rester en santé!
+
+Mes recherches avaient vraiment débuté en 2007 alors que le stress me gardait bien éveillé. J'avais déjà découvert le yoga, la méditation et diverses techniques de respiration. C'est à la suite d'une cure d'alimentation vivante avec [*Karyn Calabrese*](https://karynraw.com/), qu'ayant retrouvé beaucoup d'énergie, je me suis lancée dans l'entreprenariat pour ouvrir le Centre Holistique Om Prana Inc. à Québec poussée par le désir de partager toutes mes découvertes avec le plus grand nombre de personnes possibles. Le Centre offrait un petit bistro d'alimentation saine, un studio de yoga et méditation et un espace épicerie et suppléments bios.
+
+Durant cette magnifique expérience de trois ans j'ai eu le plaisir de rencontrer les acteurs principaux en santé intégrative à Québec. J'en ai aussi profité pour aller chercher de nombreuses certifications et formations. Je suis coach certifiée de [l'institut Hippocrates](https://hippocratesinst.org/), de [Heart Math](https://www.heartmath.org/), de la [SICPNL](https://sicpnl.org/), et de [NES Health](https://www.neshealth.com/en/). J'ai aussi de nombreuses formations de [l'art de vivre](https://www.artofliving.org/ca-en), de [Deepak Chopra](https://www.deepakchopra.com/), de [l'institut médical Sanoviv](https://www.sanoviv.com/), de [Mindful Leader](https://www.mindfulleader.org/) et [Bio-Well](https://www.bio-well.com/).
+
+En plus, j'ai eu le grand plaisir de servir de nombreux artistes soucieux de leur santé dont le guitariste de Def Leppard et le batteur des Rolling Stones! J'ai même donné des cours de yoga aux membres du Boogie Wonder Band! C'était absolument excitant et ne sachant pas me modérer j'ai dû vendre après 3 ans car les problèmes de santé avaient refait surface. À ce moment je n'avais d'autre choix que de réaliser que le problème c'était moi et non mon environnement de travail!
+
+Grâce à toutes ces expériences, je comprends maintenant que la santé est une responsabilité personnelle et une question d'équilibre. Il n'y a pas de solution miracle et il est essentiel de prendre soin de soi à plusieurs niveaux. Nous sommes énergie et matière et chaque dimension à ses propres besoins. Il n'en tient qu'à nous de prendre la pleine responsabilité et trouver notre chemin de santé optimum désirée.
+
+Aujourd'hui je suis en pleine santé, je vis une vie bien équilibrée, et je priorise la gestion de mon énergie au-delà de la gestion de mon temps. Je dédie mes heures de travail à guider et inspirer les gens à prendre soin d'eux pour qu'ils puissent offrir le meilleur d'eux-mêmes, vivre une vie pleine de joie, de sens et à la hauteur de leurs aspirations ainsi que de créer un meilleur monde, plus vibrant, tous ensemble.
+
+J'ai un mélange unique de compétences d'affaires, entrepreneuriales et du domaine de la santé intégrative. Je combine science et sagesse au service de l'élévation des entreprises et des gens que j'accompagne.

@@ -1,0 +1,120 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: "/static/admin/"
+webhook_url: 
+sections:
+- type: heading
+  label: Général
+- type: document
+  path: data/site.yaml
+  label: Options du site
+- type: heading
+  label: Français
+- type: directory
+  path: data/home
+  label: Accueil
+  create: all
+  match: "**/*"
+- type: directory
+  path: data/carousel
+  label: Carousel
+  create: all
+  match: "**/*"
+  templates:
+  - carousel
+- type: document
+  path: data/pages/services.md
+  label: Services
+- type: directory
+  path: data/linkedIn
+  label: Ref. LinkedIn
+  create: documents
+  match: "**/*"
+- type: directory
+  path: data/formations
+  label: Formations
+  create: all
+  match: "**/*"
+  templates:
+  - formations
+- type: directory
+  path: data/conference-midi
+  label: Conférences
+  create: documents
+  match: "**/*"
+  templates:
+  - formations
+- type: directory
+  path: data/bio
+  label: Bio
+  create: all
+  match: "**/*"
+- type: directory
+  path: data/articles
+  label: Blogue
+  create: all
+  match: "**/*"
+  templates:
+  - blogue
+- type: heading
+  label: Anglais
+- type: directory
+  path: data_en/home
+  label: Home
+  create: all
+  match: "**/*"
+- type: directory
+  path: data_en/carousel
+  label: Carousel
+  create: all
+  match: "**/*"
+  templates:
+  - carousel
+- type: document
+  path: data_en/pages/services.md
+  label: Services
+- type: directory
+  path: data_en/linkedIn
+  label: Ref. LinkedIn
+  create: documents
+  match: "**/*"
+  templates:
+  - ref-linkedin
+- type: directory
+  path: data_en/training
+  label: Training
+  create: all
+  match: "**/*"
+  templates:
+  - formations
+- type: directory
+  path: data_en/conference
+  label: Conferences
+  create: all
+  match: "**/*"
+  templates:
+  - formations
+- type: directory
+  path: data_en/bio
+  label: Bio
+  create: all
+  match: "**/*"
+  templates:
+  - bio-components
+  - bio
+  - bio-emplois
+upload_dir: uploads
+public_path: "/uploads"
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ":filename:"
+build:
+  preview_env:
+  - GRAPHQL_ENDPOINT=/___graphql
+  preview_output_directory: dist
+  install_dependencies_command: npm install
+  preview_docker_image: node:10
+  mount_path: "/srv"
+  working_dir: "/srv"
+  instant_preview_command: npm run develop

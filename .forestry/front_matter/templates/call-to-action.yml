@@ -1,0 +1,20 @@
+---
+label: call-to-action
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Titre
+- type: file
+  name: thumbnail
+  label: Image
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO
+pages:
+- data/home/call-to-action.md
+- data/pages/services.md
+- data_en/home/call-to-action.md
+- data_en/pages/services.md

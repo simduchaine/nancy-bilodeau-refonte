@@ -1,0 +1,25 @@
+---
+label: ref-linkedin
+hide_body: false
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Nom de la personne
+  hidden: false
+- type: text
+  name: company
+  label: Compagnie
+- name: photo
+  type: file
+  config:
+    maxSize: 64
+  label: Photo
+pages:
+- data/linkedIn/alexandre-fausse.md
+- data/linkedIn/andre-amyot.md
+- data/linkedIn/cynthia-lapointe.md
+- data/linkedIn/john-kasinecz.md
+- data_en/linkedIn/alexandre-fausse.md
+- data_en/linkedIn/andre-amyot.md

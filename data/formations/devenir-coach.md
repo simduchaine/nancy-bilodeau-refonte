@@ -1,0 +1,8 @@
+---
+order: 5
+title: Devenir coach
+thumbnail: "/uploads/copie-de-devenir-coach.png"
+link: https://nancybilodeau.com/contact
+
+---
+Le modèle de "diriger et contrôler" ne répond plus au besoin d’autonomie et de réalisation des employés. Un modèle de coaching est beaucoup plus adapté pour des environnements de travail où les employés arrivent à déployer le meilleur d’eux-mêmes.

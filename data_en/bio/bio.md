@@ -1,7 +1,7 @@
 ---
 id: bio
 title: About me
-thumbnail: "/uploads/fd20eb14-d5cf-47bc-826c-949dd7fda97d_compressed.jpeg"
+thumbnail: "/uploads/fd20eb14-d5cf-47bc-826c-949dd7fda97d_compressed.jpg"
 cv_link: "/uploads/Bilodeau_Nancy_CV_Court.pdf"
 meta_title: ''
 meta_description: ''

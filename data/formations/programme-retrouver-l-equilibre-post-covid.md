@@ -1,7 +1,7 @@
 ---
 id: programme-equilibre
 title: Programme équilibre
-thumbnail: "/uploads/equilibre-large.png"
+thumbnail: "/uploads/equilibre-large_compressed.jpg"
 link: https://cours.nancybilodeau.com/covid19equilibre
 order: 1
 featured: true

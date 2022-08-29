@@ -1,7 +1,7 @@
 ---
 title: Manger pour performer
 id: mieux-manger
-thumbnail: "/uploads/bigstock-Diet-Woman-Measuring-Body-Wei-277120180.jpg"
+thumbnail: "/uploads/bigstock-Diet-Woman-compressed.jpg"
 link: "#"
 
 ---

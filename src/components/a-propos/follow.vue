@@ -44,7 +44,7 @@
           <div class="card">
             <div class="card-image">
               <g-image
-                src="../../../uploads/AdobeStock_189354627.jpg"
+                src="../../../uploads/AdobeStock_189354627_compressed.jpg"
                 height="410"
                 width="650"
               ></g-image>

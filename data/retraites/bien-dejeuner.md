@@ -2,7 +2,7 @@
 title: Bien Déjeuner
 id: bien-dejeuner
 type: Cours
-thumbnail: "/uploads/bigstock-Breakfast-Oatmeal-Porridge-Wit-295967239.jpg"
+thumbnail: "/uploads/bigstock-Breakfast-Oatmeal-compressed.jpg"
 link: ''
 order: 0
 upcoming: false

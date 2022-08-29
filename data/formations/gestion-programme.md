@@ -1,7 +1,7 @@
 ---
 title: Programme mieux-être
 id: gestion-programme
-thumbnail: "/uploads/well-being-large.png"
+thumbnail: "/uploads/well-being-large-compressed.jpg"
 link: https://cours.nancybilodeau.com/programmemieuxetre
 order: 2
 

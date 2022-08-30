@@ -9,7 +9,7 @@
 
 <static-query>
 query HeroImg {
-  HeroImg: settings(path: "/data/site") {
+  HeroImg: settings(path: "/data/site/") {
     hero_image (width: 2560, height: 1707, quality: 100)
   }
 }
@@ -22,7 +22,4 @@ export default {
 </script>
 
 <style lang="scss">
-
-
-
 </style>

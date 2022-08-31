@@ -9,13 +9,50 @@ sections:
 - type: document
   path: data/site.yaml
   label: Options du site
-- type: heading
-  label: Français
 - type: directory
   path: data/home
-  label: Accueil
+  label: Page d'accueil
   create: all
   match: "**/*"
+- type: directory
+  path: data/linkedIn
+  label: Ref. LinkedIn
+  create: documents
+  match: "**/*"
+- type: heading
+  label: Mission
+- type: directory
+  path: data/bio
+  label: Bio
+  create: all
+  match: "**/*"
+- type: heading
+  label: Santé et Mieux-être Individuel
+- type: heading
+  label: Santé et Mieux-être Entreprise
+- type: directory
+  path: data/conference-midi
+  label: Conférences
+  create: documents
+  match: "**/*"
+  templates:
+  - formations
+- type: directory
+  path: data/formations
+  label: Formations
+  create: all
+  match: "**/*"
+  templates:
+  - formations
+- type: heading
+  label: Ressources
+- type: directory
+  path: data/articles
+  label: Blogue
+  create: all
+  match: "**/*"
+  templates:
+  - blogue
 - type: directory
   path: data/carousel
   label: Carousel
@@ -26,37 +63,6 @@ sections:
 - type: document
   path: data/pages/services.md
   label: Services
-- type: directory
-  path: data/linkedIn
-  label: Ref. LinkedIn
-  create: documents
-  match: "**/*"
-- type: directory
-  path: data/formations
-  label: Formations
-  create: all
-  match: "**/*"
-  templates:
-  - formations
-- type: directory
-  path: data/conference-midi
-  label: Conférences
-  create: documents
-  match: "**/*"
-  templates:
-  - formations
-- type: directory
-  path: data/bio
-  label: Bio
-  create: all
-  match: "**/*"
-- type: directory
-  path: data/articles
-  label: Blogue
-  create: all
-  match: "**/*"
-  templates:
-  - blogue
 - type: heading
   label: Anglais
 - type: directory

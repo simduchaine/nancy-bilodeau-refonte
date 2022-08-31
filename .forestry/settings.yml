@@ -14,6 +14,9 @@ sections:
   label: Page d'accueil
   create: all
   match: "**/*"
+- type: document
+  path: data/pages/services.md
+  label: Services Conseils
 - type: directory
   path: data/linkedIn
   label: Ref. LinkedIn
@@ -22,14 +25,60 @@ sections:
 - type: heading
   label: Mission
 - type: directory
+  path: data/a-propos
+  label: À propos
+  create: all
+  match: "**/*"
+- type: directory
+  path: data/valeurs
+  label: Mes valeurs
+  create: all
+  match: "**/*"
+- type: directory
   path: data/bio
-  label: Bio
+  label: Compétences d'affaires
+  create: all
+  match: "**/*"
+- type: directory
+  path: data/competences-sante
+  label: Compétences en santé
+  create: all
+  match: "**/*"
+- type: directory
+  path: data/outils
+  label: Mes outils santé
   create: all
   match: "**/*"
 - type: heading
   label: Santé et Mieux-être Individuel
+- type: directory
+  path: data/ameliorer-sante
+  label: Améliorer santé
+  create: all
+  match: "**/*"
+- type: directory
+  path: data/retraites
+  label: Retraites
+  create: all
+  match: "**/*"
+- type: document
+  path: data/pages/cures.md
+  label: Cures
+  match: "**/*"
 - type: heading
   label: Santé et Mieux-être Entreprise
+- type: directory
+  path: dat/transfo-organisation
+  label: Transformation Organisationnelle
+  create: all
+  match: "**/*"
+- type: directory
+  path: data/carousel
+  label: Carousel (Transfo. Org)
+  create: all
+  match: "**/*"
+  templates:
+  - carousel
 - type: directory
   path: data/conference-midi
   label: Conférences
@@ -45,6 +94,10 @@ sections:
   templates:
   - formations
   - content-only
+- type: document
+  path: data/pages/coaching.md
+  label: Coaching Individuel et équipe
+  match: "**/*"
 - type: heading
   label: Ressources
 - type: directory
@@ -55,15 +108,10 @@ sections:
   templates:
   - blogue
 - type: directory
-  path: data/carousel
-  label: Carousel
+  path: data/boutique
+  label: Boutique
   create: all
   match: "**/*"
-  templates:
-  - carousel
-- type: document
-  path: data/pages/services.md
-  label: Services
 - type: heading
   label: Anglais
 - type: directory

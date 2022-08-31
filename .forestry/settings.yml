@@ -77,7 +77,7 @@ sections:
 - type: heading
   label: Santé et Mieux-être Entreprise
 - type: directory
-  path: dat/transfo-organisation
+  path: data/transfo-organisation
   label: Transformation Organisationnelle
   create: all
   match: "**/*"

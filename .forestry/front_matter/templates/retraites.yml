@@ -4,22 +4,27 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
-- type: text
-  name: type
-  label: type
-- type: text
-  name: id
-  label: id
+  label: Title
+- name: type
+  type: tag_list
+  default: []
+  label: Type
+- name: order
+  type: number
+  label: Ordre
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 - type: file
   name: thumbnail
-  label: thumbnail
+  label: Image
 - type: text
   name: link
-  label: link
-- type: text
-  name: order
-  label: order
+  label: URL
 - type: boolean
   name: upcoming
-  label: upcoming
+  label: Upcoming?

@@ -68,6 +68,9 @@ sections:
   label: Retraites
   create: all
   match: "**/*"
+  templates:
+  - retraites
+  - content-only
 - type: document
   path: data/pages/cures.md
   label: Cures

@@ -43,6 +43,7 @@ sections:
   create: all
   match: "**/*"
   templates:
+  - content-only
   - formations
 - type: heading
   label: Ressources

@@ -1,4 +1,11 @@
 ---
 label: Content Only
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+pages:
+- data/home/lead.md

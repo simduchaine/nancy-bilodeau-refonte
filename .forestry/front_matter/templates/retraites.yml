@@ -1,0 +1,25 @@
+---
+label: Retraites
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: type
+  label: type
+- type: text
+  name: id
+  label: id
+- type: file
+  name: thumbnail
+  label: thumbnail
+- type: text
+  name: link
+  label: link
+- type: text
+  name: order
+  label: order
+- type: boolean
+  name: upcoming
+  label: upcoming

@@ -23,5 +23,6 @@ fields:
     max: 
     step: 
 pages:
+- data/ameliorer-sante/call-to-action.md
 - data/ameliorer-sante/cure.md
 - data/ameliorer-sante/soins.md

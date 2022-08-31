@@ -71,7 +71,6 @@ sections:
 - type: document
   path: data/pages/cures.md
   label: Cures
-  match: "**/*"
 - type: heading
   label: Santé et Mieux-être Entreprise
 - type: directory
@@ -104,7 +103,6 @@ sections:
 - type: document
   path: data/pages/coaching.md
   label: Coaching Individuel et équipe
-  match: "**/*"
 - type: heading
   label: Ressources
 - type: directory

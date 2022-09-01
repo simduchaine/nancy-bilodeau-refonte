@@ -51,6 +51,8 @@ sections:
   label: Mes outils santé
   create: all
   match: "**/*"
+  templates:
+  - content-with-image-no-position
 - type: heading
   label: Santé et Mieux-être Individuel
 - type: directory

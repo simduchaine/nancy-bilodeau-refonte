@@ -6,7 +6,7 @@
     /> -->
     <g-image
       class="hero-background is-transparent"
-      src="../../../uploads/vitalise-ton-monde.png"
+      src="../../../uploads/hero-vitalise.jpg"
       width="2560"
       height="1707"
       quality="100"

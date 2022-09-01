@@ -8,5 +8,7 @@ fields:
     required: false
   label: Title
 pages:
+- data/formations/intro.md
+- data/formations/section-bas.md
 - data/home/lead.md
 - data/retraites/intro.md

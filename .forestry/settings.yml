@@ -99,6 +99,7 @@ sections:
   match: "**/*"
   templates:
   - formations
+  - content-only
 - type: directory
   path: data/formations
   label: Formations

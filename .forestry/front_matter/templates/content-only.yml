@@ -8,6 +8,7 @@ fields:
     required: false
   label: Title
 pages:
+- data/conference-midi/section-bas.md
 - data/formations/intro.md
 - data/formations/section-bas.md
 - data/home/lead.md

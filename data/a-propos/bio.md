@@ -2,6 +2,7 @@
 id: a-propos
 title: À propos de moi
 thumbnail: "/uploads/Mindset_Cover_Sept2022_FINAL.jpg"
+
 ---
 Née à Québec en 1972 j'ai tout un parcours de vie. Je suis détentrice d'un Baccalauréat en affaire de l'[*Université de Sherbrooke*](https://www.usherbrooke.ca/) et d'un MBA de l'[*Université Keller Graduate School of Management*](https://www.keller.edu/). J'ai vécu 12 ans aux États Unis et ai travaillé dans plusieurs industries, tant pour des grandes, des moyennes que des petites entreprises. J'en suis à ma deuxième entreprise et j'ai voyagé à travers le monde principalement pour mon travail et aussi par pure plaisir de découvrir de nouvelles cultures et différentes façons d'approcher la vie et la santé.
 

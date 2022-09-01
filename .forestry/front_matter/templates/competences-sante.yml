@@ -17,12 +17,11 @@ fields:
 - type: list
   name: cv
   label: CV
-- type: text
-  name: vision
-  label: Vision
-- type: text
-  name: mission
-  label: Mission
+- name: mission-vision
+  type: include
+  config: {}
+  template: mission-vision
+  label: Mission-Vision
 - name: cv_link
   type: text
   config:

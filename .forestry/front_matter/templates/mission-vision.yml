@@ -1,0 +1,14 @@
+---
+label: Mission-Vision
+hide_body: true
+fields:
+- name: mission
+  type: text
+  config:
+    required: false
+  label: Mission
+- name: vision
+  type: text
+  config:
+    required: false
+  label: Vision

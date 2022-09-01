@@ -1,0 +1,22 @@
+---
+label: Boutique
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: url
+  label: url
+- type: file
+  name: thumbnail
+  label: thumbnail
+- type: file
+  name: featured_image
+  label: featured_image
+- type: text
+  name: categorie
+  label: categorie
+- type: number
+  name: order
+  label: order

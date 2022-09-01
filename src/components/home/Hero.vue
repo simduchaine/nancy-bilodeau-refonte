@@ -4,13 +4,14 @@
       class="hero-background is-transparent"
       :src="$static.HeroImg.hero_image"
     /> -->
-    <g-image
+    <!-- <g-image
       class="hero-background is-transparent"
       src="../../../uploads/hero-vitalise.jpg"
       width="2560"
       height="1707"
       quality="100"
-    />
+    /> -->
+    <img class="hero-background is-transparent" :src="$static.HeroImg.hero_image" alt="">
   </section>
 </template>
 

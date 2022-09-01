@@ -1,8 +1,15 @@
 <template>
   <section class="hero is-primary is-medium has-background">
-    <g-image
+    <!-- <g-image
       class="hero-background is-transparent"
       :src="$static.HeroImg.hero_image"
+    /> -->
+    <g-image
+      class="hero-background is-transparent"
+      src="../../../uploads/vitalise-ton-monde.png"
+      width="2560"
+      height="1707"
+      quality="100"
     />
   </section>
 </template>

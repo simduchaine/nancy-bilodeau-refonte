@@ -27,3 +27,5 @@ fields:
   config:
     required: false
   label: Lien CV
+pages:
+- data/competences-sante/bio.md

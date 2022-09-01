@@ -9,3 +9,4 @@ fields:
   label: Title
 pages:
 - data/home/lead.md
+- data/retraites/intro.md

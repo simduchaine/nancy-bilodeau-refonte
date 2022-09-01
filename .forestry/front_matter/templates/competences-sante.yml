@@ -1,0 +1,31 @@
+---
+label: competences-sante
+hide_body: false
+fields:
+- type: text
+  name: id
+  label: id
+- type: text
+  name: title
+  label: title
+- type: file
+  name: thumbnail
+  label: thumbnail
+- type: file
+  name: thumbnail2
+  label: thumbnail2
+- type: file
+  name: thumbnail3
+  label: thumbnail3
+- type: list
+  name: cv
+  label: cv
+- type: text
+  name: vision
+  label: vision
+- type: text
+  name: mission
+  label: mission
+- type: file
+  name: cv_link
+  label: cv_link

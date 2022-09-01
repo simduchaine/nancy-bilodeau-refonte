@@ -3,29 +3,28 @@ label: competences-sante
 hide_body: false
 fields:
 - type: text
-  name: id
-  label: id
-- type: text
   name: title
-  label: title
+  label: Titre
 - type: file
   name: thumbnail
-  label: thumbnail
+  label: Image 1
 - type: file
   name: thumbnail2
-  label: thumbnail2
+  label: Image 2
 - type: file
   name: thumbnail3
-  label: thumbnail3
+  label: Image 3
 - type: list
   name: cv
-  label: cv
+  label: CV
 - type: text
   name: vision
-  label: vision
+  label: Vision
 - type: text
   name: mission
-  label: mission
-- type: file
-  name: cv_link
-  label: cv_link
+  label: Mission
+- name: cv_link
+  type: text
+  config:
+    required: false
+  label: Lien CV

@@ -125,6 +125,8 @@ sections:
   label: Boutique
   create: all
   match: "**/*"
+  templates:
+  - boutique
 - type: heading
   label: Anglais
 - type: directory

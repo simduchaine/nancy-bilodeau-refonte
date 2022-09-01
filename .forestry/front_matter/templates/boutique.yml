@@ -4,19 +4,20 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Titre
 - type: text
   name: url
-  label: url
+  label: Lien URL
 - type: file
   name: thumbnail
-  label: thumbnail
+  label: Image (Vignette)
 - type: file
   name: featured_image
-  label: featured_image
-- type: text
-  name: categorie
-  label: categorie
+  label: Image Principale
+- name: categorie
+  type: tag_list
+  default: []
+  label: Catégorie
 - type: number
   name: order
-  label: order
+  label: Ordre

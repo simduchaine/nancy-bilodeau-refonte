@@ -1,6 +1,6 @@
 ---
 title: Prêt à vitaliser ton monde?
-position: 5
+position: "5"
 liste:
 - Accompagnement individuel
 - Retraites ouvertes à tous
@@ -8,8 +8,5 @@ liste:
 - Bioénergie
 - Tous mes outils
 
-
 ---
-Comme on peut seulement offrir ce que l’on a, il est essentiel de commencer par soi.  Si tu aimerais être guidé dans ta démarche tu peux prendre rendez-vous avec moi pour discuter tes objectifs et définir le meilleur chemin ensemble. Clique sur les liens à droite pour plus d’information ici aussi sur mes différents services.
-
-<a href="https://www.gorendezvous.com/homepage/111690" target="_blank">Prendre rendez-vous ></a>
+Comme on peut seulement offrir ce que l’on a, il est essentiel de commencer par soi. Si tu souhaites être guidé dans ta démarche, tu peux prendre rendez-vous avec moi pour discuter de tes objectifs et définir le meilleur chemin. Clique sur les liens à droite pour plus d’information sur mes différents services.

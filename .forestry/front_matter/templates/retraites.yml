@@ -22,6 +22,7 @@ fields:
 - type: file
   name: thumbnail
   label: Image
+  default: "/uploads/placeholder-image.png"
 - type: text
   name: link
   label: URL

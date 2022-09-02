@@ -1,8 +1,8 @@
 ---
-order: 0
+order: 
 title: Le sommeil, mon super pouvoir
-thumbnail: ''
-link: ''
+thumbnail: "/uploads/placeholder-image.png"
+link: "#"
 featured: false
 
 ---

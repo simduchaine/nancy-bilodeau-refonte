@@ -10,3 +10,5 @@ Dans chacun de mes mandats, j'évalue les différentes dimensions de l’entrepr
 La performance de l’entreprise est le parfait reflet de l’alignement de ses méthodes de gestion et de son personnel. Une entreprise dont l’équipe de gestion n’est pas en santé, tant en ce qui concerne le travail d’équipe que la santé de ses individus, sera plus ou moins hypothéquée par ses failles. Les recherches abondent maintenant pour démontrer l’avantage du mieux-être des employés au travail.
 
 Dans mon approche, je combine mes 25 années d’expérience en entreprise et toutes mes connaissances du domaine de la santé holistique acquises au cours des 12 dernières années pour répondre à vos besoins de vitalité et de performance.
+
+[Plus sur mes services en entreprise >]()

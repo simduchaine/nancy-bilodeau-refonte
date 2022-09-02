@@ -25,6 +25,7 @@ fields:
 - type: text
   name: link
   label: URL
+  default: "#"
 - type: boolean
   name: upcoming
   label: Upcoming?

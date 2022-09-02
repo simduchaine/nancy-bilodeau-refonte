@@ -1,7 +1,7 @@
 ---
 id: intro
 title: Mes Valeurs
-thumbnail: "/uploads/plus-petit-soins-perso.png"
+thumbnail: "/uploads/mes-valeurs.jpg"
 
 ---
 Le travail que je fais implique une confiance importante avec les gens et les entreprises que j’accompagne. Je suis une personne avec une éthique et des valeurs fondamentales importantes qui régissent mon approche de travail. Elles sont selon moi une fondation essentielle pour garantir le succès de notre collaboration. 

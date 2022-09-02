@@ -1,7 +1,6 @@
 ---
 title: Conférences
 id: conferences
-thumbnail: ''
 meta_title: Conférences en entreprise
 meta_description: Découvrez les conférences en entreprises offertes par Nancy Bilodeau.
   Plusieurs thèmes dont les neurosciences, le bonheur, la santé, la résilience, et

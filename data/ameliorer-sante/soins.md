@@ -1,12 +1,14 @@
 ---
 thumbnail: "/uploads/soins.jpg"
-title: Services
+title: Mes outils
 position: 3
 
 ---
-- Cohérence Cardiaque
-- Défigement émotionnel PEACE
-- Traitement énergétique Reiki
-- Cosmonergy
+* Bioénergie (NES Health, Bio-Well)
+* Programmation neurolinguistique (PNL)
+* Neuroscience en affaires (MIT)
+* Cohérence cardiaque (Heart Math)
+* Défigement émotionnel PEACE
+* Formation en santé intégrative
 
-[Services >](/services)
+[Pour consulter tous mes outils >](/services)

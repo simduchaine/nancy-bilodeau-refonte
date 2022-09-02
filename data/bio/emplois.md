@@ -2,6 +2,8 @@
 id: emplois
 title: Clients, Employeurs & Collaborateurs
 compagnies:
+- title: HITLAB
+  logo: ''
 - title: Vendere
   logo: ''
 - title: Kerry, US & Canada

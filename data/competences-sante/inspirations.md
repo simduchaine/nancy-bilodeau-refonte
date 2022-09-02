@@ -2,25 +2,35 @@
 id: inspirations
 title: Inspirations
 sante:
+- Dr. Mark Hyman
+- Dr. Wendy Myers
+- Dr. Richard J. Davidson
+- Dr. Peter Osborne
+- Dr. Caldwell B. Esselstyn, Jr.
+- Dr. T. Colin Campbell
+- Dr. Konstantin Korotkov
+- Dr. Daniel J. Siegel
+- Ben Greenfield
+- Peter Fraser
+- Lloyd Burrell
+- Blue Zones
 - Hippocrates Health Institute
 - Sanoviv Medical Institute
-- Dr. Mark Hyman
-- Dr. Mercola
-- Dr. Joe Dispenza
 - Karyn Calabrese
 - Brendan Brazier
 - Kris Carr
-- Bruce Lipton
-- Daniel J. Siegel
-- Ann Wigmore
 spirituelle:
-- Doc Childre
-- Deepak Chopra
+- Lynne McTaggart
+- Dr. Joe Dispenza
+- Dr. Bruce Lipton
 - Stephan Hawkins
 - Gregg Braden
+- Doc Childre
 - Wayne Dwyer
 - Eckart Tolle
 - Viktoras Kulvinskas
+- Dhamma Vipassana
+- Deepak Chopra
 - Art of Living
 - Rumi
 - Osho

@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/acceuil-images-cures.jpg"
+thumbnail: "/uploads/cure-2022.jpg"
 title: Passionnée de vitalité !
 position: 4
 

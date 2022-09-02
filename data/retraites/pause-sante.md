@@ -8,4 +8,4 @@ order: 4
 upcoming: false
 
 ---
-Nouvelle date à venir après la pandémie.
+Nouvelle date à venir

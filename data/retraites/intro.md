@@ -4,4 +4,6 @@ id: introduction
 upcoming: false
 
 ---
-J’ai déjà plusieurs cours d’élaborés. Vous pouvez organiser un cours ou participer au prochain à notre horaire. Pour organiser un cours, une retraire, une conférence ou un repas, vous avez simplement à rassembler 10 personnes et votre inscription sera gratuite!
+Voici la liste de mes prochaines retraites ouvertes à tous. 
+
+J'offre aussi des retraites sur mesure pour votre entreprise, votre famille ou votre groupe d'amis. [Cliquez ici ](https://nancy-bilodeau-refonte.vercel.app/retraites-personalisee)pour plus d'informations sur mes retraites corporatives ou [contactez moi ](https://nancy-bilodeau-refonte.vercel.app/contact)pour vos besoins privés. 

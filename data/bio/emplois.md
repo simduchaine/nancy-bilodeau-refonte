@@ -2,6 +2,8 @@
 id: emplois
 title: Clients, Employeurs & Collaborateurs
 compagnies:
+- title: Vendere
+  logo: ''
 - title: Kerry, US & Canada
   logo: ''
 - title: SAAQ, Canada
@@ -48,4 +50,3 @@ compagnies:
   logo: ''
 
 ---
-J’ai aussi travaillé pour :

@@ -25,4 +25,4 @@ Formations d’affaires additionnelles :
 * Coût de revient pour les restaurants
 * Cours de la MAPAC
 
-[Visitez ma biographie pour le coaching individuel](https://coaching.nancybilodeau.com/a-propos/#formations) pour en savoir plus sur ma formation dans le milieu de la santé holistique.
+Visitez mes [compétences en santé et mieux-être](https://nancy-bilodeau-refonte.vercel.app/mes-competences-sante-mieux-etre "santé et me") pour en savoir plus sur mes formations en santé intégrative. 

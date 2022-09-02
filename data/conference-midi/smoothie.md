@@ -7,4 +7,3 @@ order:
 featured: false
 
 ---
-Les smoothies sont une façon succulente de consommer notre dose journalière de fruits et légumes. Recettes de base, ingrédients et propriétés.

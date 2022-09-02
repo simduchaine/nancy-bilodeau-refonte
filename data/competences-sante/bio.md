@@ -42,5 +42,3 @@ En décembre 2018 j'ai complété la certification de praticienne neuro-sensorie
 En début 2020, je devenais Coach Certifié de la [SICPNL](https://sicpnl.org).
 
 Au plaisir de vous rencontrer et vous accompagner !
-
-![](/uploads/nancy-bilodeau-logo_small.png)

@@ -1,9 +1,9 @@
 ---
 title: Inner Balance
-url: ''
+url: '#'
 thumbnail: "/uploads/huiles-essentielles.jpg"
 featured_image: "/uploads/priime.png"
-categorie: []
+categorie: Huiles 
 order: 3
 
 ---

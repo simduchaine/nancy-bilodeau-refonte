@@ -1,7 +1,7 @@
 ---
 id: supplements-produits-naturels
-thumbnail: "/uploads/icone_supplements.png"
-title: Suppléments et produits naturels
----
+thumbnail: "/uploads/infoceutique.png"
+title: Infoceutiques
 
-Aujourd’hui, avec la détérioration de la qualité de la chaîne alimentaire et notre style de vie frénétique, il est difficile de s’assurer un bon apport de vitamines, minéraux et nutriments essentiels. Pour ce faire, j’ai une gamme complète de suppléments en plus de superaliments, de produits pour la perte de poids et d’autres produits naturels pour le corps et la maison. [Voir ma Boutique](/boutique).
+---
+Les infoceutiques sont un mélange exclusif codé de bio-information créer pour corriger les déséquilibres possibles dans nos champs énergétiques. Une fois les champs énergétiques corrigés, le corps peut mieux faire son travail de nous maintenir "énergisé" et plein de vitalité. Les utilisateurs voient généralement des changements immédiat dans leur état d'être et une habilité accrue devant leur défis personnels physiques et émotifs. 

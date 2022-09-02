@@ -60,12 +60,16 @@
                 <g-link class="navbar-item" to="/ameliorer-ma-sante"
                   >Améliorer ma santé</g-link
                 >
-                <a class="navbar-item" href="#"
+                <a
+                  class="navbar-item"
+                  href="https://cours.nancybilodeau.com/coherencecardiaque#"
+                  target="_blank"
                   >Diminuer mon stress et mon anxiété</a
                 >
                 <a
                   class="navbar-item"
                   href="https://cours.nancybilodeau.com/bioenergie"
+                  target="_blank"
                   >Vaincre la fatigue</a
                 >
                 <g-link class="navbar-item" to="/retraites"
@@ -119,21 +123,25 @@
                 <a
                   class="navbar-item"
                   href="https://cours.nancybilodeau.com/bioernergetic"
+                  target="_blank"
                   >Premier scan du champs corporel
                 </a>
                 <a
                   class="navbar-item"
                   href="https://cours.nancybilodeau.com/coherence-cardiaque"
+                  target="_blank"
                   >Pratique de cohérence cardiaque</a
                 >
                 <a
                   class="navbar-item"
                   href="https://cours.nancybilodeau.com/mmme"
+                  target="_blank"
                   >Les 8 clés de la santé holistique
                 </a>
                 <a
                   class="navbar-item"
                   href="https://cours.nancybilodeau.com/programmemieuxetre"
+                  target="_blank"
                   >Example de programme mieux-être</a
                 >
                 <g-link
@@ -144,16 +152,19 @@
                 <a
                   class="navbar-item"
                   href="https://www.npr.org/sections/health-shots/2015/03/02/387007941/take-the-ace-quiz-and-learn-what-it-does-and-doesnt-mean"
+                  target="_blank"
                   >Test ACEs</a
                 >
                 <a
                   class="navbar-item"
                   href="https://www.valuescentre.com/tools-assessments/pva/"
+                  target="_blank"
                   >Test des valeurs</a
                 >
                 <a
                   class="navbar-item"
                   href="https://www.tablegroup.com/product/online-team-assessment/"
+                  target="_blank"
                   >Test des 5 dysfonctions d’une équipe</a
                 >
               </div>

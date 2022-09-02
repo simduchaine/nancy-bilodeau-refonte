@@ -3,7 +3,7 @@
     <div style="margin-top: -3rem">
       <div
         class="parallax-effect top hero is-medium is-dark"
-        style="background-image: url('/img/Care-plus.png')"
+        style="background-image: url('../../uploads/ma_motivation.jpg')"
       >
         <div class="hero-body">
           <h1 class="has-text-centered title is-family-primary is-size-2">
@@ -14,11 +14,14 @@
 
       <div class="section">
         <div class="container">
-          <!-- <g-image
-            src="../../uploads/RETRAITE-Slogan2-RGB_bleu-fonc%C3%A9.jpg"
-            quality="100"
-          /> -->
-          <h2>Science et Sagesse au service de notre santé et mieux-être</h2>
+          <div class="columns">
+            <div class="column is-centered">
+              <g-image
+                src="../../uploads/bloc2-ma-motivation.png"
+                quality="100"
+              />
+            </div>
+          </div>
         </div>
       </div>
 

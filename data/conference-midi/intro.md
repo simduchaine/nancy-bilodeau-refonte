@@ -4,7 +4,8 @@ id: conferences
 thumbnail: ''
 meta_title: Conférences en entreprise
 meta_description: Découvrez les conférences en entreprises offertes par Nancy Bilodeau.
-  Plusieurs thèmes dont l'alimentation, le stress, la cohérence cardiaque et la méditation.
+  Plusieurs thèmes dont les neurosciences, le bonheur, la santé, la résilience, et
+  plus.
 link: "#"
 
 ---

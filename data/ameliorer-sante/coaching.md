@@ -1,16 +1,17 @@
 ---
 thumbnail: "/uploads/accueil-visuels-coaching-holistique.jpg"
-title: Coaching Holistique
+title: Exemple d'objectifs
 position: 2
 
 ---
-* Atteindre ses objectifs
 * Augmenter sa résilience
-* Gérer son stress
-* Nourrir sa vitalité
-* Vaincre peurs et addictions
-* Adopter de bonnes habitudes
-* Méditer, Respirer, Bouger
-* Vibrer, se réaliser!
+* Mieux gérer son stress
+* Diminuer son anxiété
+* Trouver l’équilibre travail-vie personnelle
+* Avoir plus d’énergie
+* Vaincre ses peurs et dépendances
+* Adopter de bonnes habitudes de vie
+* Calmer son esprit
+* Perdre du poids
 
-[Coaching >](/accompagnement-holistique-coaching)
+[Pour en savoir plus sur mon approche >](/accompagnement-holistique-coaching)

@@ -1,14 +1,24 @@
 ---
-title: Formations
-position: 5
+title: Suis-je la bonne personne pour toi?
+position: "5"
 liste:
-- Cours
-- Retraite
-- Conférences
-- Souper formation
-- Déjeuner formation
+- L'alimentation
+- Le sommeil
+- Le mouvement
+- La respiration
+- La nature
+- L'énergie
+- L'équilibre
+- Les pensées
+- Les émotions
 
 ---
-J’ai déjà plusieurs cours d’élaborés. Vous pouvez organiser un cours ou participer au prochain à notre horaire. Pour organiser un cours, une retraite, une conférence ou un repas, rassemblez 10 personnes et votre inscription sera gratuite !
+De par mon expérience je sais qu’il n’y a pas de solution miracle.
 
-<a href="/formations">Formations ></a>
+Il est important d’être prêt car on doit s’investir pour apporter les changements requis afin d’atteindre ses objectifs.
+
+Je suis là pour t’aider à découvrir ce qui nuit à ton mieux-être et t’aider à mettre en place les bonnes pratiques pour que tu puisses vivre heureux et en santé.
+
+Il est possible que notre travail touche différentes sphères.
+
+Si tu es prêt, ensemble on peut avoir un impact positif sur ton énergie et ta joie de vivre.

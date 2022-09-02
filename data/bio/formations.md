@@ -1,15 +1,16 @@
 ---
 id: formations
-title: Formations
+title: Formations d'affaires
 
 ---
 Formations principales:
 
-* Baccalauréat en Administration des Affaires, University de Sherbrooke
 * Maitrise en Gestion des Affaires (MBA), Keller Graduate School of Management
+* Baccalauréat en Administration des Affaires, University de Sherbrooke
 
 Formations d’affaires additionnelles :
 
+* Neuroscience pour les affaires, MIT Executive Education
 * Communication, Institut de design, Chicago
 * Gestion de portefeuille, Université de Chicago
 * Développer des équipes performantes, Université d’OfficeMax

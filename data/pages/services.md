@@ -1,6 +1,6 @@
 ---
 id: services
-title: Services
+title: Les leaders de demain seront au service du mieux-être
 thumbnail: "/uploads/plus-sur-services-2545-x-800-px.png"
 meta_description: Évaluation des obstacles à la performance et au mieux-être en entreprise.
   Établissement de plan d’action pour atteindre vos objectifs de performance.

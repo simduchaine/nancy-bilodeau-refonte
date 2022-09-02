@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/soins.jpg"
+thumbnail: "/uploads/service-petites.png"
 title: Mes outils
 position: 3
 

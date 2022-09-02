@@ -1,6 +1,6 @@
 ---
 thumbnail: "/uploads/acceuil-images-cures.jpg"
-title: Alimentation
+title: ''
 position: 4
 
 ---

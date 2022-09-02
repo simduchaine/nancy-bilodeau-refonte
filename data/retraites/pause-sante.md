@@ -1,7 +1,7 @@
 ---
 title: Prendre soin de soi
 id: pause-sante-bonheur
-type: Atelier
+type: Formation
 thumbnail: "/uploads/pause-sante-insta.png"
 link: ''
 order: 4

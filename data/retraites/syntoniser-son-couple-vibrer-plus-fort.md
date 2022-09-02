@@ -1,5 +1,5 @@
 ---
-type: []
+type: Retraite
 order: 3
 thumbnail: "/uploads/synthoniser-678-x-678-px-2.png"
 link: https://www.spa-eastman.com/sejours/retraites/syntoniser-son-couple-vibrer-plus-fort/

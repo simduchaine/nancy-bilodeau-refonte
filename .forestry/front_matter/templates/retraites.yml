@@ -6,8 +6,18 @@ fields:
   name: title
   label: Title
 - name: type
-  type: tag_list
-  default: []
+  type: select
+  default: Retraite
+  config:
+    required: false
+    options:
+    - Retraite
+    - Formation
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
   label: Type
 - name: order
   type: number

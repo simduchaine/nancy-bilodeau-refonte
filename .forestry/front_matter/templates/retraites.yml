@@ -30,3 +30,5 @@ fields:
 - type: boolean
   name: upcoming
   label: Upcoming?
+pages:
+- data/retraites/retraite-elever-sa-force-vitale-pour-mieux-vivre.md

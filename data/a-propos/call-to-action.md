@@ -1,6 +1,6 @@
 ---
 thumbnail: "/uploads/competences-en-sante-et-mieux-etre-2022.jpg"
-title: Atteindre un mieux-être optimal pour offrir le meilleur de soi
+title: Pour atteindre un mieux-être optimal pour offrir le meilleur de soi
 position: 1
 
 ---

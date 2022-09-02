@@ -13,5 +13,3 @@ position: 2
 * Adopter de bonnes habitudes de vie
 * Calmer son esprit
 * Perdre du poids
-
-[Pour en savoir plus sur mon approche >](/accompagnement-holistique-coaching)

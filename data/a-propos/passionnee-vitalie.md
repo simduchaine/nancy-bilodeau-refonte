@@ -4,4 +4,4 @@ title: Passionnée de vitalité !
 position: 4
 
 ---
-Parce que vivre heureux et en santé à bien meilleur goût !
+Parce que vivre heureux et en santé a bien meilleur goût !

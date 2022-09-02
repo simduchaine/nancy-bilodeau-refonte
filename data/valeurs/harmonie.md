@@ -1,6 +1,6 @@
 ---
 id: harmonie
-thumbnail: "/uploads/Icone_Harmonie.png"
-title: Harmonie
+thumbnail: "/uploads/conscience-2.png"
+title: Conscience
 
 ---

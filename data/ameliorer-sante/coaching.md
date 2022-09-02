@@ -1,6 +1,6 @@
 ---
 thumbnail: "/uploads/accueil-visuels-coaching-holistique.jpg"
-title: Exemple d'objectifs
+title: ''
 position: 2
 
 ---

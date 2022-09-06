@@ -1,6 +1,6 @@
 ---
 id: collaboration
-thumbnail: "/uploads/Icone_Harmonie.png"
+thumbnail: "/uploads/collaboration.png"
 title: Collaboration
 
 ---

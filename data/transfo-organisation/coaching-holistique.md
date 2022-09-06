@@ -11,4 +11,4 @@ La performance de l’entreprise est le parfait reflet de l’alignement de ses 
 
 Dans mon approche, je combine mes 25 années d’expérience en entreprise et toutes mes connaissances du domaine de la santé holistique acquises au cours des 12 dernières années pour répondre à vos besoins de vitalité et de performance.
 
-[Plus sur mes services en entreprise >]()
+[Plus sur mes services en entreprise >](https://nancy-bilodeau-refonte.vercel.app/services-conseils)

@@ -7,28 +7,45 @@ meta_description: Évaluation des obstacles à la performance et au mieux-être 
 meta_title: Service-conseil en amélioration de la performance au travail
 
 ---
-J’offre un service complet d’évaluation des obstacles à la performance et au mieux-être dans l'entreprise avec l’établissement d’un plan d’action pour atteindre la performance désirée. L’approche consiste à revoir les résultats actuels, l’étude de la dynamique du travail d’équipe et des relations humaines à l’intérieur de l’entreprise ainsi que la revue des méthodes de gestion au besoin.
+Je m’inspire des dernières innovations en gestion et en santé intégrative pour apaiser nos entreprises malades. Je combine les dernières études scientifiques et les enseignements reçus de grands sages ainsi que les plus récentes percées en physique quantique et en neurosciences.
 
-Mes dernières années dans le monde de la santé holistique me permettent d’offrir des formations et services innovateurs tel:
+De nombreuses entreprises souffrent d’environnements toxiques et dysfonctionnels. Les principaux symptômes de ces entreprises sont :
 
-- Élaboration de[ programme de mieux-être](https://cours.nancybilodeau.com/programmemieuxetre)
-- Développement de culture dynamique et responsable
-- Coaching exécutif, certifiée de la [SICPNL]()
-- Techniques de gestion du stress
-- Enseignement de la cohérence cardiaque
-- Promotion d'une saine alimentation
-- Élaboration de menu santé pour les cafétérias
-- Introduction à la méditation et au yoga
-- [Plusieurs cours visant la prévention]()
-- [Des conférences motivantes pour prendre soin de soi](https://nancybilodeau.com/conference)
+* Un taux de roulement élevé
+* Un taux d’absentéisme supérieur
+* Des conflits de travail
+* Des frais d’assurance importants
+* Une décroissance de la performance
 
-Mes spécialités traditionnelles d’affaires sont :
+Plusieurs entreprises ont mis en place différents programmes pour mieux supporter leurs employés et elles sont souvent déçues de la performance de ces programmes. Il est important de prendre en considération qu’un changement de culture vers le mieux-être des employés demande une implication de ceux-ci mais aussi de la haute direction et des gestionnaires.
 
-- La gestion de projet et le redressement de projets en difficulté
-- La gestion de portefeuille et l’implantation de meilleures pratiques
-- La gestion du changement et le support aux grandes transformations
-- La gestion et l’amélioration des processus d’affaires
-- L’implantation de centres d’excellence en gestion de projet et de processus
+Un état de bien-être et de santé est avant tout une question de :
+
+* Style de vie
+* « Mindset », état d’esprit
+* Environnement sécuritaire et supportant
+
+Nous vivons dans un monde qui défile en accéléré et où les employés doivent constamment apprendre de nouvelles choses et s’adapter. Ils ont besoin d’être bien outillés pour prendre soin de leur corps, leur esprit et leurs émotions pour avoir l’énergie nécessaire au maintien de la cadence sans épuisement. Nous vivons dans un monde de surinformation et de désinformation, stressant à lui seul. Fournir un environnement de travail sain qui inspire les bonnes habitudes de vie et l’équilibre aura un impact positif pour les employés et l’entreprise.
+
+J’offre un service complet d’évaluation des obstacles à la performance et au mieux-être en entreprise, par l’entremise d’un plan d’action établi pour atteindre la performance désirée. L’approche consiste à revoir les résultats actuels, étudier la dynamique du travail d’équipe et des relations humaines à l’intérieur de l’entreprise ainsi que la revue des méthodes de gestion au besoin.
+
+Mes dernières années dans le monde de la santé holistique me permettent d’offrir des formations et des services innovateurs tels que :
+
+* Le développement de culture responsable, pleine de vitalité et responsable
+* Le développement de leaders authentiques, humains et résilients
+* L’élaboration de[ programmes de mieux-être](https://cours.nancybilodeau.com/programmemieuxetre) visant la santé physique et mentale
+* Le coaching exécutif individuel et d’équipe
+* Le coaching d’équipe cohérente et agile
+* La gestion de l’égo
+* La gestion du stress
+* La gestion de l’énergie
+* La promotion d'une saine alimentation
+* Le design d’environnements de travail pro santé
+* L’élaboration de menus santé pour les cafétérias
+* Des ateliers de méditation hebdomadaires ou ponctuels
+* Plusieurs cours visant la prévention
+* [Des conférences motivantes pour prendre soin de soi](https://nancybilodeau.com/conference)
+* Des retraites complètement sur-mesure pour adresser un défi d’affaires ou de relations ou simplement pour prendre une pause et remercier le personnel
 
 [Prendre rendez-vous >](https://www.gorendezvous.com/homepage/111690)
 

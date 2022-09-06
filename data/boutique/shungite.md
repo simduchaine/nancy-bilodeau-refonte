@@ -7,6 +7,8 @@ categorie: Protection Ondes Nocives
 order: 5
 
 ---
+Voir plus bas pour des astuces sur l'hygiène électromagnétique.
+
 La Shungite est souvent applée "la pierre de la vie" en raison de ses propriétés cicatrisantes, anti oxydantes, antibactériennes, anti inflammatoires et antitoxiques. C’est une pierre rare et puissante dont l'âge est estimé à 2 milliards d'années. On la trouve seulement en Russie dans la région de Carélie. Elle est composée de Carbone 60 (fullerène), d’ou elle tire toute sa force. En 1991, le magazine Science a surnommé le fullerène – molécule de l’année. En Russie, cette pierre est utilisée dans certains hôpitaux ou l’on observe des temps de guérison plus court.
 
 Sa force la plus percutante est sa capacité à rétablir notre champ de torsion. Selon le chercheur Vlail Kaznatcheev, les rotations vers la droite favorise le vivant alors qu’un champ de torsion vers la gauche est nocif pour nos cellules. Les émissions d’ondes pulsées comme le WIFI et DECT génèrent un champ de torsion vers la gauche. Le port de la Shungite aide donc considérablement à maintenir notre énergie et à nous protéger de la force des champs de torsions opposées générés par les des technologies qui nous entourent.

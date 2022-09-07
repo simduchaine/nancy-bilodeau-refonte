@@ -41,7 +41,7 @@
 
 <page-query>
 query {
-  linkedin: allLinkedIn {
+  linkedin: allLinkedIn (filter: {affichage: {eq: "Services"}}) {
     edges {
       node {
         title

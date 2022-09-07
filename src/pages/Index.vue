@@ -57,7 +57,7 @@ query {
       }
     }
   },
-  linkedin: allLinkedIn {
+  linkedin: allLinkedIn (filter: {affichage: {eq: "Accueil"}}) {
     edges {
       node {
         title

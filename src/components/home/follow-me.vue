@@ -6,7 +6,7 @@
       <div class="column">
         <div class="card">
           <div class="card-image">
-            <!-- <g-image src="../../../uploads/young-smiling-man.jpg" height="410" width="650"></g-image> -->
+            <g-image :src="$static.home.card1.thumbnail" height="410" width="650"></g-image>
           </div>
           <div class="card-content has-text-centered">
             <h2 class="title" v-html="$static.home.card1.title"></h2>
@@ -18,7 +18,7 @@
       <div class="column">
         <div class="card">
           <div class="card-image">
-            <!-- <g-image src="../../../uploads/woman-coworkers.jpg" height="410" width="650"></g-image> -->
+            <g-image :src="$static.home.card2.thumbnail" height="410" width="650"></g-image>
           </div>
           <div class="card-content has-text-centered">
             <h2 class="title" v-html="$static.home.card2.title"></h2>
@@ -30,7 +30,7 @@
       <div class="column">
         <div class="card">
           <div class="card-image">
-            <!-- <g-image src="../../../uploads/happy-young.jpg" height="410" width="650"></g-image> -->
+            <g-image :src="$static.home.card3.thumbnail" height="410" width="650"></g-image>
           </div>
           <div class="card-content has-text-centered">
             <h2 class="title" v-html="$static.home.card3.title"></h2>
@@ -51,16 +51,19 @@ query {
       title
       link
       buttonText
+      thumbnail
     }
     card2 {
       title
       link
       buttonText
+      thumbnail
     }
     card3 {
       title
       link
       buttonText
+      thumbnail
     }
   }
 }

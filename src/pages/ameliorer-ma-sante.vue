@@ -9,15 +9,18 @@
         :arrows="true"
       >
         <div v-for="slide in $page.slides.edges" :key="slide.node.id">
-          <g-image class="hero-background is-transparent" :src="slide.node.backgroundImg"/>
+          <g-image
+            class="hero-background is-transparent"
+            :src="slide.node.backgroundImg"
+          />
           <div class="hero-body">
             <div class="container">
               <h1 class="title is-size-2">{{ slide.node.title }}</h1>
-              <h2 class="title is-size-3 is-family-primary">{{ slide.node.subtitle }}</h2>
+              <h2 class="title is-size-3 is-family-primary">
+                {{ slide.node.subtitle }}
+              </h2>
               <a :href="slide.node.buttonLink" class="button">
-                {{
-                slide.node.buttonText
-                }}
+                {{ slide.node.buttonText }}
               </a>
             </div>
           </div>
@@ -44,7 +47,10 @@
     </section>
 
     <section id="formations">
-      <formation class="has-background-info lead-content" style="margin-top: -10px"></formation>
+      <formation
+        class="has-background-info lead-content"
+        style="margin-top: -10px"
+      ></formation>
     </section>
 
     <section id="consultation">
@@ -52,7 +58,7 @@
     </section>
 
     <section id="articles" class="has-background-info">
-      <div class="container" style="padding:2.5rem;">
+      <div class="container" style="padding: 2.5rem">
         <h1 class="title has-text-centered">Mes articles préférés</h1>
         <div class="columns is-multiline">
           <articles
@@ -64,7 +70,44 @@
             class="column is-third"
           ></articles>
         </div>
-        <a href="/blogue/">Voir ma section blogue pour plus d’articles pour votre bien-être ></a>
+        <a href="/blogue/"
+          >Voir ma section blogue pour plus d’articles pour votre bien-être ></a
+        >
+      </div>
+    </section>
+
+    <section id="linkedIn">
+      <div class="container" style="padding: 3rem 0">
+        <h1 class="title is-size-5">Références</h1>
+        <hr />
+        <div
+          v-for="reference in $page.linkedin.edges"
+          :key="reference.node.id"
+          class="media"
+        >
+          <div class="media-left">
+            <figure class="image is-128x128">
+              <g-image class="is-rounded" :src="reference.node.photo"></g-image>
+            </figure>
+          </div>
+
+          <div class="media-content">
+            <div v-html="reference.node.content"></div>
+            <h2 class="title is-size-6 is-family-primary">
+              {{ reference.node.title }}
+              <span v-if="reference.node.company"
+                >, {{ reference.node.company }}</span
+              >
+            </h2>
+          </div>
+        </div>
+        <hr />
+        <p>
+          Pour plus de références, accédez à mon profile sur LinkedIn :
+          <a href="https://www.linkedin.com/in/nancybilodeau/"
+            >https://www.linkedin.com/in/nancybilodeau/</a
+          >
+        </p>
       </div>
     </section>
   </carousel-layout>
@@ -105,6 +148,16 @@
         id
       }
     }
+  },
+    linkedin: allLinkedIn (filter: {affichage: {eq: "Ameliorer Sante"}}) {
+    edges {
+      node {
+        title
+        photo (quality: 90)
+        company
+        content
+      }
+    }
   }
   }
 </page-query>
@@ -125,9 +178,13 @@ import "vue-slick-carousel/dist/vue-slick-carousel-theme.css";
 export default {
   metaInfo: {
     title: "Coaching et consultation holistique pour individus et entreprises",
-     meta: [
-      { name: 'description', content: "J'accompagne les individus à atteindre un mieux-être optimal et se réaliser. J'aide aussi les entreprises à atteindre leurs objectifs, gérer leurs projects, améliorer leur processus, réduire les conflits et établir un milieu de travail sain basé sur des valeurs universelles durables." },
-    ]
+    meta: [
+      {
+        name: "description",
+        content:
+          "J'accompagne les individus à atteindre un mieux-être optimal et se réaliser. J'aide aussi les entreprises à atteindre leurs objectifs, gérer leurs projects, améliorer leur processus, réduire les conflits et établir un milieu de travail sain basé sur des valeurs universelles durables.",
+      },
+    ],
   },
   components: {
     services,
@@ -293,7 +350,6 @@ blockquote {
     flex-direction: row-reverse;
     text-align: right;
   }
-
 }
 
 @media screen and (min-width: 768px) {

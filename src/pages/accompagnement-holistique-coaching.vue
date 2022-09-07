@@ -47,7 +47,7 @@ query {
     content
     thumbnail (quality: 90, height: 700)
   },
-  linkedin: allLinkedIn {
+  linkedin: allLinkedIn (filter: {affichage: {eq: "Coaching Individuel"}}) {
     edges {
       node {
         title

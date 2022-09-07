@@ -5,6 +5,11 @@ fields:
 - type: text
   name: title
   label: Titre
+- name: subtitle
+  type: text
+  config:
+    required: false
+  label: Sous-Titre
 - type: field_group
   name: card1
   label: Card 1

@@ -1,13 +1,13 @@
 <template>
-  <section class="hero is-primary is-medium has-background">
-    <g-image :src="$static.HeroImg.hero_image" />
+  <section class="hero is-primary is-medium">
+    <g-image :src="$static.HeroImg.hero_image" height="740"/>
   </section>
 </template>
 
 <static-query>
 query HeroImg {
   HeroImg: settings(path: "/data/site/") {
-    hero_image (width: 2545, height: 740, quality: 100)
+    hero_image (height: 740, quality: 100)
   }
 }
 </static-query>
@@ -18,5 +18,10 @@ export default {
 };
 </script>
 
-<style lang="scss">
+<style scoped lang="scss">
+.hero {
+  &.is-medium {
+  
+  }
+}
 </style>

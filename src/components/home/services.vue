@@ -9,7 +9,7 @@
                         <g-image :src="$static.home.card1.thumbnail" height="410" width="650"></g-image>
                     </div>
                     <div class="card-content has-text-centered">
-                        <g-link :to="$static.home.card1.link" class="button"><h2 class="title is-size-6" v-html="$static.home.card1.buttonText"></h2></g-link>
+                        <g-link :to="$static.home.card1.link" class="button" v-html="$static.home.card1.buttonText"></g-link>
                     </div>
                 </div>
             </div>
@@ -20,7 +20,7 @@
                         <g-image :src="$static.home.card2.thumbnail" height="410" width="650"></g-image>
                     </div>
                     <div class="card-content has-text-centered">
-                        <g-link :to="$static.home.card2.link" class="button"><h2 class="title is-size-6" v-html="$static.home.card2.buttonText"></h2></g-link>
+                        <g-link :to="$static.home.card2.link" class="button" v-html="$static.home.card2.buttonText"></g-link>
                     </div>
                 </div>
             </div>
@@ -31,7 +31,7 @@
                         <g-image :src="$static.home.card3.thumbnail" height="410" width="650"></g-image>
                     </div>
                     <div class="card-content has-text-centered">
-                        <g-link :to="$static.home.card3.link" class="button"> <h2 class="title is-size-6" v-html="$static.home.card3.buttonText"></h2></g-link>
+                        <g-link :to="$static.home.card3.link" class="button" v-html="$static.home.card3.buttonText"></g-link>
                     </div>
                 </div>
             </div>

@@ -1,6 +1,6 @@
 ---
 title: Supporter son entourage commence par soi!
-thumbnail: "/uploads/c-est-la-rentree.png"
+thumbnail: "/uploads/supporter-son-entourage-2560-x-1706-px.png"
 link: https://mailchi.mp/dc11f3e0c209/nouveau-site-nouveaux-services-encore-plus-holistique-789974
 order: 1
 sticky: false

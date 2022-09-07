@@ -40,6 +40,10 @@ fields:
 - type: boolean
   name: upcoming
   label: Upcoming?
+- name: featured
+  type: boolean
+  label: Sur l'accueil?
+  description: Pour mettre une retraite à la une sur l'accueil<br>(1 seule à la fois)
 pages:
 - data/retraites/deconnecter-pour-mieux-reconnecter.md
 - data/retraites/retraite-elever-sa-force-vitale-pour-mieux-vivre.md

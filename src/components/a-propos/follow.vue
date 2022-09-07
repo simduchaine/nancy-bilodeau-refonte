@@ -69,6 +69,6 @@
 
 <script>
 export default {
-  name: "Me Suivre",
+  name: "Follow",
 };
 </script>

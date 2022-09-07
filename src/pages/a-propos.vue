@@ -41,7 +41,7 @@
 
 <page-query>
   query {
-    data: allApropos(filter: { path: { nin: ["/data/a-propos/bio/", "/data/a-propos/lead/", "/data/a-propos/rendez-vous/", "/data/a-propos/consultation/"] }}, sortBy: "position", order: ASC) {
+    data: allApropos(filter: { path: { nin: ["/data/a-propos/bio/", "/data/a-propos/lead/", "/data/a-propos/rendez-vous/", "/data/a-propos/consultation/", "/data/a-propos/mission-vision/"] }}, sortBy: "position", order: ASC) {
       edges {
         node {
           title
@@ -56,13 +56,12 @@
 
 <script>
 import bio from "~/components/a-propos/bio";
-import Mission from "~/components/ameliorer-sante/Mission.vue";
+import Mission from "~/components/a-propos/mission-vision.vue";
 import lead from "~/components/a-propos/Lead.vue";
 import services from "~/components/a-propos/Services.vue";
 import rendezvous from "~/components/a-propos/rendez-vous.vue";
 import consultation from "~/components/a-propos/consultation.vue";
 import follow from "~/components/a-propos/follow.vue";
-import Follow from "../components/a-propos/follow.vue";
 
 export default {
   metaInfo: {

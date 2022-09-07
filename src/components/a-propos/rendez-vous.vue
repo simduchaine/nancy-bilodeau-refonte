@@ -5,12 +5,10 @@
         <div class="column is-full">
           <h1 v-html="$static.apropos.title" class="title"></h1>
         </div>
-        <div class="column is-half" v-html="$static.apropos.content"></div>
+        <div class="column is-half" v-html="$static.apropos.texte"></div>
         <div class="column"></div>
         <div class="column is-one-third is-italic">
-          <ul>
-            <li v-for="(item, index) in $static.apropos.liste" :key="index">{{ item }}</li>
-          </ul>
+          <div v-html="$static.apropos.content"></div>
         </div>
       </div>
     </div>
@@ -21,7 +19,7 @@
 query {
   apropos(path: "/data/a-propos/rendez-vous/") {
     title
-    liste
+    texte
     content
   }
 }

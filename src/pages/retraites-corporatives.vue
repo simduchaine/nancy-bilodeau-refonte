@@ -648,7 +648,7 @@ import "vue-slick-carousel/dist/vue-slick-carousel-theme.css";
 
 export default {
   metaInfo: {
-    title: "Retraites Personnalisées",
+    title: "Retraites Corporatives",
   },
   components: { VueSlickCarousel },
 };

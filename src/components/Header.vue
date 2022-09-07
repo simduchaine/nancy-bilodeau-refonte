@@ -95,8 +95,8 @@
                   to="/transformation-organisationnelle"
                   >Transformation organisationnelle</g-link
                 >
-                <g-link class="navbar-item" to="/retraites-personalisee"
-                  >Retraite personnalisée</g-link
+                <g-link class="navbar-item" to="/retraites-corporatives"
+                  >Retraites corporatives</g-link
                 >
                 <g-link class="navbar-item" to="/formations">Formations</g-link>
                 <g-link class="navbar-item" to="/conferences"

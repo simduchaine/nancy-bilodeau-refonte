@@ -12,7 +12,7 @@
           >
             <div class="card">
               <div class="card-image">
-                <g-image :src="article.node.thumbnail" height="410" width="650"></g-image>
+                <g-image :src="article.node.thumbnail" height="1706" width="2560"></g-image>
               </div>
               <div class="card-content">
                 <h2 class="title is-6">{{article.node.title}}</h2>
@@ -36,7 +36,7 @@ query Articles {
         id
         content
         path
-        thumbnail (quality: 90, width: 678, height: 410)
+        thumbnail (quality: 100)
         link
       }
     }

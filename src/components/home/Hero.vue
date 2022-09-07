@@ -7,7 +7,7 @@
 <static-query>
 query HeroImg {
   HeroImg: settings(path: "/data/site/") {
-    hero_image (width: 2560, height: 1707, quality: 100)
+    hero_image (width: 2545, height: 740, quality: 100)
   }
 }
 </static-query>

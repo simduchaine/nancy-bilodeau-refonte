@@ -1,8 +1,15 @@
 <template>
   <div class="has-background-info">
-    <featuredImage :image="$static.outils.thumbnail" :title="$static.outils.title"></featuredImage>
+    <featuredImage
+      :image="$static.outils.thumbnail"
+      :title="$static.outils.title"
+    ></featuredImage>
     <!---<g-image class="header-img" :src="$static.soins.thumbnail"></g-image> -->
-    <div class="container" v-html="$static.outils.content" style="padding-top: 2rem;"></div>
+    <div
+      class="container"
+      v-html="$static.outils.content"
+      style="padding-top: 2rem"
+    ></div>
   </div>
 </template>
 
@@ -11,7 +18,7 @@ query {
   outils(path: "/outils/services/") {
     title
     content
-    thumbnail (quality: 90, height: 700)
+    thumbnail (quality: 90, height: 750)
   }
 }
 </static-query>
@@ -22,7 +29,7 @@ import featuredImage from "~/components/featuredImage";
 export default {
   name: "intro",
   components: {
-    featuredImage
-  }
+    featuredImage,
+  },
 };
 </script>

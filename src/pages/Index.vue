@@ -1,38 +1,8 @@
 <template>
   <home-layout>
-
-    <section id="featured-in" class="container">
-      <div class="columns pt-5">
-        <div class="column has-text-centered">
-          <h2 class="subtitle is-6">Présente sur</h2>
-        </div>
-      </div>
-      <div class="columns is-vcentered">
-        <div class="column">
-          <a href="https://www.lesaffaires.com/auteur/nancy-bilodeau/2403">
-            <g-image src="../../uploads/les-affaires-logo.png"></g-image>
-          </a>
-        </div>
-        <div class="column">
-          <a href="https://www.journalactionpme.com/author/nancy-bilodeau/">
-            <g-image src="../../uploads/japme-logo.png"></g-image>
-          </a>
-        </div>
-        <div class="column">
-          <g-image src="../../uploads/Logo-Mindset-entrepreneur.jpg"></g-image>
-        </div>
-        <div class="column">
-          <g-image src="../../uploads/spa-eastman-logo.png"></g-image>
-        </div>
-        <div class="column">
-          <g-image src="../../uploads/monastere-augustine-logo.png"></g-image>
-        </div>
-        <div class="column">
-          <a href="https://www.magazinevivre.com/">
-            <g-image src="../../uploads/mag-vivre-logo.png"></g-image>
-          </a>
-        </div>
-      </div>
+    
+    <section id="featured-in">
+      <featuredIn></featuredIn>
     </section>
 
     <section id="Magnet" style="background-color:#f1f0f0">
@@ -51,59 +21,16 @@
       <call-action></call-action>
     </section>
 
-    <section id="video">
-      <video-section class="has-background-info lead-content" style="margin-top: -10px"></video-section>
+    <section id="video" class="has-background-info lead-content" style="margin-top: -10px">
+      <video-section></video-section>
     </section>
 
     <section id="testimonials" class="container lead-content">
-      <div class="has-text-centered pb-5">
-        <h2 class="title">Témoignages</h2>
-      </div>
-      <VueSlickCarousel :dots="true" :autoplay="true" :autoplaySpeed="5000" :arrows="false" :centerMode="true">
-        <div v-for="testimonial in $page.linkedin.edges" :key="testimonial.node.id">
-          <div class="card m-2">
-            <div class="card-content">
-              <div class="media">
-                <div class="media-left">
-                  <figure class="image is-128x128">
-                    <g-image class="is-rounded" :src="testimonial.node.photo"></g-image>
-                  </figure>
-                </div>
-                <div class="media-content">
-                  <div class="title is-4">{{ testimonial.node.title }}</div>
-                  <div class="subtitle is-6">{{ testimonial.node.company }}</div>
-                </div>
-              </div>
-
-              <div class="content" v-html="testimonial.node.content"></div>
-
-            </div>
-          </div>
-        </div>
-      </VueSlickCarousel>
+      <testimonials></testimonials>
     </section>
 
     <section id="Formation" style="background-color:#f1f0f0">
-      <div class="container lead-content">
-        <div class="columns is-three-quarters has-text-centered">
-          <div class="column">
-            <h1 class="title">PROCHAINE ACTIVITÉ OUVERTE À TOUS</h1>
-            <h2 class="subtitle is-7">POUR VIVRE DES EXPÉRIENCES TRANSFORMATRICES QUI NOUS PERMETTENT D’INCARNER LE
-              MONDE
-              DANS LEQUEL ON SOUHAITE VIVRE.</h2>
-          </div>
-        </div>
-        <div v-for="edge in $page.formations.edges" :key="edge.node.id" class="columns is-vcentered">
-          <div class="column">
-            <g-image :src="edge.node.thumbnail"></g-image>
-          </div>
-          <div class="column">
-            <h2 class="pb-2">{{ edge.node.title }}</h2>
-            <p v-html="edge.node.content"></p>
-            <a :href="edge.node.link" class="button" target="blank">Voir la formation</a>
-          </div>
-        </div>
-      </div>
+      <formation></formation>
     </section>
 
     <section id="follow" class="lead-content">
@@ -152,10 +79,9 @@ import Magnet from "~/components/home/Magnet.vue";
 import services from "~/components/home/services.vue";
 import FollowMe from "~/components/home/follow-me.vue";
 import BottomAnchor from '~/components/home/bottom-anchor.vue';
-
-import VueSlickCarousel from "vue-slick-carousel";
-import "vue-slick-carousel/dist/vue-slick-carousel.css";
-import "vue-slick-carousel/dist/vue-slick-carousel-theme.css";
+import formation from '~/components/home/formation.vue';
+import testimonials from '~/components/home/testimonials.vue';
+import featuredIn from '~/components/home/featured-in.vue'
 
 
 export default {
@@ -175,10 +101,12 @@ export default {
     callAction,
     videoSection,
     Magnet,
-    VueSlickCarousel,
     services,
     FollowMe,
-    BottomAnchor
+    BottomAnchor,
+    formation,
+    testimonials,
+    featuredIn
   },
 };
 </script>

@@ -1,17 +1,15 @@
 <template>
     <div class="container">
-        <h1 class="title has-text-centered">Plus d’énergie… plus de joie… plus de possibilités !</h1>
+        <h1 class="title is-size-5 has-text-centered" v-html="$static.home.title"></h1>
         <div class="columns">
 
             <div class="column">
                 <div class="card">
                     <div class="card-image">
-                        <g-image src="../../../uploads/young-smiling-man.jpg" height="410" width="650"></g-image>
+                        <g-image :src="$static.home.card1.thumbnail" height="410" width="650"></g-image>
                     </div>
                     <div class="card-content has-text-centered">
-                        <h2 class="title ">Pour toi</h2>
-                        <g-link to="/ameliorer-ma-sante" class="button">En apprendre davantage</g-link>
-                        <!-- modifier le lien pour page perso coaching -->
+                        <g-link :to="$static.home.card1.link" class="button"><h2 class="title is-size-6" v-html="$static.home.card1.buttonText"></h2></g-link>
                     </div>
                 </div>
             </div>
@@ -19,11 +17,10 @@
             <div class="column">
                 <div class="card">
                     <div class="card-image">
-                        <g-image src="../../../uploads/woman-coworkers.jpg" height="410" width="650"></g-image>
+                        <g-image :src="$static.home.card2.thumbnail" height="410" width="650"></g-image>
                     </div>
                     <div class="card-content has-text-centered">
-                        <h2 class="title">Pour ton entreprise</h2>
-                        <g-link to="/transformation-organisationnelle" class="button">En apprendre davantage</g-link>
+                        <g-link :to="$static.home.card2.link" class="button"><h2 class="title is-size-6" v-html="$static.home.card2.buttonText"></h2></g-link>
                     </div>
                 </div>
             </div>
@@ -31,11 +28,10 @@
             <div class="column">
                 <div class="card">
                     <div class="card-image">
-                        <g-image src="../../../uploads/happy-young.jpg" height="410" width="650"></g-image>
+                        <g-image :src="$static.home.card3.thumbnail" height="410" width="650"></g-image>
                     </div>
                     <div class="card-content has-text-centered">
-                        <h2 class="title">Pour ton équipe</h2>
-                        <g-link to="/accompagnement-holistique-coaching" class="button">En apprendre davantage</g-link>
+                        <g-link :to="$static.home.card3.link" class="button"> <h2 class="title is-size-6" v-html="$static.home.card3.buttonText"></h2></g-link>
                     </div>
                 </div>
             </div>
@@ -43,6 +39,29 @@
         </div>
     </div>
 </template>
+
+<static-query>
+query {
+  home(path: "/data/home/services/") {
+    title
+    card1 {
+      link
+      buttonText
+      thumbnail
+    }
+    card2 {
+      link
+      buttonText
+      thumbnail
+    }
+    card3 {
+      link
+      buttonText
+      thumbnail
+    }
+  }
+}
+</static-query>
 
 <script>
 export default {

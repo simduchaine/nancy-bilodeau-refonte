@@ -5,10 +5,9 @@
         class="parallax-effect top hero is-medium is-dark"
         style="background-image: url('/img/Care-plus.png')"
       >
-        <div class="hero-body">
-          <h1 class="has-text-centered title is-family-primary is-size-2">
-            Un monde vibrant Où chacun vibre son plein potentiel
-          </h1>
+        <div class="hero-body has-text-centered">
+          <h1 class="title is-family-primary is-size-2">Un monde vibrant!</h1>
+          <h2 class="title">Où chacun vibre son plein potentiel</h2>
         </div>
       </div>
 

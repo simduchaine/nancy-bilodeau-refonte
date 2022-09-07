@@ -3,7 +3,7 @@ title: Êtes-vous heureux ?
 thumbnail: "/uploads/911d335d46b14b57ed4dffc36e9cc1f2.jpg"
 link: https://www.lesaffaires.com/blogues/nancy-bilodeau/etes-vous-heureux/632571
 order: 
-sticky: false
+sticky: true
 sticky_transfo: false
 
 ---

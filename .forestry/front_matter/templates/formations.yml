@@ -22,11 +22,6 @@ fields:
   name: link
   label: Lien url
   hidden: false
-- name: featured
-  type: boolean
-  label: Featured (Home)
-  description: Pour mettre une conférence à la une sur l'accueil (1 seule conférence
-    à la fois)
 pages:
 - data/conference-midi/bienfait-jus.md
 - data/conference-midi/boite-a-lunch-vitalite.md

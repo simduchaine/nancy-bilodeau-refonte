@@ -72,7 +72,7 @@
 
 <page-query>
   query {
-    data: allServices(filter: { path: { nin: ["/data/ameliorer-sante/formations/", "/data/ameliorer-sante/lead/", "/data/ameliorer-sante/consultation/", "/data/ameliorer-sante/featured-articles/", "/data/ameliorer-sante/magnet/"] }}, sortBy: "position", order: ASC) {
+    data: allServices(filter: { path: { nin: ["/data/ameliorer-sante/formations/", "/data/ameliorer-sante/lead/", "/data/ameliorer-sante/consultation/", "/data/ameliorer-sante/featured-articles/", "/data/ameliorer-sante/magnet/", "/data/ameliorer-sante/mission-vision/"] }}, sortBy: "position", order: ASC) {
       edges {
         node {
           title

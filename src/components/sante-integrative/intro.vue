@@ -18,7 +18,7 @@ query {
   outils(path: "/outils/services/") {
     title
     content
-    thumbnail (quality: 90, height: 750)
+    thumbnail (quality: 90, height: 740)
   }
 }
 </static-query>

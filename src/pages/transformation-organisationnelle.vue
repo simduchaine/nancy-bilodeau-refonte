@@ -73,7 +73,7 @@
 
 <page-query>
 query Articles {
-  articles: allArticles (filter: {sticky: {eq: true}}) {
+  articles: allArticles (filter: {sticky_transfo: {eq: true}}) {
     edges {
       node {
         title

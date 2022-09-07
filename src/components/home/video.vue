@@ -12,24 +12,8 @@
     <div class="columns">
       <div class="column is-three-fifths">
         <div style="width: 100%; margin: 0 auto">
-          <div
-            style="
-              position: relative;
-              padding-bottom: 56.25%;
-              padding-top: 25px;
-              height: 0;
-            "
-          >
-            <iframe
-              style="
-                position: absolute;
-                top: 0;
-                left: 0;
-                width: 100%;
-                height: 100%;
-              "
-              :src="$static.home.video"
-            ></iframe>
+          <div style="position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;">
+            <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" :src="$static.home.video"></iframe>
           </div>
         </div>
       </div>

@@ -1,7 +1,7 @@
 ---
 title: La science du bonheur
 id: bienfait-jus
-thumbnail: "/uploads/science-du-bonheur.png"
+thumbnail: "/uploads/science-du-bonheur-2.png"
 link: "#"
 order: 
 featured: false

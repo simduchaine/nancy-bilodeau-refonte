@@ -55,3 +55,4 @@ fields:
     default: "/uploads/placeholder-image.png"
 pages:
 - data/home/follow-me.md
+- data/home/services.md

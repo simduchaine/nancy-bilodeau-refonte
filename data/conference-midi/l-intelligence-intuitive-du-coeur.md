@@ -1,5 +1,5 @@
 ---
-order: 
+order: 6
 title: L'intelligence intuitive du coeur
 thumbnail: "/uploads/intelligence-intuitive-du-coeur.png"
 link: "#"

@@ -3,7 +3,7 @@ title: Sagesse ancestrale et science moderne du mieux-être
 id: coherence-cardiaque
 thumbnail: "/uploads/sagesse-ancestrale.png"
 link: "#"
-order: 
+order: 4
 featured: false
 
 ---

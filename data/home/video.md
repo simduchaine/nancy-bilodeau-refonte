@@ -6,6 +6,6 @@ subtitle: NANCY BILODEAU COMBINE 25 ANS D’EXPÉRIENCE D’AFFAIRES ET 10 ANS E
 video: https://www.youtube.com/embed/zGJXixfEwkQ
 
 ---
-Mon manque de connaissance des bonnes pratiques pour prendre soin de ma santé mon rapidement mené vers deux épuisements professionnels suivie d’une longue période de fatigue chronique qui m’ont forcé à quitter le milieu corporatif que j’aimais tant. Nos cultures de performance ont cette tendance à nous faire mettre au second plan. Pourtant les entreprises qui verront à créer des cultures plus équilibrées et collaboratrices retireront de nombreux bienfaits tant au niveau de la réduction des coûts d’assurance, la réduction du taux de roulement, l’amélioration de la créativité et bien entendu des retombées économiques.
+Avant 2012, mon manque de connaissance des bonnes pratiques pour prendre soin de ma santé m’avait rapidement menée vers deux épuisements professionnels suivis d’une longue période de fatigue chronique qui m’ont forcé à quitter le milieu corporatif que j’adorais. Nos cultures de performance ont cette tendance à nous faire mettre au second plan. Pourtant, les entreprises qui verront à créer des cultures plus équilibrées, conscientes et collaboratrices retireront de nombreux bienfaits tant au niveau de la réduction des coûts d’assurance, de la réduction du taux de roulement, de l’amélioration de la créativité et bien entendu de meilleurs résultats financiers.
 
 <a class="button" href="/a-propos">Voir la bio complète de Nancy</a>

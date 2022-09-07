@@ -16,6 +16,22 @@ fields:
   config:
     maxSize: 64
   label: Photo
+- name: affichage
+  type: select
+  default: Accueil
+  config:
+    required: false
+    options:
+    - Accueil
+    - Coaching Individuel
+    - Transformation Org.
+    - Ameliorer Sante
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Affichage
 pages:
 - data/linkedIn/alexandre-fausse.md
 - data/linkedIn/andre-amyot.md

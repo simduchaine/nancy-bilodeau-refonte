@@ -1,0 +1,46 @@
+---
+label: 3 columns cards
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: field_group
+  name: card1
+  label: card1
+  fields:
+  - type: text
+    name: buttonText
+    label: buttonText
+  - type: text
+    name: link
+    label: link
+  - type: file
+    name: thumbnail
+    label: thumbnail
+- type: field_group
+  name: card2
+  label: card2
+  fields:
+  - type: text
+    name: buttonText
+    label: buttonText
+  - type: text
+    name: link
+    label: link
+  - type: file
+    name: thumbnail
+    label: thumbnail
+- type: field_group
+  name: card3
+  label: card3
+  fields:
+  - type: text
+    name: buttonText
+    label: buttonText
+  - type: text
+    name: link
+    label: link
+  - type: file
+    name: thumbnail
+    label: thumbnail

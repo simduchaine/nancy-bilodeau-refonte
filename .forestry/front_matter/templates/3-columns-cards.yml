@@ -4,43 +4,52 @@ hide_body: true
 fields:
 - type: text
   name: title
-  label: title
+  label: Titre
 - type: field_group
   name: card1
-  label: card1
+  label: Card 1
   fields:
   - type: text
     name: buttonText
-    label: buttonText
+    label: Texte Button
+    default: Lorem Ipsum
   - type: text
     name: link
-    label: link
+    label: Lien URL
+    default: "#"
   - type: file
     name: thumbnail
-    label: thumbnail
+    label: Image
+    default: "/uploads/placeholder-image.png"
 - type: field_group
   name: card2
-  label: card2
+  label: Card 2
   fields:
   - type: text
     name: buttonText
-    label: buttonText
+    label: Texte Button
+    default: Lorem Ipsum
   - type: text
     name: link
-    label: link
+    label: Lien URL
+    default: "#"
   - type: file
     name: thumbnail
-    label: thumbnail
+    label: Image
+    default: "/uploads/placeholder-image.png"
 - type: field_group
   name: card3
-  label: card3
+  label: Card 3
   fields:
   - type: text
     name: buttonText
-    label: buttonText
+    label: Texte Button
+    default: Lorem Ipsum
   - type: text
     name: link
-    label: link
+    label: Lien URL
+    default: "#"
   - type: file
     name: thumbnail
-    label: thumbnail
+    label: Image
+    default: "/uploads/placeholder-image.png"

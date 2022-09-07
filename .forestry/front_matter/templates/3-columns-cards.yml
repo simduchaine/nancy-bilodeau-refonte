@@ -53,3 +53,5 @@ fields:
     name: thumbnail
     label: Image
     default: "/uploads/placeholder-image.png"
+pages:
+- data/home/follow-me.md

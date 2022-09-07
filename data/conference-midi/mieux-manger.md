@@ -1,7 +1,7 @@
 ---
 title: Manger pour exceller
 id: mieux-manger
-thumbnail: "/uploads/bigstock-Diet-Woman-compressed.jpg"
+thumbnail: "/uploads/manger-pour-exceller.png"
 link: "#"
 order: 
 featured: false

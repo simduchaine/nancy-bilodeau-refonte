@@ -46,7 +46,7 @@
 
 <page-query>
 query {
-  formations: allFormations(filter: {featured: {eq: true}}) {
+  retraites: allRetraites(filter: {featured: {eq: true}}) {
     edges {
       node {
         id

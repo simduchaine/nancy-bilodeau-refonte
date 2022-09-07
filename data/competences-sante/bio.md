@@ -2,8 +2,8 @@
 id: bio
 title: Mes compétences en santé et mieux-être
 thumbnail: "/uploads/8bf1b7f2-ad07-4a14-8670-456efe563498_1_201_a.jpeg"
-thumbnail2: "/uploads/nancy.png"
-thumbnail3: "/uploads/nancy_famille.jpg"
+thumbnail2: ''
+thumbnail3: ''
 cv:
 - Maitrise en Gestion des Affaires (MBA), Keller Graduate School of Management, 2005
 - Baccalauréat en Administration des Affaires, University de Sherbrooke, 1994
@@ -25,20 +25,20 @@ mission: Accompagner les gens et les entreprises à être + en santé et + heure
 cv_link: "/uploads/Bilodeau_Nancy_CV_Court.pdf"
 
 ---
-J'ai 48 ans et tout un parcours de vie. Née au Québec, je suis détentrice d’un Baccalauréat en affaire de l’[Université de Sherbrooke](https://www.usherbrooke.ca/) et d’un MBA de l’[Université Keller Graduate School of Management](https://www.keller.edu/) des Etats-Unis. J'ai vécu 12 ans aux États Unis et ai travaillé dans plusieurs industries, tant pour des grandes, des moyennes que des petites entreprises. Plus d’information sur mon parcours professionnel est disponible sur mon profil [LinkedIn](https://www.linkedin.com/in/nancybilodeau/).
+J'ai fondé le Centre Holistique Om Prana en 2013. Situé sur la rue St-Joseph en plein cœur du cartier St-Roch à Québec, le Centre offrait un restaurant végan et crudivore, un studio de yoga et de méditation, une épicerie santé et plusieurs cours de cuisine, d’aide à la santé et de développement personnel. Durant les trois années d’opération, j’ai enseigné de nombreux cours de yoga et j'ai offert des cures de détox à plus de 200 personnes. Les témoignages abondent de gens qui ont retrouvé leur énergie et leur joie de vivre, diminué leurs douleurs corporelles et augmenté leur clarté d’esprit.
 
-J'ai pris le chemin de la recherche pour la santé globale en 2007. D’abord aux prises avec des problèmes de sommeil et d’anxiété importants, j'ai découvert les bienfaits du yoga, de la méditation et des techniques de respiration. Je suis devenue professeure de yoga en 2009 et, par la suite, de techniques de respiration avancées.
+J'ai pu approfondir mes connaissances en complétant les formations d'accompagnatrice en santé holistique à l’Institut Hippocrate, de conseillère en nutrition de [l’Institut Médical de Sanoviv](http://www.sanoviv.com/) et de Reiki, tout en continuant d’enseigner et d’élargir mes connaissances du yoga, de la méditation et de la respiration avec L’art de Vivre, Deepak Chopra et Kripalu.
 
-En 2012, alors directrice de projets chez Sears Holdings Corporation aux États-Unis et très bien adaptée à notre système de consommation et de performance, je me vois dans l’obligation de prendre une pause pour trouver l’objet de mon manque d’énergie. Retrouvant tous mes moyens à la suite de la cure d’alimentation vivante de [Karyn Calabrese](https://karynraw.com/), je décide de me réorienter au service du mieux-être de tous.
+En 2016, travaillant de trop longues heures, j’ai décidé de m’éloigner du domaine de la restauration et de faire un retour dans le milieu des affaires pour y appliquer tous mes acquis individuels en milieu de travail.
 
-J'ai fondé en 2013 le Centre Holistique Om Prana alors situé sur la rue St-Joseph à Québec. Le Centre offrait un restaurant végane et cru avec un studio de yoga et de méditation, une épicerie santé et plusieurs cours de cuisine, de santé et de développement personnel. Au cours des trois années d’opération, j'ai offert des cures de détox à plus de 200 personnes. Les témoignages abondent de gens qui ont retrouvé leur énergie et leur joie de vivre, diminué la progression de maladies dégénératives, augmenté la clarté de leur esprit et encore plus. J'ai pu approfondir mes connaissances en complétant les formations d'accompagnatrice holistique à [L’Institut Hippocrates](https://hippocratesinst.org/), de conseillère en nutrition de [l’Institut Médical de Sanoviv](http://www.sanoviv.com/) et de Reiki, tout en continuant d’enseigner et d’élargir mes connaissances du yoga, de la méditation et des respirations avec L’art de Vivre, Deepak Chopra et Kripalu.
+L’expérience fut des plus enrichissantes. Le mieux-être des individus se reflète rapidement sur la performance des équipes. Au fil du temps, il est devenu clair pour moi que je souhaitais me concentrer sur la santé et le mieux-être au sein des entreprises.
 
-En 2016, je décide de m’éloigner de la restauration et de faire un retour dans le milieu des affaires pour y appliquer tous mes acquis individuels en milieu de travail. L’expérience est des plus enrichissantes. Le mieux-être des individus se reflète rapidement sur la performance des équipes. Au fil de l’expérience, il devient clair pour moi que je souhaite me concentrer sur cette dimension du mieux-être autant pour les individus qu'au sein des entreprises.
+J’ai donc démarré Nancy Bilodeau Inc. à la fin 2019, avec le rêve de créer des environnements de travail stimulants qui favorisent la santé et le mieux-être. Beaucoup de milieux de travail sont présentement toxiques, soit par leur culture de performance extrême ou encore par les dysfonctions de leurs équipes.
 
-> Je crois ardemment que c'est en aidant les individus à retrouver la joie de vivre en se libérant de leur souffrance et en se reconnectant à leur essence qu’on contribue au bien-être global de tous. Nous sommes tous ici pour nous réaliser et être heureux. Les blocages et déséquilibres sont seulement des guides pour nous aider à trouver notre chemin.
+J’ai l’impression que tout mon parcours me destinait à faire ceci. Depuis, je continue d’élargir mes compétences dans les différentes sphères qui contribuent au mieux-être, tout en restant à la fine pointe des développements en matière de gestion des ressources humaines et de transformation d’entreprise.
 
-En décembre 2018 j'ai complété la certification de praticienne neuro-sensoriel [PEACE](http://stephanedrouet.com/) et, en 2019, je suis aussi devenue praticienne en cosmoénergie.
+L’énergie, le « mindset » et les neurosciences me fascinent. Je suis fière d’être aussi certifiée de la SICPNL, de NES Health et de Bio-Well, et d’avoir complété ma formation MBSR avec Mindful Leader.
 
-En début 2020, je devenais Coach Certifié de la [SICPNL](https://sicpnl.org).
+> _Je crois ardemment que c'est en aidant les individus à retrouver leur joie de vivre, en se libérant de leur souffrance et en se reconnectant à leur essence, qu’on contribue au bien-être global de tous. Nous sommes tous ici pour nous réaliser pleinement et être heureux. Les blocages et déséquilibres sont seulement des guides pour nous aider à trouver notre chemin._
 
-Au plaisir de vous rencontrer et vous accompagner !
+Namaste !

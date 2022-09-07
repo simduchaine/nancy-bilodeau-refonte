@@ -2,6 +2,7 @@
 id: inspirations
 title: Inspirations
 sante:
+- Dr. Dean Ornish
 - Dr. Mark Hyman
 - Dr. Wendy Myers
 - Dr. Richard J. Davidson
@@ -45,11 +46,12 @@ affaires:
 - Emma Seppala
 - Jack Welch
 - Peter Drucker
-- Kotter
+- John P. Kotter
 - Ken Blanchard
 - Spencer Johnson
 - Jim Collins
 documentaires:
+- Derrière nos écrans de fumée
 - Game Changer
 - La face cachée de la viande
 - Vegan 2018, 2017, 2016
@@ -63,6 +65,7 @@ documentaires:
 - That Sugar Movie
 - Food Matters
 - What the Health
+- What the Bleep do we know?
 - Food Inc.
 
 ---

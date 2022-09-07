@@ -5,8 +5,11 @@ thumbnail: "/uploads/8bf1b7f2-ad07-4a14-8670-456efe563498_1_201_a.jpeg"
 thumbnail2: ''
 thumbnail3: ''
 cv:
-- Maitrise en Gestion des Affaires (MBA), Keller Graduate School of Management, 2005
-- Baccalauréat en Administration des Affaires, University de Sherbrooke, 1994
+- Neurosciences for Business, MIT Sloan, 2022
+- Praticienne Certifiée Bio-well, 2022
+- Praticienne Certifiée NES Health, 2021
+- Mindfulness-Based Stress Reduction (MBSR), 2021
+- Coach Certifiée de la SICPLN depuis 2020
 - Coach en Cohérence Cardiaque, Heart Math Institute, 2019
 - Coach en Santé Holistique, Institut de Santé Hippocrate, 2015
 - Pratique Cosmoénergie, 2019

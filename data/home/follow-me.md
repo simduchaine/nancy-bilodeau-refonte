@@ -1,5 +1,5 @@
 ---
-title: Pour me suivre...
+title: POUR ME SUIVRE...
 subtitle: Découvrez des astuces pour prendre soin de vous, vos équipes et votre entreprise.
 card1:
   title: Lire

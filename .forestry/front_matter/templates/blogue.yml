@@ -6,10 +6,6 @@ fields:
   name: title
   label: Titre
   description: Titre de l'article
-- type: text
-  name: id
-  label: id
-  hidden: true
 - type: file
   name: thumbnail
   label: thumbnail
@@ -23,7 +19,10 @@ fields:
   description: Ordre de parution dans la page
 - name: sticky
   type: boolean
-  label: A la une?
+  label: A la une? (Ameliorer sante)
+- name: sticky_transfo
+  type: boolean
+  label: A la une? (Transfo. Organisationnelle)
 pages:
 - data/articles/amelioration-des-processus-et-covid-19.md
 - data/articles/est-ce-que-vos-pensées-vous-supportent.md

@@ -2,8 +2,8 @@
 id: bio
 title: Mes compétences en santé et mieux-être
 thumbnail: "/uploads/8bf1b7f2-ad07-4a14-8670-456efe563498_1_201_a.jpeg"
-thumbnail2: ''
-thumbnail3: ''
+thumbnail2: "/uploads/nancy_famille.jpg"
+thumbnail3: "/uploads/nancy.png"
 cv:
 - Neurosciences for Business, MIT Sloan, 2022
 - Praticienne Certifiée Bio-well, 2022

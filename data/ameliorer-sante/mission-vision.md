@@ -1,8 +1,10 @@
 ---
-Mission: 
-    title: Ma mission
-    content: Accompagner les gens et les entreprises à être + en santé et + heureux pour mieux se réaliser.
+Mission:
+  title: Félicitations!
+  content: Si tu es ici c’est que tu cherches des solutions pour aller mieux ou vivre
+    une vie encore plus vibrante!
 Vision:
-    title: Ma vision
-    content: Un monde en santé et heureux!
+  title: Ma vision
+  content: Un monde en santé et heureux!
+
 ---

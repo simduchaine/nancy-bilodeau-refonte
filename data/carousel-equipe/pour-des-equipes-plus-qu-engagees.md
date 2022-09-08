@@ -1,5 +1,5 @@
 ---
-order: 6
+order: 1
 title: Pour des équipes plus qu’engagées
 subtitle: Qui vous mèneront vers vos objectifs de façon autonome
 backgroundImg: "/uploads/acceuil-corpo-slide2.jpg"

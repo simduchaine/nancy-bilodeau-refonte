@@ -20,3 +20,5 @@ fields:
 - type: text
   name: buttonLink
   label: Lien du bouton
+pages:
+- data/carousel-equipe/pour-des-equipes-plus-qu-engagees.md

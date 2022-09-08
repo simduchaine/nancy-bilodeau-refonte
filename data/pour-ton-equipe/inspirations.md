@@ -1,8 +1,8 @@
 ---
 title: Mes inspirations favorites
-subtitle:
+subtitle: ''
 link_text: Consulter mon blogue sur Les Affaires pour découvrir mon style >
-link: /blogue
+link: "/blogue"
 card1:
   title: Neuroscience in Business (MIT)
   link: "/blogue"

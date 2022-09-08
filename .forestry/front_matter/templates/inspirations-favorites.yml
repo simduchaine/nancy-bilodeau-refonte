@@ -61,3 +61,5 @@ fields:
     name: thumbnail
     label: Image
     default: "/uploads/placeholder-image.png"
+pages:
+- data/pour-ton-equipe/inspirations.md

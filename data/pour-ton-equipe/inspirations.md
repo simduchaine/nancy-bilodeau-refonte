@@ -5,7 +5,7 @@ link_text: Consulter mon blogue sur Les Affaires pour découvrir mon style >
 link: "/blogue"
 card1:
   title: Neuroscience in Business (MIT)
-  link: "/blogue"
+  link: https://www.youtube.com/watch?v=qKro4lVjDA0
   thumbnail: "/uploads/neuroscience-in-business.png"
 card2:
   title: Les 5 dysfonctions d’une équipe

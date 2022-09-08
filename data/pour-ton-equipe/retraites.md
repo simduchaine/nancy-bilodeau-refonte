@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/soins.jpg"
+thumbnail: "/uploads/retraite-francaise.png"
 title: Retraites
 position: 3
 

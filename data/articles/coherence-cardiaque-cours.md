@@ -1,6 +1,6 @@
 ---
 title: Se mettre en cohérence
-thumbnail: "/uploads/se-mettre-en-coherence.jpg"
+thumbnail: "/uploads/se-mettre-en-coherence.png"
 link: https://cours.nancybilodeau.com/coherence-cardiaque
 order: 8
 sticky: false

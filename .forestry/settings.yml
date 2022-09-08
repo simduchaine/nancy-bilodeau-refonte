@@ -110,7 +110,19 @@ sections:
   - content-only
 - type: document
   path: data/pages/coaching.md
-  label: Coaching Individuel et équipe
+  label: Coaching Individuel
+- type: directory
+  path: data/pour-ton-equipe
+  label: Pour ton équipe
+  create: all
+  match: "**/*"
+- type: directory
+  path: data/carousel-equipe
+  label: Carousel (Pour ton equipe)
+  create: all
+  match: "**/*"
+  templates:
+  - carousel
 - type: heading
   label: Ressources
 - type: directory

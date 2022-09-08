@@ -70,7 +70,7 @@
 
 <page-query>
     query {
-        data: allEquipe(filter: { path: { nin: ["/data/pour-ton-equipe/formations/", "/data/pour-ton-equipe/lead/", "/data/pour-ton-equipe/consultation/", "/data/pour-ton-equipe/featured-articles/", "/data/pour-ton-equipe/magnet/"] }}, sortBy: "position", order: ASC) {
+        data: allEquipe(filter: { path: { nin: ["/data/pour-ton-equipe/par-ou-commencer/", "/data/pour-ton-equipe/lead/", "/data/pour-ton-equipe/consultation/", "/data/pour-ton-equipe/inspirations/", "/data/pour-ton-equipe/magnet/", "/data/pour-ton-equipe/vision/", "/data/pour-ton-equipe/mission/"] }}, sortBy: "position", order: ASC) {
             edges {
                 node {
                 title

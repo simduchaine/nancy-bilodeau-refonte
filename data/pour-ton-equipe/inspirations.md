@@ -8,12 +8,12 @@ card1:
   link: "/blogue"
   thumbnail: "/uploads/neuroscience-in-business.png"
 card2:
-  title: Vaincre les 5 dysfonctions d’une équipe
+  title: Les 5 dysfonctions d’une équipe
   link: https://www.youtube.com/channel/UCel4Y254TeW2NpNyw37RTcA
   thumbnail: "/uploads/5-dysfonctions.png"
 card3:
-  title: Bien-être au travail qui fonctionne
+  title: Mettre son masque en premier
   link: "#"
-  thumbnail: "/uploads/ecouter.png"
+  thumbnail: "/uploads/mask-first.png"
 
 ---

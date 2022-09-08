@@ -4,52 +4,60 @@ hide_body: true
 fields:
 - type: text
   name: title
-  label: title
+  label: Titre
 - type: text
   name: subtitle
-  label: subtitle
+  label: Sous-titre
 - type: text
   name: link_text
-  label: link_text
+  label: Texte du lien
+  description: "(lien au bas de la page)"
 - type: text
   name: link
-  label: link
+  label: Lien URL
+  description: Lien au bas de la page
+  default: "#"
 - type: field_group
   name: card1
   label: card1
   fields:
   - type: text
     name: title
-    label: title
+    label: Titre
   - type: text
     name: link
-    label: link
+    label: Lien URL
+    default: "#"
   - type: file
     name: thumbnail
-    label: thumbnail
+    label: Image
+    default: "/uploads/placeholder-image.png"
 - type: field_group
   name: card2
   label: card2
   fields:
   - type: text
     name: title
-    label: title
+    label: Titre
   - type: text
     name: link
-    label: link
+    label: Lien URL
   - type: file
     name: thumbnail
-    label: thumbnail
+    label: Image
+    default: "/uploads/placeholder-image.png"
 - type: field_group
   name: card3
   label: card3
   fields:
   - type: text
     name: title
-    label: title
+    label: Titre
   - type: text
     name: link
-    label: link
+    label: Lien URL
+    default: "#"
   - type: file
     name: thumbnail
-    label: thumbnail
+    label: Image
+    default: "/uploads/placeholder-image.png"

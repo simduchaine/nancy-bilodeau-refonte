@@ -1,6 +1,6 @@
 ---
 title: Comment une détox peut transformer?
-thumbnail: "/uploads/detox.png"
+thumbnail: "/uploads/une-detox.png"
 link: https://cours.nancybilodeau.com/detoxtransformation
 order: 6
 sticky: false

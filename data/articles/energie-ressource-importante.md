@@ -1,7 +1,7 @@
 ---
 title: L’énergie; la ressource la plus importante
 id: energie-ressource-importante-entrepreneur
-thumbnail: "/uploads/energie-618.jpeg"
+thumbnail: "/uploads/energie-ressource.png"
 link: https://mindset-entrepreneur.com/energie-la-ressource-la-plus-importante-de-lentrepreneur/
 order: 7
 sticky: false

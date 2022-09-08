@@ -1,7 +1,7 @@
 ---
 title: L'importance des vacances!
 id: importance-vacances
-thumbnail: "/uploads/vacances-618.jpeg"
+thumbnail: "/uploads/l-importance-des-vacances.png"
 link: https://www.journalactionpme.com/2020/06/pourquoi-prendre-des-vacances-important-pense-cas-vecu/
 order: 1
 sticky: false

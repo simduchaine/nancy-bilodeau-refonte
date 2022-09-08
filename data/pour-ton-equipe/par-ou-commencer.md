@@ -1,9 +1,9 @@
 ---
-title: Par ou commencer ?
+title: Par où commencer ?
 position: "5"
-texte: Tout dépend de tes objectifs. L’idéal est de prendre le temps de parler de
-  tes besoins, ton budget, tes échéanciers, la disponibilité de ton monde pour identifier
-  la meilleure façon d’atteindre tes objectifs.
+texte: 'Tout dépend de vos objectifs. L’idéal est de prendre le temps de parler de
+  vos besoins, votre budget, vos échéanciers et la disponibilité de vos équipiers
+  pour identifier la meilleure façon d’atteindre votre but. '
 
 ---
 * Montrer votre appréciation
@@ -12,7 +12,7 @@ texte: Tout dépend de tes objectifs. L’idéal est de prendre le temps de parl
 * Réduire l’absentéisme
 * Résoudre un conflit
 * Inspirer et mobiliser
-* Réduire les frais d’assurances
+* Réduire les frais d’assurance
 * Vivre un bon moment
 * Connecter à un autre niveau
 * Et +

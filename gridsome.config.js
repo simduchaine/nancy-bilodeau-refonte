@@ -114,6 +114,19 @@ module.exports = {
     {
       use: "@gridsome/source-filesystem",
       options: {
+        path: "data/carousel-equipe/**/*.md",
+        typeName: "CarouselEquipe",
+        resolveAbsolutePaths: true,
+        remark: {
+          plugins: [
+            //require("remark-attr")
+          ],
+        },
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
         path: "data/pages/**/*.md",
         typeName: "PageContent",
         resolveAbsolutePaths: true,
@@ -221,6 +234,24 @@ module.exports = {
       options: {
         path: "data/transfo-organisation/**/*.md",
         typeName: "transfo",
+        resolveAbsolutePaths: true,
+        //route: "/formations/:type/:slug",
+        remark: {
+          plugins: [
+            [
+              "gridsome-plugin-remark-youtube",
+              ,
+              { width: "500px", align: "auto" },
+            ],
+          ],
+        },
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        path: "data/pour-ton-equipe/**/*.md",
+        typeName: "equipe",
         resolveAbsolutePaths: true,
         //route: "/formations/:type/:slug",
         remark: {

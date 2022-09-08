@@ -105,7 +105,12 @@
                 <g-link
                   class="navbar-item"
                   to="/accompagnement-holistique-coaching"
-                  >Coaching individuel et d'équipe</g-link
+                  >Coaching individuel</g-link
+                >
+                <g-link
+                  class="navbar-item"
+                  to="/pour-ton-equipe"
+                  >Pour ton équipe</g-link
                 >
               </div>
             </div>

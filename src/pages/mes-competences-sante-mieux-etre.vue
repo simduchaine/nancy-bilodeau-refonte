@@ -17,9 +17,6 @@
               {{ item }}
             </li>
           </ul>
-          <a :href="edge.node.cv_link.src" class="button" download
-            >Télécharger mon CV</a
-          >
         </div>
       </section>
 

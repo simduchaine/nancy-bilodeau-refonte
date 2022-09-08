@@ -6,7 +6,7 @@ card1:
   thumbnail: "/uploads/young-smiling-man.jpg"
 card2:
   buttonText: Ton équipe
-  link: "/accompagnement-holistique-coaching"
+  link: "/pour-ton-equipe"
   thumbnail: "/uploads/happy-young.jpg"
 card3:
   buttonText: Ton entreprise

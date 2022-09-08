@@ -39,6 +39,18 @@ fields:
   description: Texte du lien sous la liste des formations
   default: Visitez mes compétences d’affaires pour en savoir plus sur mes formations
     d'affaires >
+- name: mission_title
+  type: text
+  config:
+    required: false
+  label: Titre Mission
+  default: Pour qui
+- name: vision_title
+  type: text
+  config:
+    required: false
+  label: Titre Vision
+  default: Mon pourquoi
 - name: mission-vision
   type: include
   config: {}

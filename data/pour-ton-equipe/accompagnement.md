@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/acceuil-images-cures.jpg"
+thumbnail: "/uploads/accompagnement.png"
 title: Accompagnement individuel ou d’équipe
 position: 4
 

@@ -1,6 +1,6 @@
 ---
 id: intro
-title: Services
+title: Mes outils en santé intégrative
 thumbnail: "/uploads/mes-outils-en-sante-integrative.jpg"
 
 ---

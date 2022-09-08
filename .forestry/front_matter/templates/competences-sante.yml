@@ -14,6 +14,13 @@ fields:
 - type: file
   name: thumbnail3
   label: Image 3
+- name: title_formation
+  type: text
+  config:
+    required: false
+  label: Titre Formation
+  default: Sommaire des formations en santé intégrative
+  description: Titre au dessus de la liste des formations
 - type: list
   name: cv
   label: CV

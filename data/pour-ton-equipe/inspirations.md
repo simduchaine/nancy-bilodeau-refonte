@@ -9,7 +9,7 @@ card1:
   thumbnail: "/uploads/neuroscience-in-business.png"
 card2:
   title: Les 5 dysfonctions d’une équipe
-  link: https://www.youtube.com/channel/UCel4Y254TeW2NpNyw37RTcA
+  link: https://www.tablegroup.com/topics-and-resources/teamwork-5-dysfunctions/
   thumbnail: "/uploads/5-dysfonctions.png"
 card3:
   title: Mettre son masque en premier

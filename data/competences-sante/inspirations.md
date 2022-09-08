@@ -11,6 +11,7 @@ sante:
 - Dr. T. Colin Campbell
 - Dr. Konstantin Korotkov
 - Dr. Daniel J. Siegel
+- James Nestor
 - Ben Greenfield
 - Peter Fraser
 - Lloyd Burrell

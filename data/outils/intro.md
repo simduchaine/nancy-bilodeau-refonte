@@ -1,7 +1,7 @@
 ---
 id: intro
 title: Mes outils en santé intégrative
-thumbnail: "/uploads/acceuil-slide1.jpg"
+thumbnail: "/uploads/outils_sante_integrative_cropped.jpg"
 
 ---
 Comme mon approche est holistique, elle considère l’individu dans son intégralité : corps, esprit, cœur, émotion, énergie, mémoire, intellect et âme. J’ai de nombreux outils pour vous accompagner dans votre démarche. Mon approche va au-delà des symptômes immédiats tels la fatigue, les malaises, et le mal être. Elle vise à identifier et à résoudre les causes réelles de ceux-ci pour ramener l’équilibre et le mieux-être dans votre vie.

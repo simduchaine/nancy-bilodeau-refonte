@@ -15,7 +15,7 @@
 
 <static-query>
 query {
-  outils(path: "/outils/services/") {
+  outils(path: "/outils/mes-outils-en-sante-integrative/") {
     title
     content
     thumbnail (quality: 90, height: 740)

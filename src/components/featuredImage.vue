@@ -12,7 +12,7 @@
 <script>
 export default {
   name: "featuredImage",
-  props: ["title", "image"]
+  props: ["title", "image"],
 };
 </script>
 

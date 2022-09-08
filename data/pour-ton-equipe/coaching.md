@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/conferences-inspirantes.png"
+thumbnail: "/uploads/conferences-inspirantes-2.png"
 title: Des conférences inspirantes
 position: 2
 

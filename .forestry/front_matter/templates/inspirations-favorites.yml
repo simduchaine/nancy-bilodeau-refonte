@@ -1,0 +1,55 @@
+---
+label: inspirations favorites
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: text
+  name: link_text
+  label: link_text
+- type: text
+  name: link
+  label: link
+- type: field_group
+  name: card1
+  label: card1
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: link
+    label: link
+  - type: file
+    name: thumbnail
+    label: thumbnail
+- type: field_group
+  name: card2
+  label: card2
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: link
+    label: link
+  - type: file
+    name: thumbnail
+    label: thumbnail
+- type: field_group
+  name: card3
+  label: card3
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: link
+    label: link
+  - type: file
+    name: thumbnail
+    label: thumbnail

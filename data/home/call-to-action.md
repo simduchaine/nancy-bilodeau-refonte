@@ -1,6 +1,6 @@
 ---
 thumbnail: "/uploads/stats-page-corpo.png"
-title: Un monde meilleur commence par soi
+title: UN MONDE MEILLEUR COMMENCE PAR SOI
 
 ---
 <a class="button" href="https://www.gorendezvous.com/homepage/111690" target="_blank">Je veux prendre un rendez-vous</a><span class="self_center">

@@ -1,5 +1,5 @@
 ---
-title: Mes inspirations favorites
+title: Mes inspirations préférées
 subtitle: ''
 link_text: Consulter mon blogue sur Les Affaires pour découvrir mon style >
 link: "/blogue"

@@ -1,7 +1,7 @@
 ---
 title: La conscience au service de son entreprise
 id: conscience-service-entreprise
-thumbnail: "/uploads/meditation-618.jpeg"
+thumbnail: "/uploads/conscience-1.png"
 link: https://journalactionpme.com/2020/02/comment-placer-la-conscience-au-service-de-son-entreprise/
 order: 3
 sticky: false

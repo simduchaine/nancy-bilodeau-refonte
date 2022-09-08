@@ -21,4 +21,5 @@ fields:
   name: buttonLink
   label: Lien du bouton
 pages:
+- data/carousel-equipe/aidez-vos-employes-a-trouver-leur-equilibre.md
 - data/carousel-equipe/pour-des-equipes-plus-qu-engagees.md

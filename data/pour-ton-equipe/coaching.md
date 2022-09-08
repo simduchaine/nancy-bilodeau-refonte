@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/accueil-visuels-coaching-holistique.jpg"
+thumbnail: "/uploads/conferences-inspirantes.png"
 title: Des conférences inspirantes
 position: 2
 

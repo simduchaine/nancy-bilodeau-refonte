@@ -13,7 +13,7 @@ card2:
   thumbnail: "/uploads/5-dysfonctions.png"
 card3:
   title: Mettre son masque en premier
-  link: "#"
+  link: https://www.youtube.com/watch?v=Gc-ndMwtUqA
   thumbnail: "/uploads/mask-first.png"
 
 ---

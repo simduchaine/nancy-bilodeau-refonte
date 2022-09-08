@@ -1,7 +1,7 @@
 ---
 title: Amélioration des processus et COVID-19
 id: amelioration-processus
-thumbnail: "/uploads/processus-covid-618.jpeg"
+thumbnail: "/uploads/amelioration-des-processus.png"
 link: https://www.journalactionpme.com/2020/11/amelioration-des-processus-les-lecons-importantes-de-la-covid-19/
 order: 9
 sticky: false

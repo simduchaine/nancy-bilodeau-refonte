@@ -5,7 +5,7 @@ thumbnail: "/uploads/8bf1b7f2-ad07-4a14-8670-456efe563498_1_201_a.jpeg"
 thumbnail2: "/uploads/nancy_famille.jpg"
 thumbnail3: "/uploads/nancy.png"
 cv:
-- Neurosciences for Business, MIT Sloan, 2022
+- Neurosciences for Business, MIT Management, 2022
 - Praticienne Certifiée Bio-well, 2022
 - Praticienne Certifiée NES Health, 2021
 - Mindfulness-Based Stress Reduction (MBSR), 2021
@@ -56,6 +56,6 @@ J’ai l’impression que tout mon parcours me destinait à faire ceci. Depuis, 
 
 L’énergie, le « mindset » et les neurosciences me fascinent. Je suis fière d’être aussi certifiée de la SICPNL, de NES Health et de Bio-Well, et d’avoir complété ma formation MBSR avec Mindful Leader.
 
-> _Je crois ardemment que c'est en aidant les individus à retrouver leur joie de vivre, en se libérant de leur souffrance et en se reconnectant à leur essence, qu’on contribue au bien-être global de tous. Nous sommes tous ici pour nous réaliser pleinement et être heureux. Les blocages et déséquilibres sont seulement des guides pour nous aider à trouver notre chemin._
+> _Je crois ardemment que c'est en aidant les individus à retrouver leur joie de vivre, en se libérant de leur souffrance et en se reconnectant à leur essence, qu’on contribue au bien-être global de tous. Nous sommes tous ici pour nous réaliser pleinement et être heureux. Les blocages et déséquilibres sont seulement des guides pour nous aider à trouver notre chemin et réaliser notre plein potentiel._
 
 Namaste !

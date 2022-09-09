@@ -1,6 +1,6 @@
 ---
 order: 6
-title: Activer son intelligence émotionnelle
+title: Activer son intelligence intuitive
 thumbnail: "/uploads/intelligence-intuitive-du-coeur.png"
 link: "#"
 featured: false

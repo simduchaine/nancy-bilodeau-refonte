@@ -1,7 +1,7 @@
 ---
 title: Mieux respirer pour mieux vivre
 id: technique-respiration
-thumbnail: "/uploads/copie-de-mieux-respirer.png"
+thumbnail: "/uploads/mieux-respirer-2.png"
 link: "#"
 order: 7
 featured: false

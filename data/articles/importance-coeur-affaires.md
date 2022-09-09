@@ -1,7 +1,7 @@
 ---
 title: L’importance du coeur en affaires; au delà des peurs
 id: importance-coeur-affaires
-thumbnail: "/uploads/coeur-en-affaires.png"
+thumbnail: "/uploads/coeur-en-affaires-2.png"
 link: https://mindset-entrepreneur.com/importance-du-coeur-en-affaires/
 order: 5
 sticky: false

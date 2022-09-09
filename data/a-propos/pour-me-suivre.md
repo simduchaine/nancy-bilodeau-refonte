@@ -8,12 +8,12 @@ card1:
   link: "#"
   thumbnail: "/uploads/neuroscience-in-business.png"
 card2:
-  title: Sur Linked In pour du contenu sur la santé et le mieux-être de ton équipe
-  link: "#"
-  thumbnail: "/uploads/5-dysfonctions.png"
+  title: Sur Linked In
+  link: https://www.linkedin.com/in/nancybilodeau/
+  thumbnail: "/uploads/linked-in.png"
 card3:
   title: Sur Facebook
-  link: https://www.facebook.com/NancyBilodeauInc
-  thumbnail: "/uploads/uploads/facebook.png"
+  link: https://www.facebook.com/NancyBilodeauInc/
+  thumbnail: "/uploads/facebook.png"
 
 ---

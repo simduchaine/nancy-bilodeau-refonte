@@ -1,27 +1,29 @@
 <template>
   <Layout>
-    <div style="margin-top: -3rem" v-for="edge in $page.allMotivParallax.edges" :key="edge.node.id">
-      <div
-        class="parallax-effect top hero is-medium is-dark"
-        style="background-image: url(edge.node.hero_img)"
-      >
-        <div class="hero-body has-text-centered">
-          <h1 class="title is-family-primary is-size-2">Un monde vibrant!</h1>
-          <h2 class="title">Où chacun vibre son plein potentiel</h2>
-        </div>
+    <div style="margin-top: -3rem;" v-for="edge in $page.allMotivParallax.edges" :key="edge.node.id">
+
+      <div id="top-section" class="section hero" style="position: relative;">
+          <parallax :fixed="true" :speedFactor="0.5" :sectionHeight="70">
+            <g-image :src="edge.node.hero_img"></g-image>
+          </parallax>
+           <div  class="hero-body hero-parallax has-text-centered">
+            <h1 class="title is-family-primary is-size-2">Un monde vibrant!</h1>
+            <h2 class="title">Où chacun vibre son plein potentiel</h2>
+          </div>
       </div>
 
-      <div class="section">
+      
+
+      <div class="section" style="background-color: #fff; height: 70vh;">
         <div class="container">
           <g-image
             src="../../uploads/RETRAITE-Slogan2-RGB_bleu-fonc%C3%A9.jpg"
             quality="100"
           />
-          <h2>Science et Sagesse au service de notre santé et mieux-être</h2>
         </div>
       </div>
 
-      <div class="section has-background-info">
+      <div class="section has-background">
         <div class="container">
           <div>
             <p>
@@ -71,18 +73,18 @@
         </div>
       </div>
 
-      <div
-        class="parallax-effect hero is-medium is-dark"
-        style="background-image: url('/img/duree3.png')"
-      >
-        <div class="hero-body has-text-centered">
-          <h2 class="title is-family-primary is-size-2">Les fondations</h2>
-          <h3 class="title">Connaissances et environnement favorable</h3>
-        </div>
+       <div class="section hero" style="position: relative;">
+          <parallax :fixed="true" :speedFactor="0.5" :sectionHeight="70">
+            <g-image :src="edge.node.img2"></g-image>
+          </parallax>
+           <div  class="hero-body hero-parallax has-text-centered">
+            <h2 class="title is-family-primary is-size-2">Les fondations</h2>
+            <h3 class="title">Connaissances et environnement favorable</h3>
+          </div>
       </div>
 
-      <div class="section">
-        <div class="container">
+      <div class="section" style="background-color: #fff;">
+        <div class="container" >
           <!-- <h1 class="title is-size-6">
             Quand le ressourcement prend soin des affaires
           </h1> -->
@@ -129,7 +131,7 @@
         </div>
       </div>
 
-      <div class="section has-background-info">
+      <div class="section has-background">
         <div class="container">
           <p>
             Les entreprises sont les mieux placées pour relever le défi parce
@@ -146,7 +148,7 @@
         </div>
       </div>
 
-      <div class="section">
+      <div class="section" style="background-color: #fff;">
         <div class="container">
           <p>
             Les entreprises, en créant des cultures de santé et de mieux-être
@@ -214,7 +216,7 @@
         </div>
       </div>
 
-      <div class="section has-background-info">
+      <div class="section has-background">
         <div class="container">
           <p>
             En bonne gestionnaire du changement, j’aime beaucoup travailler avec
@@ -255,7 +257,7 @@
         </div>
       </div>
 
-      <div class="section">
+      <div class="section" style="background-color: #fff;">
         <div class="container">
           <p>
             J’ai la ferme conviction que nous avons tous le pouvoir d’améliorer notre santé et mieux-être si nous sommes bien informés, guidés et supportés. 
@@ -277,7 +279,7 @@
         </div>
       </div>
 
-      <div class="section has-background-info">
+      <div class="section has-background">
         <div class="container">
           <h2 class="title">
             On commence où ?
@@ -351,6 +353,9 @@
     edges {
       node {
         hero_img
+        img2
+        img3
+        img4
       }
     }
   }
@@ -361,7 +366,7 @@
 import VueSlickCarousel from "vue-slick-carousel";
 import "vue-slick-carousel/dist/vue-slick-carousel.css";
 import "vue-slick-carousel/dist/vue-slick-carousel-theme.css";
-import Parallax from 'vue-parallaxy';
+import Parallax from "vue-parallaxy";
 
 export default {
   metaInfo: {
@@ -369,7 +374,7 @@ export default {
   },
   components: {
     VueSlickCarousel,
-    Parallax
+    Parallax,
   },
 };
 </script>
@@ -395,6 +400,25 @@ export default {
     bottom: 0px;
     left: 0px;
   }
+}
+
+.has-background {
+  background-color: rgb(196 224 236);
+}
+
+@media screen and (min-width: 768px) {
+  .Masthead {
+    min-height: 40vh;
+  }
+}
+
+.hero-parallax {
+  position: absolute;
+  margin-left: -50px;
+  margin-top: -130px;
+  top: 50%;
+  height: 100%;
+  width: 100%;
 }
 
 .title {

@@ -1,0 +1,34 @@
+---
+label: Mission-Vision (icones)
+hide_body: true
+fields:
+- type: field_group
+  name: Mission
+  label: Mission
+  fields:
+  - type: file
+    name: icone
+    label: icone
+    default: "/uploads/mission.png"
+  - type: text
+    name: title
+    label: Titre
+  - type: text
+    name: content
+    label: Texte
+- type: field_group
+  name: Vision
+  label: Vision
+  fields:
+  - type: file
+    name: icone
+    label: Icone
+    default: "/uploads/mission.png"
+  - type: text
+    name: title
+    label: Titre
+  - type: text
+    name: content
+    label: Texte
+pages:
+- data/a-propos/mission-vision.md

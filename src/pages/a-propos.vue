@@ -41,7 +41,7 @@
 
 <page-query>
   query {
-    data: allApropos(filter: { path: { nin: ["/data/a-propos/bio/", "/data/a-propos/lead/", "/data/a-propos/rendez-vous/", "/data/a-propos/consultation/", "/data/a-propos/mission-vision/"] }}, sortBy: "position", order: ASC) {
+    data: allApropos(filter: { path: { nin: ["/data/a-propos/bio/", "/data/a-propos/lead/", "/data/a-propos/rendez-vous/", "/data/a-propos/consultation/", "/data/a-propos/mission-vision/", "/data/a-propos/pour-me-suivre/"] }}, sortBy: "position", order: ASC) {
       edges {
         node {
           title

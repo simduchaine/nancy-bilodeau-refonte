@@ -14,6 +14,7 @@ fields:
   label: Image
 pages:
 - data/a-propos/bio.md
+- data/outils/bioenergie.md
 - data/outils/intro.md
 - data/pages/coaching.md
 - data/transfo-organisation/call-to-action.md

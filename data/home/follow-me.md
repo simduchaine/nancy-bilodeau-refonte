@@ -1,6 +1,7 @@
 ---
 title: POUR ME SUIVRE...
-subtitle: Découvrez des astuces pour prendre soin de vous, vos équipes et votre entreprise.
+subtitle: DÉCOUVREZ DES ASTUCES POUR PRENDRE SOIN DE VOUS, de VOS ÉQUIPES ET de VOTRE
+  ENTREPRISE MAINTENANT!
 card1:
   title: Lire
   buttonText: Sur mon blogue

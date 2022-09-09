@@ -10,10 +10,10 @@ card1:
 card2:
   title: Sur Linked In
   link: https://www.linkedin.com/in/nancybilodeau/
-  thumbnail: "/uploads/linked-in.png"
+  thumbnail: "/uploads/linkedin2.png"
 card3:
   title: Sur Facebook
   link: https://www.facebook.com/NancyBilodeauInc/
-  thumbnail: "/uploads/facebook.png"
+  thumbnail: "/uploads/facebook2.png"
 
 ---

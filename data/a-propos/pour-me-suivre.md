@@ -5,8 +5,8 @@ link_text: Voir ma section blogue pour plus d’articles pour votre bien-être >
 link: "/blogue"
 card1:
   title: Sur YouTube
-  link: "#"
-  thumbnail: "/uploads/neuroscience-in-business.png"
+  link: https://www.youtube.com/channel/UCel4Y254TeW2NpNyw37RTcA
+  thumbnail: "/uploads/youtube2.png"
 card2:
   title: Sur Linked In
   link: https://www.linkedin.com/in/nancybilodeau/

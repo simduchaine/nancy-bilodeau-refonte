@@ -44,13 +44,6 @@ mission: 'Je suis là pour tous ceux qui souhaite apprendre comment prendre soin
   le rêve quand aidant une personne, celle-ci pourra en influencer plusieurs autres
   et ainsi avoir un effet d’entraînement positif vers ce monde en santé et heureux
   auquel j’aspire. '
-cv_link: "/uploads/Bilodeau_Nancy_CV_Court.pdf"
-title_formation: Sommaire des formations en santé intégrative
-link_formation: "/mes-competences-daffaires"
-link_formation_text: Visitez mes compétences d’affaires pour en savoir plus sur mes
-  formations d'affaires >
-mission_title: Pour qui
-vision_title: Mon pourquoi
 
 ---
 J'ai fondé le Centre Holistique Om Prana en 2013. Situé sur la rue St-Joseph en plein cœur du cartier St-Roch à Québec, le Centre offrait un restaurant végan et crudivore, un studio de yoga et de méditation, une épicerie santé et plusieurs cours de cuisine, d’aide à la santé et de développement personnel. Durant les trois années d’opération, j’ai enseigné de nombreux cours de yoga et j'ai offert des cures de détox à plus de 200 personnes. Les témoignages abondent de gens qui ont retrouvé leur énergie et leur joie de vivre, diminué leurs douleurs corporelles et augmenté leur clarté d’esprit.

@@ -14,18 +14,47 @@ fields:
 - type: file
   name: thumbnail3
   label: Image 3
+- name: title_formation
+  type: text
+  config:
+    required: false
+  label: Titre Formation
+  default: Sommaire des formations en santé intégrative
+  description: Titre au dessus de la liste des formations
 - type: list
   name: cv
   label: CV
+- name: link_formation
+  type: text
+  config:
+    required: false
+  label: Lien URL Formation
+  description: URL du lien sous la liste des formations.
+  default: "/mes-competences-daffaires"
+- name: link_formation_text
+  type: text
+  config:
+    required: false
+  label: Texte Lien Formation
+  description: Texte du lien sous la liste des formations
+  default: Visitez mes compétences d’affaires pour en savoir plus sur mes formations
+    d'affaires >
+- name: mission_title
+  type: text
+  config:
+    required: false
+  label: Titre Mission
+  default: Pour qui
+- name: vision_title
+  type: text
+  config:
+    required: false
+  label: Titre Vision
+  default: Mon pourquoi
 - name: mission-vision
   type: include
   config: {}
   template: mission-vision
   label: Mission-Vision
-- name: cv_link
-  type: text
-  config:
-    required: false
-  label: Lien CV
 pages:
 - data/competences-sante/bio.md

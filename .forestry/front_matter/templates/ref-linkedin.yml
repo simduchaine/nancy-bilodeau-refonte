@@ -26,7 +26,7 @@ fields:
     - Coaching Individuel
     - Transformation Org.
     - Ameliorer Sante
-    - Services
+    - retraites
     source:
       type: simple
       section: 

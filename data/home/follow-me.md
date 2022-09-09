@@ -15,7 +15,7 @@ card2:
 card3:
   title: Écouter
   buttonText: Mon podcast
-  link: "#"
+  link: https://anchor.fm/nancy-bilodeau
   thumbnail: "/uploads/ecouter.png"
 
 ---

@@ -9,5 +9,7 @@ Vision:
   content: J’ai de nombreux outils, connaissances, compétences et expériences pour
     t’assister.
   icone: "/uploads/placeholder-image.png"
+mission: ''
+vision: ''
 
 ---

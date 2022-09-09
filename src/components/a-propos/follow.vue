@@ -1,20 +1,20 @@
 <template>
   <div>
     <div class="container" style="padding: 2.5rem">
-      <h1 class="title has-text-centered">Pour me suivre</h1>
+      <h1 class="title has-text-centered" v-html="$static.apropos.title"></h1>
       <div class="columns is-multiline">
         <div class="column">
           <div class="card">
             <div class="card-image">
               <g-image
-                src="../../../uploads/AdobeStock_112447537.jpeg"
+                :src="$static.apropos.card1.thumbnail"
                 height="410"
                 width="650"
               ></g-image>
             </div>
             <div class="card-content">
-              <a href="#" target="_blank">
-                <h2 class="title is-7 has-text-centered">Podcast</h2>
+              <a :href="$static.apropos.card1.link" target="_blank">
+                <h2 class="title is-7 has-text-centered" v-html="$static.apropos.card1.title"></h2>
               </a>
             </div>
           </div>
@@ -24,17 +24,14 @@
           <div class="card">
             <div class="card-image">
               <g-image
-                src="../../../uploads/AdobeStock_187993797.jpeg"
+                :src="$static.apropos.card2.thumbnail"
                 height="410"
                 width="650"
               ></g-image>
             </div>
             <div class="card-content">
-              <a href="#" target="_blank">
-                <h2 class="title is-7 has-text-centered">
-                  Sur Linked In pour du contenu sur la santé et le mieux-être de
-                  ton équipe
-                </h2>
+              <a :href="$static.apropos.card2.link" target="_blank">
+                <h2 class="title is-7 has-text-centered" v-html="$static.apropos.card2.title"></h2>
               </a>
             </div>
           </div>
@@ -44,28 +41,50 @@
           <div class="card">
             <div class="card-image">
               <g-image
-                src="../../../uploads/AdobeStock_189354627_compressed.jpg"
+                :src="$static.apropos.card3.thumbnail"
                 height="410"
                 width="650"
               ></g-image>
             </div>
             <div class="card-content">
-              <a href="#" target="_blank">
-                <h2 class="title is-7 has-text-centered">
-                  Sur Facebook pour du contenu sur ta santé et ton mieux-être
-                </h2>
+              <a :href="$static.apropos.card3.link" target="_blank">
+                <h2 class="title is-7 has-text-centered" v-html="$static.apropos.card3.title"></h2>
               </a>
             </div>
           </div>
         </div>
       </div>
 
-      <a href="/blogue/"
-        >Voir ma section blogue pour plus d’articles pour votre bien-être ></a
-      >
+      <a :href="$static.apropos.link" v-html="$static.apropos.link_text"></a>
     </div>
   </div>
 </template>
+
+<static-query>
+  query {
+  apropos(path: "/data/a-propos/pour-me-suivre/") {
+    title
+    subtitle
+    link_text
+    link
+    card1 {
+      title
+      link
+      thumbnail
+    }
+    card2 {
+      title
+      link
+      thumbnail
+    }
+    card3 {
+      title
+      link
+      thumbnail
+    }
+  }
+}
+</static-query>
 
 <script>
 export default {

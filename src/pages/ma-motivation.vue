@@ -1,9 +1,9 @@
 <template>
   <Layout>
-    <div style="margin-top: -3rem">
+    <div style="margin-top: -3rem" v-for="edge in $page.allMotivParallax.edges" :key="edge.node.id">
       <div
         class="parallax-effect top hero is-medium is-dark"
-        style="background-image: url('/img/Care-plus.png')"
+        style="background-image: url(edge.node.hero_img)"
       >
         <div class="hero-body has-text-centered">
           <h1 class="title is-family-primary is-size-2">Un monde vibrant!</h1>
@@ -13,10 +13,10 @@
 
       <div class="section">
         <div class="container">
-          <!-- <g-image
+          <g-image
             src="../../uploads/RETRAITE-Slogan2-RGB_bleu-fonc%C3%A9.jpg"
             quality="100"
-          /> -->
+          />
           <h2>Science et Sagesse au service de notre santé et mieux-être</h2>
         </div>
       </div>
@@ -143,101 +143,6 @@
               Les leaders d’entreprise ont la force de caractère nécessaire
             </li>
           </ol>
-          <!--           <VueSlickCarousel
-            :dots="false"
-            :arrows="true"
-            :autoplay="true"
-            :autoplaySpeed="4000"
-            :speed="2000"
-            :infinite="true"
-            :slidesToShow="3"
-            :slidesToScroll="3"
-          >
-            <div class="card">
-              <div class="card-image">
-                <figure>
-                  <g-image src="../../uploads/Travail-d-equipe.png" />
-                </figure>
-              </div>
-            </div>
-            <div class="card">
-              <div class="card-image">
-                <figure>
-                  <g-image src="../../uploads/Performance.png" />
-                </figure>
-              </div>
-            </div>
-            <div class="card">
-              <div class="card-image">
-                <figure>
-                  <g-image src="../../uploads/Gestion-de-conflit.png" />
-                </figure>
-              </div>
-            </div>
-            <div class="card">
-              <div class="card-image">
-                <figure>
-                  <g-image src="../../uploads/Planification.png" />
-                </figure>
-              </div>
-            </div>
-            <div class="card">
-              <div class="card-image">
-                <figure>
-                  <g-image src="../../uploads/Priorisation.png" />
-                </figure>
-              </div>
-            </div>
-            <div class="card">
-              <div class="card-image">
-                <figure>
-                  <g-image src="../../uploads/Communications.png" />
-                </figure>
-              </div>
-            </div>
-            <div class="card">
-              <div class="card-image">
-                <figure>
-                  <g-image src="../../uploads/Transformation.png" />
-                </figure>
-              </div>
-            </div>
-            <div class="card">
-              <div class="card-image">
-                <figure>
-                  <g-image src="../../uploads/5-dysfunctions.png" />
-                </figure>
-              </div>
-            </div>
-            <div class="card">
-              <div class="card-image">
-                <figure>
-                  <g-image src="../../uploads/Restructuration.png" />
-                </figure>
-              </div>
-            </div>
-            <div class="card">
-              <div class="card-image">
-                <figure>
-                  <g-image src="../../uploads/Reorganisation.png" />
-                </figure>
-              </div>
-            </div>
-            <div class="card">
-              <div class="card-image">
-                <figure>
-                  <g-image src="../../uploads/Gestion-de-conflit.png" />
-                </figure>
-              </div>
-            </div>
-            <div class="card">
-              <div class="card-image">
-                <figure>
-                  <g-image src="../../uploads/Changement.png" />
-                </figure>
-              </div>
-            </div>
-          </VueSlickCarousel> -->
         </div>
       </div>
 
@@ -439,6 +344,18 @@
     </div>
   </Layout>
 </template>
+
+<page-query>
+  query {
+  allMotivParallax {
+    edges {
+      node {
+        hero_img
+      }
+    }
+  }
+}
+</page-query>
 
 <script>
 import VueSlickCarousel from "vue-slick-carousel";

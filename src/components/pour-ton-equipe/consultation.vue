@@ -13,7 +13,7 @@
 
 <static-query>
 query {
-  equipe(path: "/data/pour-ton-equipe/consultation") {
+  equipe(path: "/data/pour-ton-equipe/consultation/") {
     title
     content
   }

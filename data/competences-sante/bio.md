@@ -4,6 +4,7 @@ title: Mes compétences en santé et mieux-être
 thumbnail: "/uploads/8bf1b7f2-ad07-4a14-8670-456efe563498_1_201_a.jpeg"
 thumbnail2: "/uploads/nancy_famille.jpg"
 thumbnail3: "/uploads/nancy.png"
+title_formation: Sommaire des formations en santé intégrative
 cv:
 - Neurosciences for Business, MIT Management, 2022
 - Praticienne Certifiée Bio-well, 2022
@@ -22,6 +23,9 @@ cv:
 - Méditation Son Primordial, Deepak Chopra, 2016
 - Professeure de Sri Sri Yoga, 2010
 - Professeure Art de Vivre YES et YES+, 2011, 2012
+link_formation: /mes-competences-daffaires
+link_formation_text: Visitez mes compétences d’affaires pour en savoir plus sur mes formations d'affaires >
+vision_title: Mon Pourquoi
 vision: Lorsque j'étais malade et que personne n'arrivait à m'aider, même pas les
   meilleurs spécialistes de Chicago, j'étais désemparée. Je sais ce que vivre sans
   énergie et malade est. Je sais ce que d'avoir à abandonner ses rêves est. Je sais
@@ -32,6 +36,7 @@ vision: Lorsque j'étais malade et que personne n'arrivait à m'aider, même pas
   sont en majorité associés à nos habitudes de vie et n’ont pas le fruit d’un mauvais
   karma. Nous avons tous le pouvoir d’atteindre un niveau de santé optimale si on
   est prêt à s’investir vers celui-ci. Nous sommes le créateur de notre expérience!
+mission_title: Pour qui
 mission: 'Je suis là pour tous ceux qui souhaite apprendre comment prendre soin d’eux
   pour offrir le meilleur d’eux-mêmes. Je suis là pour tous ceux qui rêvent d’un monde
   meilleur et qui comprennent que celui-ci commence avec eux. Je me sens particulièrement

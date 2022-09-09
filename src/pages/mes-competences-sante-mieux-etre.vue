@@ -11,12 +11,13 @@
 
       <section class="section" id="formations">
         <div class="container">
-          <h2 class="title is-5">Sommaire des formations principales</h2>
+          <h2 class="title is-5">{{ edge.node.title_formation }}</h2>
           <ul>
             <li v-for="(item, index) in edge.node.cv" :key="index">
               {{ item }}
             </li>
           </ul>
+          <a :href="edge.node.link_formation">{{ edge.node.link_formation_text }}</a>
         </div>
       </section>
 
@@ -24,11 +25,11 @@
         <div class="container">
           <div class="columns">
             <div class="column">
-              <h2 class="title is-5">Ma vision</h2>
+              <h2 class="title is-5">{{ edge.node.vision_title  }}</h2>
               <p>{{ edge.node.vision }}</p>
             </div>
             <div class="column">
-              <h2 class="title is-5">Ma mission</h2>
+              <h2 class="title is-5">{{ edge.node.mission_title }}</h2>
               <p>{{ edge.node.mission }}</p>
             </div>
           </div>
@@ -49,6 +50,9 @@ query allCompetencesSante {
       node {
         id
         title
+        title_formation
+        link_formation
+        link_formation_text
         content
         cv
         vision
@@ -56,7 +60,8 @@ query allCompetencesSante {
         thumbnail (quality: 90, width: 500)
         thumbnail2 (quality: 90, width: 500)
         thumbnail3 (quality: 90, width: 500)
-        cv_link
+        vision_title
+        mission_title
       }
     }
   }

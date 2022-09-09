@@ -2,13 +2,13 @@
   <div class="container">
     <div class="columns has-text-centered">
       <div class="column">
-        <g-image :src="$static.apropos.Mission.icone" width="200"></g-image>
-        <h2 class="title is-5" v-html="$static.apropos.Mission.title"></h2>
+        <g-image :src="$static.apropos.Mission.icone" width="200" alt="Mission"></g-image>
+        <!-- <h2 class="title is-5" v-html="$static.apropos.Mission.title"></h2> -->
         <p v-html="$static.apropos.Mission.content"></p>
       </div>
       <div class="column">
-        <g-image :src="$static.apropos.Vision.icone" width="200"></g-image>
-        <h2 class="title is-5" v-html="$static.apropos.Vision.title"></h2>
+        <g-image :src="$static.apropos.Vision.icone" width="200" alt="Vision"></g-image>
+        <!-- <h2 class="title is-5" v-html="$static.apropos.Vision.title"></h2> -->
         <p v-html="$static.apropos.Vision.content"></p>
       </div>
     </div>

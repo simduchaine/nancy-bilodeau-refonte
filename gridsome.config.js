@@ -323,6 +323,19 @@ module.exports = {
     {
       use: "@gridsome/source-filesystem",
       options: {
+        path: "data/ma-motivation/parallax.yaml",
+        typeName: "MotivParallax",
+        resolveAbsolutePaths: true,
+        remark: {
+          plugins: [
+            //require("remark-attr")
+          ],
+        },
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
         path: "data_en/bio/**/*.md",
         typeName: "bioEn",
         resolveAbsolutePaths: true,

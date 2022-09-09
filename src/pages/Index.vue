@@ -171,7 +171,7 @@ a {
 ul {
   li {
     list-style-type: circle;
-    list-style-position: outside;
+    list-style-position: inside;
     margin-left: 1em;
   }
 }

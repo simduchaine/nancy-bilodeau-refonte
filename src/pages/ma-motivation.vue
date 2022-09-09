@@ -3,9 +3,9 @@
     <div style="margin-top: -3rem;" v-for="edge in $page.allMotivParallax.edges" :key="edge.node.id">
 
       <div id="top-section" class="section hero" style="position: relative;">
-          <parallax :fixed="true" :speedFactor="0.5" :sectionHeight="70">
+          <!-- <parallax :fixed="true" :speedFactor="0.5" :sectionHeight="70">
             <g-image :src="edge.node.hero_img"></g-image>
-          </parallax>
+          </parallax> -->
            <div  class="hero-body hero-parallax has-text-centered">
             <h1 class="title is-family-primary is-size-2">Un monde vibrant!</h1>
             <h2 class="title">Où chacun vibre son plein potentiel</h2>
@@ -74,9 +74,9 @@
       </div>
 
        <div class="section hero" style="position: relative;">
-          <parallax :fixed="true" :speedFactor="0.5" :sectionHeight="70">
+          <!-- <parallax :fixed="true" :speedFactor="0.5" :sectionHeight="70">
             <g-image :src="edge.node.img2"></g-image>
-          </parallax>
+          </parallax> -->
            <div  class="hero-body hero-parallax has-text-centered">
             <h2 class="title is-family-primary is-size-2">Les fondations</h2>
             <h3 class="title">Connaissances et environnement favorable</h3>

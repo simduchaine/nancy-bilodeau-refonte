@@ -25,6 +25,11 @@ sections:
 - type: heading
   label: Mission
 - type: directory
+  path: data/ma-motivation
+  label: Ma motivation
+  create: all
+  match: "**/*"
+- type: directory
   path: data/a-propos
   label: À propos
   create: all

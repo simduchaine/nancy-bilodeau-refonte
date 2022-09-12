@@ -1,5 +1,5 @@
 ---
-hero_img: 
+hero_img:
   image: "/uploads/ma-motivation.jpg"
   title: Un monde vibrant
   subtitle: Où chacun vibre son plein potentiel
@@ -16,4 +16,4 @@ img3:
 img4:
   image: "/uploads/monde-vibrant.png"
   title: Pour un monde vibrant de santé
-  subtitle:
+  subtitle: ''

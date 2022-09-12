@@ -63,3 +63,5 @@ fields:
   - type: text
     name: subtitle
     label: Sous-titre
+pages:
+- data/ma-motivation/parallax.yaml

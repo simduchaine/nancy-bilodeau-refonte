@@ -4,60 +4,62 @@ hide_body: true
 fields:
 - type: field_group
   name: hero_img
-  label: hero_img
   fields:
   - type: file
     name: image
-    label: image
+    label: Image
+    default: "/uploads/ma-motivation.jpg"
   - type: text
     name: title
-    label: title
+    label: Titre
   - type: text
     name: subtitle
-    label: subtitle
+    label: Sous-titre
+  label: Hero Image
 - type: field_group
   name: bloc2
-  label: bloc2
+  label: Bloc 2
   fields:
   - type: file
     name: image
-    label: image
+    label: Image
+    default: "/uploads/bloc2-ma-motivation.png"
 - type: field_group
   name: img2
-  label: img2
+  label: Bloc 4
   fields:
   - type: file
     name: image
-    label: image
+    label: Image
   - type: text
     name: title
-    label: title
+    label: Titre
   - type: text
     name: subtitle
-    label: subtitle
+    label: Sous-titre
 - type: field_group
   name: img3
-  label: img3
+  label: Bloc 9
   fields:
   - type: file
     name: image
-    label: image
+    label: Image
   - type: text
     name: title
-    label: title
+    label: Titre
   - type: text
     name: subtitle
-    label: subtitle
+    label: Sous-titre
 - type: field_group
   name: img4
-  label: img4
+  label: Bloc 11
   fields:
   - type: file
     name: image
-    label: image
+    label: Image
   - type: text
     name: title
-    label: title
+    label: Titre
   - type: text
     name: subtitle
-    label: subtitle
+    label: Sous-titre

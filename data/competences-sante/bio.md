@@ -23,27 +23,29 @@ cv:
 - Méditation Son Primordial, Deepak Chopra, 2016
 - Professeure de Sri Sri Yoga, 2010
 - Professeure Art de Vivre YES et YES+, 2011, 2012
-link_formation: /mes-competences-daffaires
-link_formation_text: Visitez mes compétences d’affaires pour en savoir plus sur mes formations d'affaires >
+link_formation: "/mes-competences-daffaires"
+link_formation_text: Visitez mes compétences d’affaires pour en savoir plus sur mes
+  formations d'affaires >
 vision_title: Mon Pourquoi
 vision: Lorsque j'étais malade et que personne n'arrivait à m'aider, même pas les
-  meilleurs spécialistes de Chicago, j'étais désemparée. Je sais ce que vivre sans
-  énergie et malade est. Je sais ce que d'avoir à abandonner ses rêves est. Je sais
-  aussi que lorsqu'on reprend son plein pouvoir qu'il est possible d'améliorer sa
-  santé et son bien être à des niveaux qui font toute la différence sur notre joie
-  de vire et ce que nous pouvons déployer dans le monde. Je souhaite aider le plus
-  grand nombre de gens possible à réaliser que les problèmes de santé mentale et physique
-  sont en majorité associés à nos habitudes de vie et n’ont pas le fruit d’un mauvais
-  karma. Nous avons tous le pouvoir d’atteindre un niveau de santé optimale si on
-  est prêt à s’investir vers celui-ci. Nous sommes le créateur de notre expérience!
+  meilleurs spécialistes de Chicago, j'étais désemparée. Je sais maintenant ce qu’est
+  de vivre malade et sans énergie. Je sais ce qu’est d'avoir à abandonner ses rêves.
+  Je sais aussi que lorsque nous reprenons notre plein pouvoir, il est possible d'améliorer
+  notre santé et notre bien-être à des niveaux qui font toute la différence sur notre
+  joie de vivre et ce que nous pouvons déployer dans le monde. Je souhaite aider le
+  plus grand nombre de gens possible à prendre en considération que les problèmes
+  de santé physique et mentale sont en souvent associés à nos habitudes de vie et
+  non pas le fruit d’un mauvais karma. Nous avons en majorité le pouvoir d’atteindre
+  un niveau de santé optimal, si nous sommes prêts à s’investir vers celui-ci. Nous
+  sommes les créateurs de notre expérience!
 mission_title: Pour qui
-mission: 'Je suis là pour tous ceux qui souhaite apprendre comment prendre soin d’eux
+mission: 'Je suis là pour tous ceux qui souhaitent apprendre à prendre soin d’eux
   pour offrir le meilleur d’eux-mêmes. Je suis là pour tous ceux qui rêvent d’un monde
-  meilleur et qui comprennent que celui-ci commence avec eux. Je me sens particulièrement
-  interpelée vers les gens d’affaires. C’est d’où je viens, ma première passion. J’ai
-  le rêve quand aidant une personne, celle-ci pourra en influencer plusieurs autres
-  et ainsi avoir un effet d’entraînement positif vers ce monde en santé et heureux
-  auquel j’aspire. '
+  meilleur et qui comprennent que celui-ci commence avec eux-mêmes. Je me sens particulièrement
+  interpelée vers les gens d’affaires, car c’est d’où je viens, ma première passion.
+  J’ai le rêve qu’en aidant une personne, celle-ci pourra en influencer plusieurs
+  autres à son tour et ainsi avoir un effet d’entraînement positif vers ce monde heureux
+  et en santé auquel j’aspire. '
 
 ---
 J'ai fondé le Centre Holistique Om Prana en 2013. Situé sur la rue St-Joseph en plein cœur du cartier St-Roch à Québec, le Centre offrait un restaurant végan et crudivore, un studio de yoga et de méditation, une épicerie santé et plusieurs cours de cuisine, d’aide à la santé et de développement personnel. Durant les trois années d’opération, j’ai enseigné de nombreux cours de yoga et j'ai offert des cures de détox à plus de 200 personnes. Les témoignages abondent de gens qui ont retrouvé leur énergie et leur joie de vivre, diminué leurs douleurs corporelles et augmenté leur clarté d’esprit.

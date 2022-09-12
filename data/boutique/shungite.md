@@ -4,7 +4,7 @@ url: "#"
 thumbnail: "/uploads/shungite-compressed.jpg"
 featured_image: "/uploads/shungite-compressed.jpg"
 categorie: Protection Ondes Nocives
-order: 5
+order: 2
 
 ---
 Voir plus bas pour des astuces sur l'hygiène électromagnétique.

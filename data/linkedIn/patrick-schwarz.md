@@ -1,5 +1,5 @@
 ---
-affichage: Ameliorer Sante
+affichage: Coaching Individuel
 title: Patrick Schwarz
 company: Syntell
 photo: "/uploads/patrick-schwarz.jpg"

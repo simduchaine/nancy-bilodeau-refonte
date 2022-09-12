@@ -3,7 +3,7 @@ title: Manger pour exceller
 id: mieux-manger
 thumbnail: "/uploads/manger-pour-exceller.png"
 link: "#"
-order: 10
+order: 8
 featured: false
 
 ---

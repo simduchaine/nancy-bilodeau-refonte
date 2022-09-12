@@ -296,6 +296,15 @@ module.exports = {
     {
       use: "@gridsome/source-filesystem",
       options: {
+        path: "data/ma-motivation/**/*.md",
+        typeName: "motivation",
+        resolveAbsolutePaths: true,
+        remark: {},
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
         path: "data/boutique/**/*.md",
         typeName: "products",
         resolveAbsolutePaths: true,

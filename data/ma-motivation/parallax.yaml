@@ -1,5 +1,19 @@
 ---
-hero_img: "/uploads/ma-motivation.jpg"
-img2: "/uploads/fondations.png"
-img3: "/uploads/vitalite.png"
-img4: "/uploads/monde-vibrant.png"
+hero_img: 
+  image: "/uploads/ma-motivation.jpg"
+  title: Un monde vibrant
+  subtitle: Où chacun vibre son plein potentiel
+bloc2:
+  image: "/uploads/bloc2-ma-motivation.png"
+img2:
+  image: "/uploads/fondations.png"
+  title: Les fondations
+  subtitle: Connaissances et environnement favorable
+img3:
+  image: "/uploads/vitalite.png"
+  title: J’infuse plus de vitalité dans notre société
+  subtitle: Une personne à la fois, une équipe à la fois, une compagnie à la fois
+img4:
+  image: "/uploads/monde-vibrant.png"
+  title: Pour un monde vibrant de santé
+  subtitle:

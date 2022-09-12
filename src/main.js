@@ -2,6 +2,8 @@
 // The Client API can be used here. Learn more: gridsome.org/docs/client-api
 import "~/assets/sass/styles.scss";
 import VueTypedJs from "vue-typed-js";
+import VuePrlx from 'vue-prlx';
+
 
 import DefaultLayout from "~/layouts/Default.vue";
 import HomeLayout from "~/layouts/Home.vue";
@@ -17,6 +19,7 @@ export default function(Vue, { router, head, isClient }) {
   Vue.component("Enhome", EnhomeLayout);
   Vue.component("EnglishLayout", EnglishLayout);
   Vue.use(VueTypedJs);
+  Vue.use(VuePrlx);
   // Add atributes to BODY tag
   head.bodyAttrs = { class: "has-navbar-fixed-top" };
   // Add attributes to HTML tag

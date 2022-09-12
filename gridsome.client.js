@@ -21,6 +21,9 @@ library.add(
   faInstagram
 );
 
+import { VuePrlxDirective } from 'vue-prlx'
+
 export default function(Vue) {
   Vue.component("font-awesome", FontAwesomeIcon);
+  Vue.directive('prlx', VuePrlxDirective);
 }

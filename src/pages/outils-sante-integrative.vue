@@ -28,7 +28,7 @@
 
 <page-query>
 query Outils {
-  outils: allOutils(filter: { path: { nin: ["/outils/footer/", "/outils/services/"] }} )  {
+  outils: allOutils(filter: { path: { nin: ["/outils/footer/", "/outils/services/", "/outils/mes-outils-en-sante-integrative/"] }} )  {
     edges {
       node {
         title

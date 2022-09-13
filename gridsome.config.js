@@ -133,11 +133,7 @@ module.exports = {
         // route: "/:slug",
         remark: {
           plugins: [
-            [
-              "gridsome-plugin-remark-youtube",
-              ,
-              { width: "500px", align: "auto" },
-            ],
+            ["gridsome-plugin-remark-youtube", { width: "750px", align: "auto" }]
           ],
         },
       },
@@ -281,6 +277,20 @@ module.exports = {
         resolveAbsolutePaths: true,
         route: "/outils/:title",
         remark: {},
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        path: "data/soins/**/*.md",
+        typeName: "soins",
+        resolveAbsolutePaths: true,
+        route: "/soins/:title",
+        remark: {
+          plugins: [
+            ["gridsome-plugin-remark-youtube", { width: "750px", align: "auto" }]
+          ],
+        },
       },
     },
     {

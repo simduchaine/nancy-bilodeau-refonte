@@ -59,7 +59,7 @@
 
     <section id="articles" class="has-background-info">
       <div class="container" style="padding: 2.5rem">
-        <h1 class="title has-text-centered">Mes articles préférés</h1>
+        <h1 class="title has-text-centered">Mes articles préférés pour toi</h1>
         <div class="columns is-multiline">
           <articles
             v-for="article in $page.articles.edges"
@@ -176,16 +176,6 @@ import "vue-slick-carousel/dist/vue-slick-carousel.css";
 import "vue-slick-carousel/dist/vue-slick-carousel-theme.css";
 
 export default {
-  metaInfo: {
-    title: "Coaching et consultation holistique pour individus et entreprises",
-    meta: [
-      {
-        name: "description",
-        content:
-          "J'accompagne les individus à atteindre un mieux-être optimal et se réaliser. J'aide aussi les entreprises à atteindre leurs objectifs, gérer leurs projects, améliorer leur processus, réduire les conflits et établir un milieu de travail sain basé sur des valeurs universelles durables.",
-      },
-    ],
-  },
   components: {
     services,
     lead,

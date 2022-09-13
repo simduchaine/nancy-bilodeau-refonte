@@ -60,7 +60,7 @@
                 <g-link class="navbar-item" to="/ameliorer-ma-sante"
                   >Améliorer ma santé</g-link
                 >
-                <a class="navbar-item" href="#"
+                <a class="navbar-item" href="https://cours.nancybilodeau.com/coherencecardiaque"
                   >Diminuer mon stress et mon anxiété</a
                 >
                 <a

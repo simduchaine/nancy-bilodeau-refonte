@@ -33,7 +33,7 @@
     </section>
 
     <section id="lead" class="has-background-info lead-content">
-      <lead></lead>
+      <lead class="pt-4"></lead>
     </section>
 
     <section id="call-to-action">
@@ -42,7 +42,7 @@
 
     <section id="main">
       <main-content
-        class="has-background-info lead-content"
+        class="has-background-info lead-content pt-4"
         style="margin-top: -10px"
       ></main-content>
     </section>
@@ -53,7 +53,7 @@
 
     <section id="articles" class="has-background-info lead-content">
       <div class="container">
-        <h1 class="title has-text-centered">Articles à la une</h1>
+        <h1 class="title has-text-centered">Mes articles préférés pour ton entreprise</h1>
         <div class="columns is-multiline">
           <articles
             v-for="article in $page.articles.edges"

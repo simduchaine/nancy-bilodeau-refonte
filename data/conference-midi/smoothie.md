@@ -3,7 +3,7 @@ title: Déjeuner de champion
 id: smoothies
 thumbnail: "/uploads/dejeuner-champion.png"
 link: "#"
-order: 10
+order: 9
 featured: false
 
 ---

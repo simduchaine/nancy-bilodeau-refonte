@@ -58,6 +58,11 @@ sections:
   match: "**/*"
   templates:
   - content-with-image-no-position
+- type: directory
+  path: data/soins
+  label: Soins
+  create: all
+  match: "**/*"
 - type: heading
   label: Santé et Mieux-être Individuel
 - type: directory

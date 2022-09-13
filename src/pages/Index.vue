@@ -87,12 +87,12 @@ import featuredIn from '~/components/home/featured-in.vue'
 export default {
   metaInfo: {
     title:
-      "Services conseils holistiques en entreprises et coaching individuel pour employés et gestionnaires",
+      "Guide en santé et mieux-être. Consultante, formatrice et coach certifiée. Bioénergie, neurosciences, cohérence cardiaque.",
     meta: [
       {
         name: "description",
         content:
-          "J'assiste les entreprises à atteindre leurs objectifs par l'établissement d'un milieu de travail vibrant où tous prennent soin de leur santé et de leur attitude en pleine conscience, pour apporter le meilleur d'eux même et contribuer au succès de l'entreprise.",
+          "J'assiste les entreprises à atteindre leurs objectifs par l'établissement d'un milieu de travail vibrant où tous prennent soin de leur santé et de leur attitude en pleine conscience, pour apporter le meilleur d'eux même et contribuer au succès de l'entreprise. J’assiste aussi les gestionnaires et employés en démarche individuelle vers l’atteinte d’une santé physique et mentale optimale.",
       },
     ],
   },

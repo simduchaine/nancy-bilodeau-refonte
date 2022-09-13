@@ -20,7 +20,7 @@ function addStyleResource(rule) {
 }
 
 module.exports = {
-  siteName: "Nancy Bilodeau - Consultante holistique pour entreprises",
+  siteName: "Nancy Bilodeau, MBA, au service du bien-être et de la performance d’entreprise.",
   //host: "0.0.0.0",
   siteUrl: "https://nancybilodeau.com",
   transformers: {

@@ -119,7 +119,7 @@
               <a class="navbar-link is-arrowless"> Ressources </a>
               <div class="navbar-dropdown">
                 <g-link class="navbar-item" to="/blogue">Blogue</g-link>
-                <a class="navbar-item" href="#">Podcast</a>
+                <a class="navbar-item" href="https://anchor.fm/nancy-bilodeau">Podcast</a>
                 <g-link class="navbar-item" to="/boutique">Boutique</g-link>
                 <a
                   class="navbar-item"

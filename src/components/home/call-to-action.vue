@@ -5,7 +5,7 @@
     </div>
     <div class="column is-paddingless">
       <div class="column is-two-thirds is-offset-one-fifth has-text-centered">
-        <h1 v-html="$static.home.title" class="title"></h1>
+        <h1 class="title is-size-5" v-html="$static.home.title" style="color: #A88391" ></h1>
         <div v-html="$static.home.content"></div>
       </div>
     </div>

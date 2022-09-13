@@ -12,8 +12,8 @@
                 width="650"
               ></g-image>
             </div>
-            <div class="card-content">
-              <a :href="$static.apropos.card1.link" target="_blank">
+            <div class="card-content has-text-centered">
+              <a :href="$static.apropos.card1.link" target="_blank" class="button">
                 <h2 class="title is-7 has-text-centered" v-html="$static.apropos.card1.title"></h2>
               </a>
             </div>
@@ -29,8 +29,8 @@
                 width="650"
               ></g-image>
             </div>
-            <div class="card-content">
-              <a :href="$static.apropos.card2.link" target="_blank">
+            <div class="card-content has-text-centered">
+              <a :href="$static.apropos.card2.link" target="_blank" class="button">
                 <h2 class="title is-7 has-text-centered" v-html="$static.apropos.card2.title"></h2>
               </a>
             </div>
@@ -46,8 +46,8 @@
                 width="650"
               ></g-image>
             </div>
-            <div class="card-content">
-              <a :href="$static.apropos.card3.link" target="_blank">
+            <div class="card-content has-text-centered">
+              <a :href="$static.apropos.card3.link" target="_blank" class="button">
                 <h2 class="title is-7 has-text-centered" v-html="$static.apropos.card3.title"></h2>
               </a>
             </div>

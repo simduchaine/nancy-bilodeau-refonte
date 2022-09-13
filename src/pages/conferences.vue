@@ -28,7 +28,7 @@
 
 <page-query>
 query Conferences {
-  conferences: allConferences (filter: { path: { nin: ["/conferences/type/conferences/", "/conferences/type/section-du-bas/"] }}, sortBy: "type", order: ASC) {
+  conferences: allConferences (filter: { path: { nin: ["/conferences/type/conferences/", "/conferences/type/section-du-bas/"] }}, sortBy: "order", order: ASC) {
     edges {
       node {
         title

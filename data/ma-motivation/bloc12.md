@@ -6,7 +6,7 @@ card1:
   button_text: Pour toi
   button_link: "#"
 card2:
-  image: "/uploads/conferences-corporatives.png"
+  image: "/uploads/section-plus-de-joie_pour-ton-equipe.png"
   button_text: Ton équipe
   button_link: "#"
 card3:

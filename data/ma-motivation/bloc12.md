@@ -1,12 +1,12 @@
 ---
 id: card-section
-title: On commence où ?
+title: ON COMMENCE OÙ ?
 card1:
   image: "/uploads/young-smiling-man.jpg"
   button_text: Pour toi
   button_link: "#"
 card2:
-  image: "/uploads/section-plus-de-joie_pour-ton-equipe.png"
+  image: "/uploads/ton-equipe.jpg"
   button_text: Ton équipe
   button_link: "#"
 card3:

@@ -18,4 +18,4 @@ Je souhaite que mes connaissances se propagent plus rapidement pour permettre à
 
 J’utilise donc mes compétences d’affaires et mes compétences en santé et mieux-être pour supporter les entreprises à créer des environnements favorables et vibrants de santé individuelle et organisationnelle pour accélérer l’amélioration de notre santé et vitalité collective.
 
-![](/uploads/happydemie.png)
+![](/uploads/copie-de-happydemie.png)

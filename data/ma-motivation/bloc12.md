@@ -15,6 +15,7 @@ card3:
   button_link: "#"
 
 ---
-**Tu n’es pas certain où commencer ? Réserve une rencontre exploratoire avec moi.**
+**Vous ne savez pas par où commencer?**  
+**Réservez une rencontre exploratoire avec Nancy pour discuter de vos besoins et identifier le meilleur chemin.**
 
 <a href="https://www.gorendezvous.com/homepage/111690" target="_blank" class="button">Prendre rendez-vous</a>

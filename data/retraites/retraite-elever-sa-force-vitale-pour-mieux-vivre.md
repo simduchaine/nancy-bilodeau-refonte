@@ -8,4 +8,4 @@ upcoming: false
 featured: false
 
 ---
-Venez découvrir comment connecter, réveiller, élever et maîtriser votre énergie. Dans cette retraite de 4 jours nous explorerons les sources d’énergies et comment les alimenter de façon à pouvoir manifester la meilleure version de vous-même, vivre heureux et en santé. Offerte du 11 au 15 septembre au Spa Eastman.
+Venez découvrir comment connecter, réveiller, élever et maîtriser votre énergie. Dans cette retraite de 5 jours nous explorerons les sources d’énergies et comment les alimenter de façon à pouvoir manifester la meilleure version de vous-même, vivre heureux et en santé. Offerte au Spa Eastman. Nouvelles dates à venir.

@@ -1,6 +1,6 @@
 ---
 Mission:
-  icone: "/uploads/copie-de-vision.png"
+  icone: "/uploads/mission.png"
   title: Ma mission
   content: Accompagner les gens et les entreprises à être + en santé et + heureux
     pour mieux se réaliser.

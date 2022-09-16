@@ -7,7 +7,7 @@ categorie: Protection Ondes Nocives
 order: 2
 
 ---
-Voir plus bas pour des astuces sur l'hygiène électromagnétique.
+**_Voir plus bas pour des astuces sur l'hygiène électromagnétique._**
 
 La Shungite est souvent applée "la pierre de la vie" en raison de ses propriétés cicatrisantes, anti oxydantes, antibactériennes, anti inflammatoires et antitoxiques. C’est une pierre rare et puissante dont l'âge est estimé à 2 milliards d'années. On la trouve seulement en Russie dans la région de Carélie. Elle est composée de Carbone 60 (fullerène), d’ou elle tire toute sa force. En 1991, le magazine Science a surnommé le fullerène – molécule de l’année. En Russie, cette pierre est utilisée dans certains hôpitaux ou l’on observe des temps de guérison plus court.
 
@@ -32,11 +32,9 @@ La Shungite est disponible sous différentes formes:
 * Matelas
 * Support Plus
 
-Témoignage : [https://thestoneoflife.com/recueil-de-temoignages/](https://thestoneoflife.com/recueil-de-temoignages/)
-
 Pour plus d’information ou passer une commande, [contactez moi](/contact)
 
-COMMENT SE PROTÉGER DES ONDES NOCIVES
+**COMMENT SE PROTÉGER DES ONDES NOCIVES**
 
 En plus des différentes solutions offertes aujourd'hui pour se protéger des ondes nocives, la première ligne de protection et la plus efficace demeure une bonne hygiène électromagnétique.
 

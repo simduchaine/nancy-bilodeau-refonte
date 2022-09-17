@@ -1,5 +1,5 @@
 ---
-title: Mieux respirer pour mieux vivre
+title: Mieux respirer pour être moins stressé
 id: technique-respiration
 thumbnail: "/uploads/mieux-respirer-2.png"
 link: "#"

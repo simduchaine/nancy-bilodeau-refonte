@@ -21,4 +21,4 @@ J’ai aussi eu l’honneur de recevoir avec mon équipe le prix de Projet de l�
 
 Mon immersion dans le monde des affaires fut très enrichissante et fait partie de qui je suis. Cette expérience me permet de connecter plus rapidement avec les gens du monde des affaires et de faire une différence pour eux.
 
-Plus d’informations, mon parcours professionnel est disponible sur mon [profil LinkedIn](https://ca.linkedin.com/in/nancybilodeau).
+Plus d’informations sur mon parcours professionnel est disponible sur mon [profil LinkedIn](https://ca.linkedin.com/in/nancybilodeau).

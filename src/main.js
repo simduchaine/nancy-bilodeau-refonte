@@ -24,4 +24,9 @@ export default function(Vue, { router, head, isClient }) {
   head.bodyAttrs = { class: "has-navbar-fixed-top" };
   // Add attributes to HTML tag
   head.htmlAttrs = { lang: "fr_CA" };
+  // Add mailchimp tag
+  head.script.push({
+        innerHTML: '!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/23c00cdf65b51791bb6e5bda3/ab27433dc759b95305c252715.js");',
+        id: "mcjs"
+    });
 }

@@ -2,7 +2,7 @@
 title: Mes inspirations préférées
 subtitle: ''
 link_text: Consulter mon blogue sur Les Affaires pour découvrir mon style >
-link: "/blogue"
+link: https://www.lesaffaires.com/auteur/nancy-bilodeau/2403
 card1:
   title: Neuroscience in Business (MIT)
   link: https://www.youtube.com/watch?v=qKro4lVjDA0

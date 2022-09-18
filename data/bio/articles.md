@@ -15,4 +15,4 @@ Je publie aujourd'hui sur :
 * [MindSet Entrepreneur ](https://www.mindset-entrepreneur.com/author/nancybilodeau/)
 * [Journal Action PME](https://www.journalactionpme.com/author/nancy-bilodeau/)
 
-Voir mon [blogue](https://nancy-bilodeau-refonte.vercel.app/blogue) pour tous les articles récents sur toutes ses plateformes.
+Voir mon [blogue](https://nancy-bilodeau-refonte.vercel.app/blogue) pour tous mes articles.

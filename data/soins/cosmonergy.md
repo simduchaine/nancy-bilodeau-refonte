@@ -16,12 +16,6 @@ Je fais partie du premier groupe de personnes qui furent formées à Québec en 
 
 ![](/uploads/copie-de-temoignage-2.png)
 
-[Prendre rendez-vous >](https://www.gorendezvous.com/homepage/111690)
-
-Autres Témoignages : [https://thestoneoflife.com/temoignages-cosmonergy/](https://thestoneoflife.com/temoignages-cosmonergy/)
-
-Quelques études sur la Shungite : [https://thestoneoflife.com/etudes/](https://thestoneoflife.com/etudes/)
-
 Vidéo explicative du soin :
 
 `youtube:https://www.youtube.com/watch?v=eOSHFjuQ09k`
@@ -29,3 +23,5 @@ Vidéo explicative du soin :
 Vidéo explicative de la pierre Shungite :
 
 `youtube:https://www.youtube.com/watch?v=My_IeuYlmFE`
+
+[Prendre rendez-vous >](https://www.gorendezvous.com/homepage/111690)

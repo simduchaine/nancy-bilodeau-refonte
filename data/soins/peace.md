@@ -18,12 +18,10 @@ Le travail avec la méthode PEACE est basé sur le corps et ses sensations. Il v
 
 ![](/uploads/temoignage-michelle.png)
 
-[Prendre rendez-vous >](https://www.gorendezvous.com/homepage/111690)
-
 Pour en savoir plus sur le PEACE, voici une petite vidéo explicative des principes de base.
 
 `youtube:https://www.youtube.com/watch?v=pGADyECacHU`
 
-Pour en savoir encore plus, voici une vidéo explicative du créateur de 
-
 N'hésitez pas à me contacter pour en savoir plus.
+
+[Prendre rendez-vous >](https://www.gorendezvous.com/homepage/111690)

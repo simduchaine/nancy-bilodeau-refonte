@@ -14,7 +14,7 @@
         <div class="columns">
           <div class="column">
             <h2 class="title is-5">Écrivez-nous</h2>
-            <form name="contact" method="POST" data-netlify="true">
+            <form name="contact" method="POST" action="https://formspree.io/f/maykeley">
               <input type="hidden" name="form-name" value="contact" />
               <div class="field">
                 <label class="label">Nom</label>

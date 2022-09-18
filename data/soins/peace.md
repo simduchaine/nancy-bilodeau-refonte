@@ -4,7 +4,7 @@ title: PEACE
 thumbnail: "/uploads/xl-logo-peace-3millenaire.png"
 
 ---
-La méthode PEACE (Processus Empathique d’Abandon Corporel et Émotionnel) est une nouvelle approche développée et déployée depuis 2017 par le célèbre auteur et chercheur [Stéphane Drouet](http://stephanedrouet.com/).
+La méthode PEACE (Processus Empathique d’Abandon Corporel et Émotionnel) est une approche développée et déployée en 2017 par le célèbre auteur et chercheur [Stéphane Drouet](http://stephanedrouet.com/).
 
 La méthode permet d'alléger entre autres les addictions, les problèmes relationnels, les séparations, les peurs, la culpabilité et les blocages de toutes sortes.
 
@@ -24,8 +24,6 @@ Pour en savoir plus sur le PEACE, voici une petite vidéo explicative des princi
 
 `youtube:https://www.youtube.com/watch?v=pGADyECacHU`
 
-Pour en savoir encore plus, voici une vidéo explicative du créateur de la méthode.
-
-`youtube:https://www.youtube.com/watch?v=idJVMXLsWzY`
+Pour en savoir encore plus, voici une vidéo explicative du créateur de 
 
 N'hésitez pas à me contacter pour en savoir plus.

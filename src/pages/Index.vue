@@ -176,6 +176,12 @@ ul {
   }
 }
 
+ol {
+  li {
+    list-style-position: inside;
+  }
+}
+
 blockquote {
   position: relative;
   padding-left: 0.5em;

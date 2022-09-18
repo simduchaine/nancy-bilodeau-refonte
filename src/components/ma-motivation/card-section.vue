@@ -14,7 +14,7 @@
                         </figure>
                     </div>
                     <div class="card-content has-text-centered">
-                        <a :href="$static.motivation.card1.button_link" target="_blank" rel="noopener noreferrer" class="button"><h2 class="title " v-html="$static.motivation.card1.button_text"></h2></a>
+                        <a :href="$static.motivation.card1.button_link" target="_blank" rel="noopener noreferrer" class="button" v-html="$static.motivation.card1.button_text"></a>
                     </div>
                 </div>
             </div>
@@ -29,7 +29,7 @@
                         </figure>
                     </div>
                     <div class="card-content has-text-centered">
-                        <a :href="$static.motivation.card2.button_link" target="_blank" rel="noopener noreferrer" class="button"><h2 class="title " v-html="$static.motivation.card2.button_text"></h2></a>
+                        <a :href="$static.motivation.card2.button_link" target="_blank" rel="noopener noreferrer" class="button" v-html="$static.motivation.card2.button_text"></a>
                     </div>
                 </div>
             </div>
@@ -44,13 +44,13 @@
                         </figure>
                     </div>
                     <div class="card-content has-text-centered">
-                        <a :href="$static.motivation.card3.button_link" target="_blank" rel="noopener noreferrer" class="button"><h2 class="title " v-html="$static.motivation.card3.button_text"></h2></a>
+                        <a :href="$static.motivation.card3.button_link" target="_blank" rel="noopener noreferrer" class="button" v-html="$static.motivation.card3.button_text"></a>
                     </div>
                 </div>
             </div>
           </div>
 
-          <div v-html="$static.motivation.content"></div>
+          <div v-html="$static.motivation.content" class="has-text-centered p-6"></div>
 
         </div>
 </template>

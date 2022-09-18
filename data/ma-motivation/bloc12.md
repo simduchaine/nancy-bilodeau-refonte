@@ -15,6 +15,8 @@ card3:
   button_link: "#"
 
 ---
+<h1 style="color: #A88391" class="title">PRÊT À TRANSFORMER VOTRE VIE OU VOTRE ENTREPRISE ?</h1>
+
 **Vous ne savez pas par où commencer?**  
 **Réservez une rencontre exploratoire avec Nancy pour discuter de vos besoins et identifier le meilleur chemin.**
 

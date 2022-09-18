@@ -2,7 +2,7 @@
   <Layout>
     <div style="margin-top: -3rem;" v-for="prlximage in $page.allMotivParallax.edges" :key="prlximage.node.id">
 
-      <parallax-section :title="prlximage.node.hero_img.title" :subtitle="prlximage.node.hero_img.subtitle" :image="prlximage.node.hero_img.image"></parallax-section>
+      <parallax-section :title="prlximage.node.hero_img.title" :subtitle="prlximage.node.hero_img.subtitle" :image="prlximage.node.hero_img.image" :custom-class="'is-dark'"></parallax-section>
 
       <div class="section">
         <div class="container">

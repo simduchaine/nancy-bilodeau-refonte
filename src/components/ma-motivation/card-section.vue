@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-          <h2 class="title" v-html="$static.motivation.title"></h2>
+          <h2 class="title has-text-centered is-size-5" v-html="$static.motivation.title"></h2>
 
           <div class="columns">
             

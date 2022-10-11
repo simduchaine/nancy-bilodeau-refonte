@@ -1,13 +1,9 @@
 <template>
   <div class="container">
     <div class="columns is-marginless is-centered">
-      <div class="column is-half has-text-centered" style="padding-top: 2rem">
-        <h1
-          v-html="$static.homeEn.title"
-          class="title is-size-6"
-          style="margin-bottom: 0"
-        ></h1>
-        <div v-html="$static.homeEn.content" class="is-size-6"></div>
+      <div class="column is-half has-text-centered" style="padding-top:2rem">
+        <h1 v-html="$static.home.title" class="title is-size-5" style="margin-bottom: 1em"></h1>
+        <div v-html="$static.home.content" class="is-size-6"></div>
       </div>
     </div>
 
@@ -15,7 +11,7 @@
     <div
       id="mc_embed_signup"
       class="columns is-centered"
-      style="margin-top: -2.25em; padding-bottom: 1rem"
+      style="margin-top: -2.25em;padding-bottom:1rem"
     >
       <div class="column is-full">
         <form
@@ -52,7 +48,7 @@
                       name="LNAME"
                       class="input"
                       id="mce-LNAME"
-                      placeholder="Last Name"
+                      placeholder="Name"
                     />
                   </div>
                 </div>
@@ -74,7 +70,7 @@
               <div class="clear">
                 <input
                   type="submit"
-                  value="Subscribe"
+                  value="Yes, I want my FREE guide!"
                   name="subscribe"
                   id="mc-embedded-subscribe"
                   class="button"
@@ -93,25 +89,12 @@
               <label for="mce-group[6174]-6174-1">Website_Lead_Gen_Corpo</label>
             </div>
             <div id="mce-responses" class="clear">
-              <div
-                class="response"
-                id="mce-error-response"
-                style="display: none"
-              ></div>
-              <div
-                class="response"
-                id="mce-success-response"
-                style="display: none"
-              ></div>
+              <div class="response" id="mce-error-response" style="display:none"></div>
+              <div class="response" id="mce-success-response" style="display:none"></div>
             </div>
             <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-            <div style="position: absolute; left: -5000px" aria-hidden="true">
-              <input
-                type="text"
-                name="b_23c00cdf65b51791bb6e5bda3_16ac9ef9aa"
-                tabindex="-1"
-                value
-              />
+            <div style="position: absolute; left: -5000px;" aria-hidden="true">
+              <input type="text" name="b_23c00cdf65b51791bb6e5bda3_16ac9ef9aa" tabindex="-1" value />
             </div>
           </div>
         </form>
@@ -123,7 +106,7 @@
 
 <static-query>
 query {
-  homeEn(path: "/data-en/home/magnet/") {
+  home: homeEn(path: "/data-en/home/magnet") {
     title
     content
   }
@@ -132,7 +115,7 @@ query {
 
 <script>
 export default {
-  name: "Magnet",
+  name: "Magnet"
 };
 </script>
 

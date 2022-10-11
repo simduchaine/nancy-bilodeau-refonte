@@ -8,6 +8,7 @@ import VuePrlx from 'vue-prlx';
 import DefaultLayout from "~/layouts/Default.vue";
 import HomeLayout from "~/layouts/Home.vue";
 import CarouselLayout from "~/layouts/Carousel.vue";
+import CarouselEnLayout from "~/layouts/CarouselEn.vue";
 import EnhomeLayout from "~/layouts/HomeEn.vue";
 import EnglishLayout from "~/layouts/DefaultEn.vue";
 
@@ -16,6 +17,7 @@ export default function(Vue, { router, head, isClient }) {
   Vue.component("Layout", DefaultLayout);
   Vue.component("HomeLayout", HomeLayout);
   Vue.component("CarouselLayout", CarouselLayout);
+  Vue.component("CarouselEnLayout", CarouselEnLayout);
   Vue.component("Enhome", EnhomeLayout);
   Vue.component("EnglishLayout", EnglishLayout);
   Vue.use(VueTypedJs);

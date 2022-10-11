@@ -1,65 +1,69 @@
 <template>
   <Enhome>
-    <section id="carouselEn">
-      <VueSlickCarousel
-        class="hero is-medium has-background"
-        :dots="true"
-        :autoplay="true"
-        :autoplaySpeed="5000"
-        :arrows="true"
-      >
-       
-       <div v-for="slide in $page.slides.edges" :key="slide.node.id">
-          <g-image class="hero-background is-transparent" :src="slide.node.backgroundImg" />
-          <div class="hero-body">
-            <div class="container">
-              <h1 class="title is-size-2">{{ slide.node.title }}</h1>
-              <h2 class="title is-size-3 is-family-primary">{{ slide.node.subtitle }}</h2>
-              <a :href="slide.node.buttonLink" class="button">
-                {{
-                slide.node.buttonText
-                }}
-              </a>
-            </div>
-          </div>
-        </div>
-        
-      </VueSlickCarousel>
+
+     <section id="featured-in">
+      <featuredIn></featuredIn>
     </section>
 
     <section id="Magnet" style="background-color:#f1f0f0">
       <Magnet></Magnet>
     </section>
-    <section id="mission-vision" class="section">
-      <mission-vision></mission-vision>
-    </section>
-    <section id="lead" class="has-background-info lead-content">
+
+    <section id="lead" class="lead-content">
       <lead></lead>
     </section>
+
+    <section id="services" class="has-background-info lead-content">
+      <services></services>
+    </section>
+
     <section id="call-to-action">
       <call-action></call-action>
     </section>
-    <section id="main">
-      <main-content class="has-background-info lead-content" style="margin-top: -10px"></main-content>
+
+    <section id="video" class="has-background-info lead-content" style="margin-top: -10px">
+      <video-section></video-section>
     </section>
-    <section id="consultation">
-      <consultation></consultation>
+
+    <section id="testimonials" class="container lead-content">
+      <testimonials></testimonials>
     </section>
+
+    <section id="Formation" style="background-color:#f1f0f0">
+      <formation></formation>
+    </section>
+
+    <section id="follow" class="lead-content">
+      <follow-me></follow-me>
+    </section>
+
+    <section id="bottom-anchor" class="has-background-info lead-content">
+      <bottom-anchor></bottom-anchor>
+    </section>
+
   </Enhome>
 </template>
 
 <page-query>
-query CarouselEn {
- slides: allCarouselEn {
+query {
+  retraites: allRetraites(filter: {featured: {eq: true}}) {
+    edges {
+      node {
+        id
+        title
+        thumbnail
+        link
+        content
+      }
+    }
+  },
+  linkedin: allLinkedInEn (filter: {affichage: {eq: "Accueil"}}) {
     edges {
       node {
         title
-        subtitle
-        path
-        backgroundImg (quality: 100)
-        buttonText
-        buttonLink
-        id
+        company
+        content
+        photo
       }
     }
   }
@@ -69,14 +73,15 @@ query CarouselEn {
 <script>
 import lead from "~/components/en/home/Lead.vue";
 import callAction from "~/components/en/home/call-to-action.vue";
-import mainContent from "~/components/en/home/Main.vue";
-import consultation from "~/components/en/home/consultation.vue";
-import missionVision from "~/components/en/home/mission-vision.vue";
+import videoSection from "~/components/en/home/video.vue";
 import Magnet from "~/components/en/home/Magnet.vue";
+import services from "~/components/en/home/services.vue";
+import FollowMe from "~/components/en/home/follow-me.vue";
+import BottomAnchor from '~/components/en/home/bottom-anchor.vue';
+import formation from '~/components/en/home/formation.vue';
+import testimonials from '~/components/en/home/testimonials.vue';
+import featuredIn from '~/components/en/home/featured-in.vue'
 
-import VueSlickCarousel from "vue-slick-carousel";
-import "vue-slick-carousel/dist/vue-slick-carousel.css";
-import "vue-slick-carousel/dist/vue-slick-carousel-theme.css";
 
 export default {
   metaInfo: {
@@ -91,11 +96,14 @@ export default {
   components: {
     lead,
     callAction,
-    mainContent,
-    consultation,
-    missionVision,
+    videoSection,
     Magnet,
-    VueSlickCarousel
+    services,
+    FollowMe,
+    BottomAnchor,
+    formation,
+    testimonials,
+    featuredIn
   },
 };
 </script>

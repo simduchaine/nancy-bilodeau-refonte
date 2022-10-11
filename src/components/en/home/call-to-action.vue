@@ -1,12 +1,12 @@
 <template>
   <div class="columns is-marginless is-vcentered">
     <div class="column is-paddingless">
-      <g-image :src="$static.homeEn.thumbnail" style="width: 100%" />
+      <g-image :src="$static.home.thumbnail" style="width:100%" />
     </div>
     <div class="column is-paddingless">
-      <div class="column is-three-fifths is-offset-one-fifth">
-        <h1 v-html="$static.homeEn.title" class="title"></h1>
-        <div v-html="$static.homeEn.content"></div>
+      <div class="column is-two-thirds is-offset-one-fifth has-text-centered">
+        <h1 class="title is-size-5" v-html="$static.home.title" style="color: #A88391" ></h1>
+        <div v-html="$static.home.content"></div>
       </div>
     </div>
   </div>
@@ -14,7 +14,7 @@
 
 <static-query>
 query {
-  homeEn(path: "/data-en/home/call-to-action/") {
+  home: homeEn(path: "/data-en/home/call-to-action") {
     title
     content
     thumbnail (quality: 100, height: 680, width: 940)
@@ -24,6 +24,6 @@ query {
 
 <script>
 export default {
-  name: "CTA",
+  name: "CTA"
 };
 </script>

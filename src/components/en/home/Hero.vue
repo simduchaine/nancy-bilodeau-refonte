@@ -1,33 +1,16 @@
 <template>
-  <section class="hero is-primary is-medium has-background">
-    <g-image class="hero-background is-transparent" :src="$static.HeroImg.hero_image" />
+  <section class="hero is-primary is-medium">
+    <g-image :src="$static.HeroImg.hero_image" class="hero-background" style="height:740px;"/>
     <div class="hero-body">
-      <div class="container">
-        <vue-typed-js
-          :strings="['results', 'retention', 'performance', 'value', 'commitment', 'loyalty', 'time', 'satisfaction', 'dynamism', 'harmony']"
-          :loop="true"
-          :typeSpeed="150"
-          :startDelay="1000"
-          :backDelay="2000"
-        >
-          <h1 class="title is-1 has-text-right">
-            <span>+</span> of
-            <br />
-            <span class="typing"></span>
-          </h1>
-        </vue-typed-js>
-        <div>
-          <g-image src="../../../assets/img/smile2.svg" style="margin: 0.5rem; " />
-        </div>
-      </div>
+      <div class="container"></div>
     </div>
   </section>
 </template>
 
 <static-query>
 query HeroImg {
-  HeroImg: settings(path: "/data/site") {
-    hero_image (width: 1920, height: 1080)
+  HeroImg: settingsEn(path: "/data-en/site/") {
+    hero_image (quality: 100)
   }
 }
 </static-query>
@@ -38,8 +21,9 @@ export default {
 };
 </script>
 
-<style lang="scss">
-/* .hero {
+<style scoped lang="scss">
+.hero {
+  height: 740px;
   &.has-background {
     position: relative;
     overflow: hidden;
@@ -48,35 +32,20 @@ export default {
   &-background {
     position: absolute;
     object-fit: cover;
-    object-position: center top;
+    object-position: top;
     width: 100%;
-    height: 100%;
+    height: 100vh;
 
     &.is-transparent {
-      opacity: 0.5;
+      opacity: 0.7;
     }
   }
 
   &.is-medium {
     .hero-body {
-      padding-bottom: 4rem;
-      padding-top: 4rem;
+      padding-bottom: 8.5rem;
+      padding-top: 8.5rem;
     }
   }
-
-  .container {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-end;
-  }
-
-  .title {
-    font-size: 5rem;
-  }
 }
-
-.typing {
-  color: #c4e0ec; //#3b3049
-} */
 </style>
-

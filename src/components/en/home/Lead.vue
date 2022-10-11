@@ -1,19 +1,17 @@
 <template>
   <div class="container">
-    <div class="columns is-marginless">
-      <div class="column is-two-fifths">
-        <h1 class="title" v-html="$static.homeEn.title"></h1>
+    <div class="columns is-marginless is-centered">
+      <div class="column is-three-quarters has-text-centered">
+        <div class="is-size-5" v-html="$static.home.content"></div>
       </div>
-      <div class="column"></div>
-      <div class="column is-half" v-html="$static.homeEn.content"></div>
+      
     </div>
   </div>
 </template>
 
 <static-query>
 query {
-  homeEn(path: "/data-en/home/lead/") {
-    title
+  home: homeEn(path: "/data-en/home/lead") {
     content
   }
 }
@@ -21,6 +19,6 @@ query {
 
 <script>
 export default {
-  name: "Lead",
+  name: "Lead"
 };
 </script>

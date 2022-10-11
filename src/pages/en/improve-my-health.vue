@@ -115,7 +115,7 @@
 
 <page-query>
   query {
-    data: allServicesEn(filter: { path: { nin: ["/data_en/health/formations/", "/data_en/health/lead/", "/data_en/health/consultation/", "/data_en/health/featured-articles/", "/data_en/health/magnet/", "/data_en/health/mission-vision/"] }}, sortBy: "position", order: ASC) {
+    data: allServicesEn(filter: { path: { nin: ["/data-en/health/formations/", "/data-en/health/lead/", "/data-en/health/consultation/", "/data-en/health/featured-articles/", "/data-en/health/magnet/", "/data-en/health/mission-vision/"] }}, sortBy: "position", order: ASC) {
       edges {
         node {
           title

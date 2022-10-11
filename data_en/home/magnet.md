@@ -1,6 +1,7 @@
 ---
-title: A company's performance is equal to its employees' performance multiplied by
-  their synergy
+title: Besoin d’un BOOST d’énergie maintenant ? <br> Téléchargez mon guide GRATUIT
+  sur les 8 clés de la santé !
 
 ---
-Sign up to discover the key elements of a good wellness program that will help your employees thrive
+Parce que l’énergie est la force vitale qui nous propulse. <br>
+Elle aide notre corps à faire son travail pour que nous puissions poursuivre nos ambitions.

@@ -2,7 +2,7 @@
   <div>
     <custom-header />
 
-    <!-- <hero /> -->
+    <hero />
 
     <slot />
 

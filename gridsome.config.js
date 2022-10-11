@@ -363,6 +363,50 @@ module.exports = {
     {
       use: "@gridsome/source-filesystem",
       options: {
+        path: "data_en/site.yaml",
+        typeName: "settingsEn",
+        resolveAbsolutePaths: true,
+        remark: {
+          plugins: [
+            //require("remark-attr")
+          ],
+        },
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        path: "data_en/about-me/**/*.md",
+        typeName: "about",
+        resolveAbsolutePaths: true,
+        remark: {
+          plugins: [
+            // ...local plugins
+          ],
+        },
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        path: "data_en/org-transfo/**/*.md",
+        typeName: "orgtransfo",
+        resolveAbsolutePaths: true,
+        //route: "/formations/:type/:slug",
+        remark: {
+          plugins: [
+            [
+              "gridsome-plugin-remark-youtube",
+              ,
+              { width: "500px", align: "auto" },
+            ],
+          ],
+        },
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
         path: "data_en/pages/**/*.md",
         typeName: "PageContentEn",
         resolveAbsolutePaths: true,
@@ -421,6 +465,45 @@ module.exports = {
         },
       },
     },
+     {
+      use: "@gridsome/source-filesystem",
+      options: {
+        path: "data_en/carousel-health/**/*.md",
+        typeName: "CarouselHealth",
+        resolveAbsolutePaths: true,
+        remark: {
+          plugins: [
+            //require("remark-attr")
+          ],
+        },
+      },
+    },
+     {
+      use: "@gridsome/source-filesystem",
+      options: {
+        path: "data_en/carousel-team/**/*.md",
+        typeName: "CarouselTeam",
+        resolveAbsolutePaths: true,
+        remark: {
+          plugins: [
+            //require("remark-attr")
+          ],
+        },
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        path: "data_en/health/**/*.md",
+        typeName: "servicesEn",
+        resolveAbsolutePaths: true,
+        remark: {
+          plugins: [
+            // ...local plugins
+          ],
+        },
+      },
+    },
     {
       use: "@gridsome/source-filesystem",
       options: {
@@ -437,6 +520,92 @@ module.exports = {
         typeName: "conferencesEn",
         resolveAbsolutePaths: true,
         route: "/en/conferences/:type/:title",
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        path: "data_en/shop/**/*.md",
+        typeName: "productsEn",
+        resolveAbsolutePaths: true,
+        route: "/en/shop/:title",
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        path: "data_en/tools/**/*.md",
+        typeName: "tools",
+        resolveAbsolutePaths: true,
+        route: "/tools/:title",
+        remark: {},
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        path: "data_en/services/**/*.md",
+        typeName: "soinsEn",
+        resolveAbsolutePaths: true,
+        route: "/en/services/:title",
+        remark: {
+          plugins: [
+            [
+              "gridsome-plugin-remark-youtube",
+              ,
+              { width: "500px", align: "auto" },
+            ],
+          ],
+        },
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        path: "data_en/health-skills/**/*.md",
+        typeName: "healthSkills",
+        resolveAbsolutePaths: true,
+        remark: {
+          plugins: [
+            [
+              "gridsome-plugin-remark-youtube",
+              ,
+              { width: "500px", align: "auto" },
+            ],
+          ],
+        },
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        path: "data_en/values/**/*.md",
+        typeName: "values",
+        resolveAbsolutePaths: true,
+        route: "/values/:title",
+        remark: {},
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        path: "data_en/my-purpose/parallax.yaml",
+        typeName: "PurposeParallax",
+        resolveAbsolutePaths: true,
+        remark: {
+          plugins: [
+            //require("remark-attr")
+          ],
+        },
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        path: "data_en/my-purpose/**/*.md",
+        typeName: "purpose",
+        resolveAbsolutePaths: true,
+        remark: {},
       },
     },
   ],

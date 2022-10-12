@@ -224,7 +224,6 @@ sections:
 - type: document
   path: data_en/pages/detox.md
   label: Detox
-  match: "**/*"
 - type: heading
   label: Corporate Wellness
 - type: directory

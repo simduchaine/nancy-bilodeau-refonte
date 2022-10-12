@@ -9,19 +9,39 @@ sections:
 - type: document
   path: data/site.yaml
   label: Options du site
+- type: document
+  path: data_en/site.yaml
+  label: Options du site (anglais)
+  match: "**/*"
 - type: directory
   path: data/home
   label: Page d'accueil
   create: all
   match: "**/*"
+- type: directory
+  path: data_en/home
+  label: Page d'accueil (anglais)
+  create: all
+  match: "**/*"
 - type: document
   path: data/pages/services.md
   label: Services Conseils
+- type: document
+  path: data_en/pages/services.md
+  label: Services (anglais)
+  match: "**/*"
 - type: directory
   path: data/linkedIn
   label: Ref. LinkedIn
   create: documents
   match: "**/*"
+- type: directory
+  path: data_en/linkedin
+  label: Ref. LinkedIn (anglais)
+  create: all
+  match: "**/*"
+  templates:
+  - ref-linkedin
 - type: heading
   label: Mission
 - type: directory
@@ -152,27 +172,12 @@ sections:
 - type: heading
   label: Anglais
 - type: directory
-  path: data_en/home
-  label: Home
-  create: all
-  match: "**/*"
-- type: directory
   path: data_en/carousel
   label: Carousel
   create: all
   match: "**/*"
   templates:
   - carousel
-- type: document
-  path: data_en/pages/services.md
-  label: Services
-- type: directory
-  path: data_en/linkedIn
-  label: Ref. LinkedIn
-  create: documents
-  match: "**/*"
-  templates:
-  - ref-linkedin
 - type: directory
   path: data_en/training
   label: Training

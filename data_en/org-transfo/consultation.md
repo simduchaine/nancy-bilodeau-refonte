@@ -1,6 +1,7 @@
 ---
 title: Consultation
 id: consultation
+
 ---
 Les rencontres peuvent se faire en personne ou vidéo conférence.
 

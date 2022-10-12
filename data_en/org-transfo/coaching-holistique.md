@@ -4,6 +4,7 @@ definition: Mon approche est globale. C'est à dire que je m'intéresse à un pr
   ou objectif dans sa globalité. Je chercher à trouver les causes du problème au delà
   de seulement corriger les symptômes reliés à celui-ci.
 id: main
+
 ---
 Dans chacun de mes mandats, j'évalue les différentes dimensions de l’entreprise pour l’aider à trouver l'équilibre vers ses objectifs et atteindre une performance optimale.
 

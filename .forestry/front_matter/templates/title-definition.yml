@@ -4,10 +4,9 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Titre
 - type: textarea
   name: definition
-  label: definition
-- type: text
-  name: id
-  label: id
+  label: Definition
+pages:
+- data_en/org-transfo/coaching-holistique.md

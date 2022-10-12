@@ -119,7 +119,7 @@ query Articles {
       }
     }
   },
-  slides: allCarouselTeam(sortBy: "order", order: ASC) {
+  slides: allCarouselEn(sortBy: "order", order: ASC) {
     edges {
       node {
         title

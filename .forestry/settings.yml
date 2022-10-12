@@ -170,6 +170,21 @@ sections:
 - type: heading
   label: Mission (anglais)
 - type: directory
+  path: data_en/my-purpose
+  label: My Purpose
+  create: all
+  match: "**/*"
+- type: directory
+  path: data_en/about-me
+  label: About Me
+  create: all
+  match: "**/*"
+- type: directory
+  path: data_en/values
+  label: My Values
+  create: all
+  match: "**/*"
+- type: directory
   path: data_en/bio
   label: Business Skills
   create: all
@@ -178,6 +193,21 @@ sections:
   - bio-components
   - bio
   - bio-emplois
+- type: directory
+  path: data_en/health-skills
+  label: My Health Skills
+  create: all
+  match: "**/*"
+- type: directory
+  path: data_en/tools
+  label: Tools
+  create: all
+  match: "**/*"
+- type: directory
+  path: data_en/services
+  label: Care
+  create: all
+  match: "**/*"
 - type: heading
   label: Corporate Wellness
 - type: directory

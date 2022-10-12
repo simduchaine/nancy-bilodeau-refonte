@@ -12,7 +12,6 @@ sections:
 - type: document
   path: data_en/site.yaml
   label: Options du site (anglais)
-  match: "**/*"
 - type: directory
   path: data/home
   label: Page d'accueil
@@ -29,14 +28,13 @@ sections:
 - type: document
   path: data_en/pages/services.md
   label: Services (anglais)
-  match: "**/*"
 - type: directory
   path: data/linkedIn
   label: Ref. LinkedIn
   create: documents
   match: "**/*"
 - type: directory
-  path: data_en/linkedin
+  path: data_en/linkedIn
   label: Ref. LinkedIn (anglais)
   create: all
   match: "**/*"
@@ -170,14 +168,23 @@ sections:
   templates:
   - boutique
 - type: heading
-  label: Anglais
+  label: Mission (anglais)
 - type: directory
-  path: data_en/carousel
-  label: Carousel
+  path: data_en/bio
+  label: Business Skills
   create: all
   match: "**/*"
   templates:
-  - carousel
+  - bio-components
+  - bio
+  - bio-emplois
+- type: heading
+  label: Corporate Wellness
+- type: directory
+  path: data_en/org-transfo
+  label: Organizational Transformation
+  create: all
+  match: "**/*"
 - type: directory
   path: data_en/training
   label: Training
@@ -192,15 +199,19 @@ sections:
   match: "**/*"
   templates:
   - formations
+- type: document
+  path: data_en/pages/coaching.md
+  label: Coaching
+  match: "**/*"
+- type: heading
+  label: Ressources (anglais)
 - type: directory
-  path: data_en/bio
-  label: Bio
+  path: data_en/shop
+  label: Shop
   create: all
   match: "**/*"
   templates:
-  - bio-components
-  - bio
-  - bio-emplois
+  - boutique
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''

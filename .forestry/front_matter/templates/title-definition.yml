@@ -1,0 +1,13 @@
+---
+label: Title & Definition
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: definition
+  label: definition
+- type: text
+  name: id
+  label: id

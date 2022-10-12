@@ -202,7 +202,6 @@ sections:
 - type: document
   path: data_en/pages/coaching.md
   label: Coaching
-  match: "**/*"
 - type: heading
   label: Ressources (anglais)
 - type: directory

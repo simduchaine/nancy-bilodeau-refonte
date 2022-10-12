@@ -58,3 +58,4 @@ fields:
   label: Mission-Vision
 pages:
 - data/competences-sante/bio.md
+- data_en/health-skills/bio.md

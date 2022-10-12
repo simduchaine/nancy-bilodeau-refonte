@@ -184,6 +184,8 @@ sections:
   label: My Values
   create: all
   match: "**/*"
+  templates:
+  - content-with-image-no-position
 - type: directory
   path: data_en/bio
   label: Business Skills
@@ -203,11 +205,15 @@ sections:
   label: Tools
   create: all
   match: "**/*"
+  templates:
+  - content-with-image-no-position
 - type: directory
   path: data_en/services
   label: Care
   create: all
   match: "**/*"
+  templates:
+  - content-with-image-no-position
 - type: heading
   label: Individual Health
 - type: directory

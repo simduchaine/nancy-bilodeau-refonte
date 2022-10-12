@@ -27,6 +27,12 @@ vision: A happy and healthy world!
 mission: Inspire people and businesses to be healthier and happier to reach their
   full potential.
 cv_link: "/uploads/Nancy Bilodeau Resume July 2019.pdf"
+title_formation: Sommaire des formations en santé intégrative
+link_formation: "/mes-competences-daffaires"
+link_formation_text: Visitez mes compétences d’affaires pour en savoir plus sur mes
+  formations d'affaires >
+mission_title: Pour qui
+vision_title: Mon pourquoi
 
 ---
 I am 48 years old and what a life! Born in Quebec, I hold a Bachelor's degree in Business Administration from the [University of Sherbrooke](https://www.usherbrooke.ca/) and an MBA from [Keller University Graduate School of Management](https://www.keller.edu/) in the United States. I lived in the United States during 12 years and worked across several industries for large, medium and small businesses. More information about my career is available on my [LinkedIn profile](https://www.linkedin.com/in/nancybilodeau/).

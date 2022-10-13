@@ -2,9 +2,9 @@
 id: mission-vision
 Mission:
   icone: "/uploads/mission.png"
-  title: Ma mission
-  content: Accompagner les gens et les entreprises à être + en santé et + heureux
-    pour mieux se réaliser.
+  title: My Mission
+  content: Inspire people and businesses to be healthier and happier to reach their
+    full potential.
 Vision:
   icone: "/uploads/vision.png"
   title: Ma vision

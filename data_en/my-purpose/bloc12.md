@@ -17,7 +17,7 @@ card3:
 ---
 <h1 style="color: #A88391" class="title">READY TO TRANSFORM YOUR LIFE OR BUSINESS?</h1>
 
-**You do not know where to start?**  
-**Book an exploratory call with Nancy to discuss your needs.**
+Don’t know where to start?  
+Book an exploratory call to discuss your needs and identify the best path forward.
 
-<a href="https://www.gorendezvous.com/homepage/111690" target="_blank" class="button">Make an Appointment </a>
+<a href="https://www.gorendezvous.com/homepage/111690" target="_blank" class="button">I’d like to make an appointment </a>

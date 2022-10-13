@@ -1,6 +1,6 @@
 ---
 thumbnail: "/uploads/accueil-visuels-mieux-etre.jpg"
-title: Reach optimal wellbeing to be happier  &#128578;
+title: Reach optimal wellbeing and be happier  &#128578;
 position: "1"
 id: cta
 

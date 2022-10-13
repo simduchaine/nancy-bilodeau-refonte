@@ -1,11 +1,11 @@
 ---
-title: VERS UN MONDE PLUS VIBRANT
-subtitle: NANCY BILODEAU COMBINE 25 ANS D’EXPÉRIENCE D’AFFAIRES ET 10 ANS EN SANTÉ
-  INTÉGRATIVE CE QUI LUI DONNE UNE VUE UNIQUE DES PILIERS POUR RAMENER LA SANTÉ ET
-  LE PLAISIR DANS NOS VIES ET AU TRAVAIL.
+title: TOWARDS A MORE VIBRANT WORLD
+subtitle: NANCY BILODEAU COMBINES 25 YEARS OF BUSINESS / CORPORATE EXPERIENCE AND
+  10 YEARS IN INTEGRATIVE HEALTH WHICH GIVES HER A UNIQUE VIEW OF WHAT IS NEEDED TO
+  BRING JOY AND HEALTH BACK INTO OUR LIVES… AT HOME AND AT WORK.
 video: https://www.youtube.com/embed/zGJXixfEwkQ
 
 ---
-Avant 2012, mon manque de connaissance des bonnes pratiques pour prendre soin de ma santé m’avait rapidement menée vers deux épuisements professionnels suivis d’une longue période de fatigue chronique qui m’ont forcé à quitter le milieu corporatif que j’adorais. Nos cultures de performance ont cette tendance à nous faire mettre au second plan. Pourtant, les entreprises qui verront à créer des cultures plus équilibrées, conscientes et collaboratrices retireront de nombreux bienfaits tant au niveau de la réduction des coûts d’assurance, de la réduction du taux de roulement, de l’amélioration de la créativité et bien entendu de meilleurs résultats financiers.
+Before 2012, I knew little about self-care and drove myself into burnout (twice) followed by a long period of chronic fatigue that forced me to leave the corporate world I loved so much. Our performance-oriented culture tends to make us put work first. Companies that strive to create more a balanced, conscious, collaborative corporate culture reap multiple benefits in the form of lower insurance premiums, less turnover and absenteeism, greater creativity and, of course, better financial performance.
 
-<a class="button" href="/a-propos">Voir la bio complète de Nancy</a>
+<a class="button" href="/a-propos">See Nancy's full bio </a>

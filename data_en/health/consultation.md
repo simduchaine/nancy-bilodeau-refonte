@@ -1,8 +1,9 @@
 ---
-title: Consultation en ligne
-position: 6
+title: Online Appointment Available
+position: "6"
 id: Consultation
----
-Les rencontres peuvent se faire en personne ou en vidéo conférence.
 
-<a class="button" href="https://www.gorendezvous.com/homepage/111690" target="_blank">Prendre rendez-vous</a>
+---
+Appointments can be in person or via video conference.
+
+<a class="button" href="https://www.gorendezvous.com/homepage/111690" target="_blank">Make an appointement</a>

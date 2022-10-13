@@ -1,15 +1,12 @@
 ---
-title: Une approche globale
-definition: Mon approche est globale. C'est à dire que je m'intéresse à un problème
-  ou objectif dans sa globalité. Je chercher à trouver les causes du problème au delà
-  de seulement corriger les symptômes reliés à celui-ci.
+title: A global approach
+definition: My approach is holistic, global. It aims to look at the different dimensions
+  of the business to find the best approach to meet your goal and optimize your performance.
 id: main
 
 ---
-Dans chacun de mes mandats, j'évalue les différentes dimensions de l’entreprise pour l’aider à trouver l'équilibre vers ses objectifs et atteindre une performance optimale.
+A company's performance is the perfect reflection of the alignment of its management methods and its' people. A company whose management team is not healthy, both in terms of teamwork, business practices and the health of its individuals will be impacted by these weaknesses. Research are abundant in demonstrating the benefit of employee well-being at work.
 
-La performance de l’entreprise est le parfait reflet de l’alignement de ses méthodes de gestion et de son personnel. Une entreprise dont l’équipe de gestion n’est pas en santé, tant en ce qui concerne le travail d’équipe que la santé de ses individus, sera plus ou moins hypothéquée par ses failles. Les recherches abondent maintenant pour démontrer l’avantage du mieux-être des employés au travail.
+In all my assignment, I combine my 25 years of business experience and my 10 years in the holistic health field to help you meet your objectives.
 
-Dans mon approche, je combine mes 25 années d’expérience en entreprise et toutes mes connaissances du domaine de la santé holistique acquises au cours des 12 dernières années pour répondre à vos besoins de vitalité et de performance.
-
-[Plus sur mes services en entreprise >](https://nancy-bilodeau-refonte.vercel.app/services-conseils)
+[More about my services >](https://nancybilodeau.com/en/services)

@@ -1,7 +1,7 @@
 ---
 title: |-
   Start taking care of yourself now!
-  <br> Sign up and receive my 5 energy BOOSTER guide
+  <br> Sign up and receive my 5 energy BOOSTER tips
 
 ---
 Energy is the life force that propels us.  <br>

@@ -1,8 +1,8 @@
 ---
-title: Reduce stress with your breath
+title: Breath better, stress less
 id: breathing-techniques
-thumbnail: "/uploads/eli-defaria-vCzh1jOyre8-unsplash.jpg"
+thumbnail: "/uploads/mieux-respirer-2.png"
 link: "#"
+order: 7
 
 ---
-Stay calm in all circumstances and be more effective through better stress management.

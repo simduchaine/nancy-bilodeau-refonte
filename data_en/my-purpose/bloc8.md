@@ -10,7 +10,7 @@ The key to individual success is through:
 
 The key to business success is:
 
-1. La diffusion de connaissances
-2. Des modèles inspirants
-3. Un environnement facilitant
-4. Un effet d’entraînement
+1. Dissemination of knowledge
+2. Inspirational role models
+3. A facilitating environment
+4. A virtuous ripple effects

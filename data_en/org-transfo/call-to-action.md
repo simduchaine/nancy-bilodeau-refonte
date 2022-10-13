@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/bienveillance.png"
+thumbnail: "/uploads/eng-bienveillance.png"
 title: Health & Happiness are powerful performance drivers
 id: cta
 

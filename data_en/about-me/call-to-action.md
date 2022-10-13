@@ -1,6 +1,6 @@
 ---
 thumbnail: "/uploads/competences-sante.jpg"
-title: To achieve optimal well-being to offer the best of yourself
+title: Achieve optimal well-being and offer your best self
 position: 1
 
 ---

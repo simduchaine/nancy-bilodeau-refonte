@@ -1,6 +1,6 @@
 ---
 thumbnail: "/uploads/competence-d_affaires-2022.jpg"
-title: To create a work environment where everyone can achieve their full potential
+title: Create a work environment where everyone can achieve their full potential
 position: 2
 
 ---

@@ -1,7 +1,7 @@
 ---
 thumbnail: "/uploads/competence-d_affaires-2022.jpg"
-title: Pour créer un environnement de travail où tous peuvent se réaliser pleinement
+title: To create a work environment where everyone can achieve their full potential
 position: 2
 
 ---
-[Compétences d’affaires >](/mes-competences-daffaires)
+[Business Skills >](/mes-competences-daffaires)

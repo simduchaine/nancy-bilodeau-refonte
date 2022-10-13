@@ -1,7 +1,7 @@
 ---
 thumbnail: "/uploads/competences-sante.jpg"
-title: Pour atteindre un mieux-être optimal pour offrir le meilleur de soi
+title: To achieve optimal well-being to offer the best of yourself
 position: 1
 
 ---
-[Compétences en santé et mieux-être ­>](/mes-competences-sante-mieux-etre)
+[Health and Wellness skills ­>](/mes-competences-sante-mieux-etre)

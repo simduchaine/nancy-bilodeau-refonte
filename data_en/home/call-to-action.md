@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/accueil-statistiques_3-statsp-eng.png"
+thumbnail: "/uploads/stats-page-corpo-eng.png"
 title: A BETTER WORLD STARTS WITH US
 
 ---

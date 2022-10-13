@@ -1,5 +1,5 @@
 ---
-title: READY TO TRANSFORM YOUR LIFE OR BUSINESS ?
+title: READY TO TRANSFORM YOUR LIFE OR BUSINESS?
 
 ---
 Don’t know where to start?  

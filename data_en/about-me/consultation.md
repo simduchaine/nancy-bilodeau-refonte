@@ -1,9 +1,9 @@
 ---
 id: consultation
-title: Tu aimerais me rencontrer?
+title: You would like to meet me?
 position: 6
 
 ---
-Les rencontres peuvent se faire en personne ou en vidéo conférence.
+Appointments can be in person or by video conference.
 
-<a class="button" href="https://www.gorendezvous.com/homepage/111690" target="_blank">Prendre rendez-vous</a>
+<a class="button" href="https://www.gorendezvous.com/homepage/111690" target="_blank">Make an appointment</a>

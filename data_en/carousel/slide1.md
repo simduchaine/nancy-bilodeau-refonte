@@ -1,10 +1,9 @@
 ---
-title: Votre guide "Santé et Mieux-Être" au travail
-subtitle: Parce qu’il n’y a pas de limite à la performance lorsque vos employés sont
-  heureux et en santé
+title: Meet Your Health & Happiness Guide
+subtitle: Because there is no limit to performance when people are healthy and happy
 backgroundImg: "/uploads/acceuil-corpo-slide1.jpg"
-buttonText: Pour en savoir plus sur moi
-buttonLink: https://nancybilodeau.com/a-propos
+buttonText: Find out more about me
+buttonLink: https://nancybilodeau.com/en/about-me
 order: 1
 
 ---

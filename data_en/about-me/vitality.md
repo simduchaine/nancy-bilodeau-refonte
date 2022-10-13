@@ -4,4 +4,4 @@ title: Passion for vitality!
 position: 4
 
 ---
-Because living happy and healthy tastes so good!
+Because living happy and healthy taste so good!

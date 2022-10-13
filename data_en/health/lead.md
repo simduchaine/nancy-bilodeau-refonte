@@ -1,10 +1,11 @@
 ---
-title: Accompagnement Individuel - Coaching
+title: Individual Coaching
 position: 
 id: lead
+
 ---
-J’accompagne les individus à atteindre un mieux-être optimal et se réaliser.
+I guide people to achieve optimal well-being and happiness.
 
-Certains viennent me consulter car ils ont perdu l’équilibre, ne vont pas bien ou sont épuisés. Ils ont besoin d’aide pour remonter la pente physiquement et/ou mentalement.
+Some come to see me because they have lost their balance, are not well or are exhausted. They need help to recover physically and/or mentally.
 
-D’autres viennent me voir car ils souhaitent optimiser leur énergie afin de profiter de la vie au maximum, offrir le meilleur d’eux-mêmes au travail, à la maison et dans leurs activités favorites pour réaliser leur plein potentiel.
+Others come to see me because they want to optimize their energy to enjoy life to the fullest, offer the best of themselves at work, at home and in their favorite activities to achieve their highest potential.

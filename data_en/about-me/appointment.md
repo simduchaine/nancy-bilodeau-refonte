@@ -10,6 +10,7 @@ texte: Since you can only offer what you have, it is essential to start with you
 ---
 * [Individual Coaching](/accompagnement-holistique-coaching)
 * [Retreats open to all](/retraites)
-* [French program: Maître de Mon Mieux-Être](/boutique/programme-de-transformation/)
+* [Reduce your stress](https://cours.nancybilodeau.com/reducestress)
+* [Overcome Chronic Fatigue](https://cours.nancybilodeau.com/bioenergy)
 * [Bioenergie](https://cours.nancybilodeau.com/bioenergie)
 * [All my tools](/outils-sante-integrative)

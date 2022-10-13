@@ -22,9 +22,21 @@ cv:
 - Art of Living YES and YES+ Teacher Training, 2011, 2012
 - Primordial Son Meditation, Deepak Chopra, 2016
 - Mindfulness Meditation, Kripalu, 2016
-vision: A happy and healthy world!
-mission: Inspire people and businesses to be healthier and happier to reach their
-  full potential.
+vision: When I was sick and no one could help me, not even the best specialists in
+  Chicago, I was is so much distress. I know what it is to be sick and without energy.
+  I know what it's like to have to give up on your dreams. I also know that when we
+  regain our full power, it is possible to improve our health and well-being to levels
+  that make all the difference to our joy for life and what we can be in the world.
+  I want to help as many people as possible to take into consideration that physical
+  and mental health problems are often associated with our lifestyle and not the result
+  of bad karma. Most of us have the power to reach an optimal level of health when
+  we are ready to do the work. We are the creators of our experience!
+mission: 'I''m here for anyone who wants to learn how to take care of themselves to
+  offer the best of themselves. I''m here for anyone who dreams of a better world
+  and understands that it starts with them. I feel particularly attracted towards
+  businesspeople, as that''s where I come from! My first passion. I have the dream
+  that by helping one person, this one will be able to influence several others and
+  thus have a positive ripple effect towards health and happiness for all. '
 cv_link: "/uploads/Nancy Bilodeau Resume July 2019.pdf"
 title_formation: Integrative health training summary
 link_formation: "/mes-competences-daffaires"

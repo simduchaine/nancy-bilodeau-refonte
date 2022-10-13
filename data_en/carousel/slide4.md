@@ -1,10 +1,9 @@
 ---
-title: Cultivez les valeurs humaines
-subtitle: Pour un climat de travail dans lequel les employés se sentent bien et peuvent
-  déployer le meilleur d'eux-mêmes
+title: Nurture human values
+subtitle: So that your people are at ease and can contribute their best talents
 backgroundImg: "/uploads/acceuil-corpo-slide4.jpg"
-buttonText: Contactez moi pour explorer mon approche
-buttonLink: https://nancybilodeau.com/contact
+buttonText: Contact me to explore my approach
+buttonLink: https://nancybilodeau.com/en/contact
 order: 4
 
 ---

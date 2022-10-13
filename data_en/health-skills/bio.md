@@ -5,12 +5,11 @@ thumbnail: "/uploads/80db6cbd-564c-4983-b977-a022ee3fe162.jpg"
 thumbnail2: "/uploads/nancy.png"
 thumbnail3: "/uploads/nancy_famille.jpg"
 cv:
-- 'MBA, Keller Graduate School of Management, Project and Quality Management, April
-  2005. GPA: 4/4'
-- 'Business Administration Bachelor, University of Sherbrooke, Management, September
-  1994. GPA: 3.6/4'
-- International Cursus, École supérieure de commerce de Rouen, International Management,
-  Winter 1993.
+- Neurosciences for Business, MIT Management, 2022
+- Bio-Well Certified Practitioner, 2022
+- NES Health Certified Practitioner, 2021
+- Mindfulness-Based Stress Reduction (MBSR), 2021
+- Certified Coach with SICPNL (NLP) since 2020
 - Heart Math Coach, Heart Math Institute, 2019
 - Nutrition Advisor, Sanoviv Medical Institute, 2016
 - Health Coach, Hippocrates Health Institute, 2015
@@ -29,10 +28,10 @@ mission: Inspire people and businesses to be healthier and happier to reach thei
 cv_link: "/uploads/Nancy Bilodeau Resume July 2019.pdf"
 title_formation: Integrative health training summary
 link_formation: "/mes-competences-daffaires"
-link_formation_text: Visitez mes compétences d’affaires pour en savoir plus sur mes
-  formations d'affaires >
-mission_title: Pour qui
-vision_title: Mon pourquoi
+link_formation_text: Visit my Business Skills page to know more about my business
+  training
+mission_title: For Whom?
+vision_title: My Why
 
 ---
 I founded Om Prana Holistic Center in 2013. Located on St-Joseph Street in the heart of the St-Roch neighborhood in Quebec City, the Center offered a vegan and raw food restaurant, a yoga and meditation studio, a health grocery store and several cooking, health support and personal development workshops.

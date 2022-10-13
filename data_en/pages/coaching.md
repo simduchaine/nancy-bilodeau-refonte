@@ -1,6 +1,6 @@
 ---
 id: coaching
-title: Holistic Coaching
+title: Coaching
 thumbnail: "/uploads/plus-petit-coaching-perso.png"
 
 ---

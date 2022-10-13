@@ -1,22 +1,23 @@
 ---
-title: Suis-je la bonne personne pour toi?
+title: Am I the right person for you?
 position: "5"
 liste:
-- L'alimentation
-- Le sommeil
-- Le mouvement
-- La respiration
-- La nature
-- L'énergie
-- L'équilibre
-- Les pensées
-- Les émotions
+- Food
+- Sleep
+- Exercise
+- Breathe
+- Nature
+- Energy
+- Balance
+- Thoughts
+- Emotions
 id: formations
+
 ---
-De par mon expérience je sais qu’il n’y a pas de solution miracle. Il est important d’être prêt à s’investir pour apporter les changements nécessaires pour atteindre ses objectifs.
+By experience I know that there is no miracle solution. It is important to be willing to invest in making the changes necessary to achieve your goals.
 
-Je suis là pour vous aider à découvrir ce qui nuit à vôtre mieux-être et vous aider à mettre en place les bonnes pratiques pour que vous puissiez vivre jeune longtemps.
+I'm here to help you discover what's harming your well-being and help you put in place the best practices so you can live young for a long time.
 
-Il est possible que notre travail touche différentes sphères.
+It is possible that our work touches different spheres.
 
-Si êtes prêt, ensemble on peut avoir un impact positif sur votre énergie et joie de vivre.
+If you are ready, together we can have a positive impact on your energy and “joie de vivre”.

@@ -1,6 +1,7 @@
 ---
-title: Besoin d’un BOOST d’énergie maintenant ? <br> Téléchargez mon guide GRATUIT
-  sur les 8 clés de la santé !
+title: |-
+  Start taking care of yourself now!
+  <br> Sign up and receive my 5 energy BOOSTER guide
 
 ---
 Parce que l’énergie est la force vitale qui nous propulse. <br>

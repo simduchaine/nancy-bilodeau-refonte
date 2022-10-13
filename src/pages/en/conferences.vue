@@ -28,7 +28,7 @@
 
 <page-query>
 query Conferences {
-  conferencesEn: allConferencesEn (filter: { path: { nin: ["/en/conferences/type/lunch-and-learn/", "/en/conferences/type/bottom-section/"] }}, sortBy: "type", order: ASC) {
+  conferencesEn: allConferencesEn (filter: { id: { nin: ["lunch-n-learn", "bottom"] }}, sortBy: "type", order: ASC) {
     edges {
       node {
         title

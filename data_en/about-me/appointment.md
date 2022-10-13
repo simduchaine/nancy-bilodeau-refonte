@@ -1,15 +1,15 @@
 ---
 id: appointment
-title: Prêt à vitaliser ton monde?
+title: Ready to energize your world?
 position: "5"
-texte: Comme on peut seulement offrir ce que l’on a, il est essentiel de commencer
-  par soi. Si tu souhaites être guidé dans ta démarche, tu peux prendre rendez-vous
-  avec moi pour discuter de tes objectifs et définir le meilleur chemin. Clique sur
-  les liens à droite pour plus d’information sur mes différents services.
+texte: Since you can only offer what you have, it is essential to start with yourself.
+  If you want to be guided in your quest, you can make an appointment with me to discuss
+  your goals and define the best path forward for you. Click on the links to the right
+  for more information on my most popular services.
 
 ---
-* [Accompagnement individuel](/accompagnement-holistique-coaching)
-* [Retraites ouvertes à tous](/retraites)
-* [Programme Maître de Mon Mieux-Être](/boutique/programme-de-transformation/)
-* [Bioénergie](https://cours.nancybilodeau.com/bioenergie)
-* [Tous mes outils](/outils-sante-integrative)
+* [Individual Coaching](/accompagnement-holistique-coaching)
+* [Retreats open to all](/retraites)
+* [French program: Maître de Mon Mieux-Être](/boutique/programme-de-transformation/)
+* [Bioenergie](https://cours.nancybilodeau.com/bioenergie)
+* [All my tools](/outils-sante-integrative)

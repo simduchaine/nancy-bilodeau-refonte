@@ -10,7 +10,7 @@
 
 <static-query>
 query {
-  conferencesEn(path: "/en/conferences/type/lunch-and-learn/") {
+  conferencesEn(id: "lunch-n-learn") {
     title
     content
   }

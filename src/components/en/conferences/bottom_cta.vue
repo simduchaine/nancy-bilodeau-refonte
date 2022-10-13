@@ -6,7 +6,7 @@
 
 <static-query>
 query {
-  conferencesEn(path: "/en/conferences/type/bottom-section/") {
+  conferencesEn(id: "bottom") {
     content
   }
 }

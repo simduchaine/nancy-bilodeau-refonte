@@ -1,9 +1,9 @@
 ---
 thumbnail: "/uploads/services-2022.jpg"
-title: D’invalide à guide en santé et mieux-être
+title: From nearly dead to health and wellness guide
 position: 3
 
 ---
-Pour en savoir plus sur mes épuisements, mes problèmes de santé et mon retour en force, je vous invite à lire mon tout premier blogue avec Les Affaires.
+To learn more about my health issues and recovery, I invite you to read my very first blog with Les Affaires. The blog is in French but you can use google translation. It is worth the extra step!
 
-[Est-ce que ma santé pourrait-être mon pire ennemi?](https://www.lesaffaires.com/blogues/nancy-bilodeau/est-ce-que-ma-sante-pourrait-etre-mon-pire-ennemi/630997)
+[Could my health be my worst enemy?](https://www.lesaffaires.com/blogues/nancy-bilodeau/est-ce-que-ma-sante-pourrait-etre-mon-pire-ennemi/630997)

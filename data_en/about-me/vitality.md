@@ -1,7 +1,7 @@
 ---
 thumbnail: "/uploads/cure-2022.jpg"
-title: Passionate about vitality!
+title: Passion for vitality!
 position: 4
 
 ---
-Parce que vivre heureux et en santé a bien meilleur goût !
+Because living happy and healthy tastes so good!

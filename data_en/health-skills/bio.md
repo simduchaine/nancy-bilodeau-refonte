@@ -27,7 +27,7 @@ vision: A happy and healthy world!
 mission: Inspire people and businesses to be healthier and happier to reach their
   full potential.
 cv_link: "/uploads/Nancy Bilodeau Resume July 2019.pdf"
-title_formation: Sommaire des formations en santé intégrative
+title_formation: Integrative health training summary
 link_formation: "/mes-competences-daffaires"
 link_formation_text: Visitez mes compétences d’affaires pour en savoir plus sur mes
   formations d'affaires >
@@ -47,6 +47,6 @@ I feel that this was my destiny! My whole journey was building me toward this. S
 
 Energy, mindset and neuroscience fascinate me. I am proud to be certified from the SICPNL, NES Health and Bio-Well, and to have completed my MBSR training with Mindful Leader.
 
-I ardently believe that it is by helping others to nurture their joy for life, by freeing them from suffering and by reconnecting to their essence, that we contribute to the overall well-being of all. We are all here to fully realize ourselves and be happy. Blockages and imbalances are only guides to help us find our way and realize our full potential.
+"I believe that it is by helping others to nurture their joy for life, by freeing them from suffering and by reconnecting to their essence, that we contribute to the overall well-being of all. We are all here to fully realize ourselves and be happy. Blockages and imbalances are only guides to help us find our way and realize our full potential."
 
-I am looking forward meeting you and supporting you, your team or your business on your journey.
+Namaste !

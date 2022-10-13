@@ -1,15 +1,15 @@
 ---
-title: Plus d’énergie… plus de vie… plus de possibilités !
+title: More energy… more life… more possibilities!
 card1:
-  buttonText: Pour toi
+  buttonText: For You
   link: "/ameliorer-ma-sante"
   thumbnail: "/uploads/young-smiling-man.jpg"
 card2:
-  buttonText: Ton équipe
+  buttonText: Your Team
   link: "/pour-ton-equipe"
   thumbnail: "/uploads/happy-young.jpg"
 card3:
-  buttonText: Ton entreprise
+  buttonText: Your Business
   link: "/transformation-organisationnelle"
   thumbnail: "/uploads/woman-coworkers.jpg"
 

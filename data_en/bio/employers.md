@@ -2,6 +2,8 @@
 id: employers
 title: Clients, Employers and Collaborators
 compagnies:
+- title: HITLAB
+  logo: ''
 - title: Kerry, US & Canada
   logo: ''
 - title: SAAQ, Canada

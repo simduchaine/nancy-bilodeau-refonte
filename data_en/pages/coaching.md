@@ -4,11 +4,7 @@ title: Coaching
 thumbnail: "/uploads/plus-petit-coaching-perso.png"
 
 ---
-Holistic Coaching is here to help you feel better, be healthier and happier
-
-> In epistemology or in the human sciences, relating to the doctrine which brings back the knowledge of the particular, of the individual to that of the whole, of the whole in which it is inscribed. (Petit Larousse). Holistic, which is interested in its object as a whole. Relates to Holism. Holism: the tendency in nature to constitute sets that are greater than the sum of their parts, through creative evolution (Wikipedia)
-
-My holistic coaching approach aims to look at all the dimensions of a person to help them find balance, harmony, optimal well-being and achieve their goals.
+My coaching approach is holistic, it aims to look at all the dimensions of a person, a team or a business to help find balance, harmony, optimal well-being and achieve their goals.
 
 We are much more than our physical body. A perfectly healthy physical body does not guarantee a well-balanced and happy person. Just as a sick physical body can be inhabited by a fully realized and happy person!
 

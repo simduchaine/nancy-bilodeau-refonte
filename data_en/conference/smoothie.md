@@ -1,8 +1,8 @@
 ---
-title: Smoothies and Superfoods
+title: Champion's breakfast
 id: smoothies
-thumbnail: "/uploads/smoothie.jpg"
+thumbnail: "/uploads/dejeuner-champion.png"
 link: "#"
+order: 9
 
 ---
-Smoothies are a delicious way to consume our daily dose of fruits and vegetables. Learn basic recipes, ingredients, tricks and superfoods' power.

@@ -1,8 +1,8 @@
 ---
-title: Thrive on Juice
+title: 'Vitality lunch box '
 id: juicing
-thumbnail: "/uploads/AdobeStock_112447537.jpeg"
+thumbnail: "/uploads/quoi-manger-maintenant.png"
 link: "#"
+order: 10
 
 ---
-Properties of fruit and vegetable juices. Equipment, recipes and ingredients to prioritize.

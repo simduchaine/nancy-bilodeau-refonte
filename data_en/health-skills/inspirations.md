@@ -2,24 +2,43 @@
 id: inspirations
 title: Inspirations
 sante:
-- Dr. Mercola
+- Dr. Dean Ornish
 - Dr. Mark Hyman
+- Dr. Wendy Myers
+- Dr. Richard J. Davidson
+- Dr. Peter Osborne
+- Dr. Caldwell B. Esselstyn, Jr.
+- Dr. T. Colin Campbell
+- Dr. Konstantin Korotkov
+- Dr. Daniel J. Siegel
+- James Nestor
+- Ben Greenfield
+- Peter Fraser
+- Lloyd Burrell
 - Hippocrates Health Institute
 - Sanoviv Medical Institute
-- Kris Carr
+- Blue Zones
 - Karyn Calabrese
-- Bruce Lipton
-- Gregg Braden
-- Daniel J. Siegel
+- Brendan Brazier
+- Kris Carr
 spirituelle:
-- Art of Living
+- Lynne McTaggart
+- Dr. Joe Dispenza
+- Dr. Bruce Lipton
+- Gregg Braden
+- Doc Childre
+- Stephan Hawkins
+- Wayne Dwyer
+- Eckart Tolle
+- Viktoras Kulvinskas
+- Dhamma Vipassana
 - Deepak Chopra
+- Art of Living
+- Rumi
 - Osho
 - Mooji
-- Eckart Tolle
-- Wayne Dwyer
-- Stephan Hawkins
 affaires:
+- Elon Musk
 - Steve Jobs
 - Daniel Pink
 - Malcom Gladwell
@@ -33,6 +52,7 @@ affaires:
 - Spencer Johnson
 - Jim Collins
 documentaires:
+- Game Changer
 - La face cachée de la viande
 - Vegan 2018, 2017, 2016, …
 - Dominion

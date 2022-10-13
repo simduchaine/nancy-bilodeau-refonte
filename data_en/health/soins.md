@@ -1,14 +1,15 @@
 ---
 thumbnail: "/uploads/service-petites.png"
-title: Mes outils
-position: 3
+title: My Tools
+position: "3"
 id: tools
----
-* Bioénergie (NES Health, Bio-Well)
-* Programmation neurolinguistique (PNL)
-* Neuroscience en affaires (MIT)
-* Cohérence cardiaque (Heart Math)
-* Défigement émotionnel PEACE
-* Formation en santé intégrative
 
-[Pour consulter tous mes outils >](/services)
+---
+* Bioenergy (NES Health, Bio-Well)
+* Neurolinguistic Programming (NLP)
+* Neuroscience in Business (MIT)
+* Heart Coherence (Heart Math)
+* PEACE emotional freedom
+* Holistic health certification
+
+[See all my tools >](/services)

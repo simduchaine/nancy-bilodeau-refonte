@@ -2,13 +2,13 @@
 hero_img:
   image: "/uploads/ma-motivation.jpg"
   title: A Vibrant World
-  subtitle: Where everyone reaches their full potential 
+  subtitle: Where everyone reaches their full potential
 bloc2:
-  image: "/uploads/bloc2-ma-motivation.png"
+  image: "/uploads/science-wisdom.png"
 img2:
   image: "/uploads/fondations.png"
   title: Essential Foundations
-  subtitle: Knowledge & Environment 
+  subtitle: Knowledge & Environment
 img3:
   image: "/uploads/vitalite.png"
   title: I infuse more vitality into our society

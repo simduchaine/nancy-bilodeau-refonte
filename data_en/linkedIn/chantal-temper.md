@@ -1,5 +1,5 @@
 ---
-affichage: Health
+affichage: Ameliorer Sante
 title: Chantal Trempe
 company: ''
 photo: "/uploads/chantal-trempe.png"

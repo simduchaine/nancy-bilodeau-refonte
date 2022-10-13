@@ -7,7 +7,7 @@ Mission:
     full potential.
 Vision:
   icone: "/uploads/vision.png"
-  title: Ma vision
-  content: Un monde en santé et heureux!
+  title: My Vision
+  content: A healthy and happy world!
 
 ---

@@ -1,6 +1,6 @@
 ---
-title: Un monde en transformation
+title: A changing world
 id: vision
 
 ---
-Notre monde actuel est en pleine transition. Les valeurs changent profondément. Les besoins des gens et de la terre demandent notre attention. On continue de pousser pour avancer mais l’inconfort est de plus en plus perceptible.
+Our current world is in transition. Values ​​change profoundly. The needs of people and the earth demand our attention. We continue to push to move forward but the discomfort is more and more noticeable.

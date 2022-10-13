@@ -1,6 +1,6 @@
 ---
-title: Réinventer la gestion
+title: Reinventing management
 id: mission
 
 ---
-Nos anciens modèles de gestion ne sont plus adaptés à notre monde effervescent et imprévisible. Plus que jamais, nous avons besoin d’outiller notre personnel pour mieux faire face aux changements et défis de la vie, à commencer par nos gestionnaires. Le monde de demain est en pleine création. Les compagnies ayant des cultures basées sur les valeurs humaines sauront mieux s’adapter et réussiront à contribuer de façon positive vers un monde meilleur.
+Our old management models are no longer adapted to our effervescent and unpredictable world. More than ever, we need to equip our staff to better face the changes and challenges of life, starting with our managers. The world of tomorrow is in full creation. Companies with cultures based on human values ​​will be able to adapt better and will succeed in contributing positively to a better world.

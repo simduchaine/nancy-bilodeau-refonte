@@ -1,11 +1,8 @@
 ---
-title: PRÊT À TRANSFORMER VOTRE VIE OU VOTRE ENTREPRISE ?
+title: READY TO TRANSFORM YOUR LIFE OR BUSINESS ?
+
 ---
+Don’t know where to start?  
+**Book an exploratory call to discuss your needs and identify the best path forward.**
 
-**Vous ne savez pas par où commencer?**  
-**Réservez une rencontre exploratoire avec Nancy pour discuter de vos besoins et identifier le meilleur chemin.**
-
-<a class="button" href="https://www.gorendezvous.com/homepage/111690" target="_blank">Je veux prendre un rendez-vous</a><span class="self_center">
-
-
-
+<a class="button" href="https://www.gorendezvous.com/homepage/111690" target="_blank">I’d like to make an appointment</a><span class="self_center">

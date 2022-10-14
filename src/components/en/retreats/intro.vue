@@ -7,7 +7,7 @@
 
 <static-query>
 query {
-  retreats(id: "intro") {
+  retraites: retreats(id: "intro") {
     title
     content
   }

@@ -221,6 +221,13 @@ sections:
   label: Improve my Health
   create: all
   match: "**/*"
+- type: directory
+  path: data_en/carousel-health
+  label: Carousel (Health)
+  create: all
+  match: "**/*"
+  templates:
+  - carousel
 - type: document
   path: data_en/pages/detox.md
   label: Detox

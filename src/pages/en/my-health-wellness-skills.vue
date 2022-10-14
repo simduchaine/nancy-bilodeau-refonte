@@ -11,7 +11,7 @@
 
       <section class="section" id="formations">
         <div class="container">
-          <h2 class="title is-5">Main Training</h2>
+          <h2 class="title is-5">{{ edge.node.title_formation }}</h2>
           <ul>
             <li v-for="(item, index) in edge.node.cv" :key="index">
               {{ item }}
@@ -24,11 +24,11 @@
         <div class="container">
           <div class="columns">
             <div class="column">
-              <h2 class="title is-5">My vision</h2>
+              <h2 class="title is-5">{{ edge.node.vision_title }}</h2>
               <p>{{ edge.node.vision }}</p>
             </div>
             <div class="column">
-              <h2 class="title is-5">My mission</h2>
+              <h2 class="title is-5">{{ edge.node.mission_title }}</h2>
               <p>{{ edge.node.mission }}</p>
             </div>
           </div>
@@ -49,12 +49,18 @@ query allHealthSkills {
       node {
         id
         title
+        title_formation
+        link_formation
+        link_formation_text
         content
         cv
         vision
         mission
-        thumbnail (quality: 90, width: 700)
-        cv_link
+        thumbnail (quality: 90, width: 500)
+        thumbnail2 (quality: 90, width: 500)
+        thumbnail3 (quality: 90, width: 500)
+        vision_title
+        mission_title
       }
     }
   }

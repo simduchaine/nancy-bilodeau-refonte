@@ -19,7 +19,7 @@
 
 <static-query>
 query {
-  services(path: "/data/ameliorer-sante/formations/") {
+  services: servicesEn(id: "formations") {
     title
     liste
     content

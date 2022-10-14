@@ -43,7 +43,7 @@
                 <g-link class="navbar-item" to="/en/improve-my-health">Improve My Health</g-link>
                 <a class="navbar-item" href="https://cours.nancybilodeau.com/reducestress" target="_blank">Reduce my Stress and Anxiety</a>
                 <a class="navbar-item" href="https://cours.nancybilodeau.com/bioenergy" target="_blank">Overcome Chronic Fatigue</a>
-                <g-link class="navbar-item" to="/retraites">Participate in a Retreat</g-link>
+                <g-link class="navbar-item" to="/en/retreats">Participate in a Retreat</g-link>
                 <g-link class="navbar-item" to="/en/detox">Detox</g-link>
                 <g-link class="navbar-item" to="/en/shop/shungite/">Improve my electromagnetic hygiene</g-link>
               </div>

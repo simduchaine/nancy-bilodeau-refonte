@@ -407,6 +407,20 @@ module.exports = {
     {
       use: "@gridsome/source-filesystem",
       options: {
+        path: "data_en/retreats/**/*.md",
+        typeName: "retreats",
+        resolveAbsolutePaths: true,
+        route: "/retreats/:type/:title",
+        remark: {
+          plugins: [
+            //require("remark-attr")
+          ],
+        },
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
         path: "data_en/pages/**/*.md",
         typeName: "PageContentEn",
         resolveAbsolutePaths: true,

@@ -13,7 +13,7 @@
           <div class="column">
             <h2 class="pb-2">{{ edge.node.title }}</h2>
             <p v-html="edge.node.content"></p>
-            <a :href="edge.node.link" class="button" target="blank">Voir l'activité</a>
+            <a :href="edge.node.link" class="button" target="blank">See the event</a>
           </div>
         </div>
       </div>

@@ -29,7 +29,7 @@
 
 <page-query>
 query Training {
-  training: allTraining (filter: { path: { nin: ["/en/training/type/training/", "/en/training/type/bottom-section/"] }}, sortBy: "type", order: ASC) {
+  training: allTraining (filter: { path: { nin: ["/en/training/type/training/", "/en/training/type/bottom-section/"] }}, sortBy:  "order", order: ASC) {
     edges {
       node {
         title

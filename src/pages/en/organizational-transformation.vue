@@ -64,7 +64,7 @@
             class="column is-third"
           ></articles>
         </div>
-        <a href="/blogue/">See my blog for more publications for your organizational transformation ></a>
+        <a href="/blogue/">See my blog for more publications for your Business  ></a>
       </div>
     </section>
 
@@ -132,7 +132,7 @@ query Articles {
       }
     }
   },
-  linkedin: allLinkedInEn (filter: {affichage: {eq: "Org. Transfo"}}) {
+  linkedin: allLinkedInEn (filter: {affichage: {eq: "Transformation Org."}}) {
     edges {
       node {
         title

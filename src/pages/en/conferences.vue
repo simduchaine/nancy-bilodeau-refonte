@@ -28,7 +28,7 @@
 
 <page-query>
 query Conferences {
-  conferencesEn: allConferencesEn (filter: { id: { nin: ["lunch-n-learn", "bottom"] }}, sortBy: "type", order: ASC) {
+  conferencesEn: allConferencesEn (filter: { id: { nin: ["lunch-n-learn", "bottom"] }}, sortBy:  "order", order: ASC) {
     edges {
       node {
         title

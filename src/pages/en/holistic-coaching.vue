@@ -47,13 +47,13 @@ query {
     content
     thumbnail (quality: 90, height: 700)
   },
-  linkedin: allLinkedInEn {
+   linkedin: allLinkedInEn (filter: {affichage: {eq: "Coaching Individuel"}}) {
     edges {
       node {
         title
-        photo (quality:90)
         company
         content
+        photo
       }
     }
   }

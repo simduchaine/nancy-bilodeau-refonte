@@ -18,7 +18,7 @@ query {
   outils(path: "/outils/mes-outils-en-sante-integrative/") {
     title
     content
-    thumbnail (quality: 90, height: 740)
+    thumbnail (quality: 90, height: 700)
   }
 }
 </static-query>

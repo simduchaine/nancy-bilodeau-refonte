@@ -47,11 +47,6 @@ export default {
     font-size: 3rem;
     text-align: center;
   }
-  .container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
 }
 </style>
 

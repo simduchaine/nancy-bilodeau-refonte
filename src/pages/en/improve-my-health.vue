@@ -149,7 +149,7 @@
       }
     }
   },
-    linkedin: allLinkedInEn (filter: {affichage: {eq: "Health"}}) {
+    linkedin: allLinkedInEn (filter: {affichage: {eq: "Ameliorer Sante"}}) {
     edges {
       node {
         title

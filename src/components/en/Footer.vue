@@ -12,7 +12,7 @@
           class="column is-size-7"
         >©Nancy Bilodeau {{ new Date().getFullYear() }}. All rights reserved.</div>
         <div class="column">
-          <a href="http://eepurl.com/gpZ2jv" class="button">Subscribe to our newsletter</a>
+          <a href="http://eepurl.com/gpZ2jv" class="button">Subscribe to my newsletter</a>
         </div>
         <div class="column is-narrow brands">
           <a href="https://www.facebook.com/NancyBilodeauCoaching/">

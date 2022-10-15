@@ -1,7 +1,7 @@
 ---
 id: services
 title: Tomorrow’s Leaders will serve for the greater good
-thumbnail: "/uploads/services-conseils-corpo.jpg"
+thumbnail: "/uploads/plus-sur-services-2545-x-800-px.png"
 meta_title: ''
 meta_description: ''
 

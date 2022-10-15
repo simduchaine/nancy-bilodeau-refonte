@@ -8,9 +8,9 @@ texte: Since you can only offer what you have, it is essential to start with you
   for more information on my most popular services.
 
 ---
-* [Individual Coaching](/accompagnement-holistique-coaching)
+* [Individual Coaching](https://nancybilodeau.com/en/holistic-coaching)
 * [Retreats open to all](/retraites)
 * [Reduce your stress](https://cours.nancybilodeau.com/reducestress)
 * [Overcome Chronic Fatigue](https://cours.nancybilodeau.com/bioenergy)
-* [Bioenergie](https://cours.nancybilodeau.com/bioenergie)
-* [All my tools](/outils-sante-integrative)
+* [Bioenergie](https://practitioners.neshealth.com/p/nancybilodeauinc)
+* [All my tools](https://nancybilodeau.com/en/integrative-health-tools)

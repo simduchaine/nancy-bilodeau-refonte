@@ -1,9 +1,9 @@
 ---
-title: Apprenez à prendre soin de vous
-subtitle: Et offrez le meilleur de vous-même!
+title: Learn to take care of yourself
+subtitle: To offer the best of yourself
 backgroundImg: "/uploads/acceuil-slide2.jpg"
-buttonText: Découvrez mon programme "Maître de Mon Mieux-Être"
-buttonLink: https://nancybilodeau.com/boutique/programme-de-transformation/
+buttonText: Transform your life with my holistic approach
+buttonLink: https://nancybilodeau.com/en/holistic-coaching
 order: 2
 
 ---

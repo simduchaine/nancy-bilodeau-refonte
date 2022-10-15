@@ -8,4 +8,4 @@ video: https://www.youtube.com/embed/zGJXixfEwkQ
 ---
 Before 2012, I knew little about self-care and drove myself into burnout (twice) followed by a long period of chronic fatigue that forced me to leave the corporate world I loved so much. Our performance-oriented culture tends to make us put work first. Companies that strive to create more a balanced, conscious, collaborative corporate culture reap multiple benefits in the form of lower insurance premiums, less turnover and absenteeism, greater creativity and, of course, better financial performance.
 
-<a class="button" href="/a-propos">See Nancy's full bio </a>
+<a class="button" href="/en/about-me">See Nancy's full bio </a>

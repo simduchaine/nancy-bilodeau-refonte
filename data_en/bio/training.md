@@ -26,4 +26,4 @@ Additional business training:
 * Franklin Covey, FOCUS and 7 Habits
 * Program Management Mastery, Harvard (HBS)
 
-[Visit my Health and Wellness Skills](https://coaching.nancybilodeau.com/about#formations) page to learn more about my integrative health training.
+[Visit my Health and Wellness Skills](https://nancybilodeau.com/en/my-health-wellness-skills) page to learn more about my integrative health training.

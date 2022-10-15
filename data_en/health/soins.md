@@ -12,4 +12,4 @@ id: tools
 * PEACE emotional freedom
 * Holistic health certification
 
-[See all my tools >](/services)
+[See all my tools >](https://nancybilodeau.com/en/integrative-health-tools)

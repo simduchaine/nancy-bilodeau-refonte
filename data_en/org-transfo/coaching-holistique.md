@@ -9,4 +9,4 @@ A company's performance is the perfect reflection of the alignment of its manage
 
 In all my assignment, I combine my 25 years of business experience and my 10 years in the holistic health field to help you meet your objectives.
 
-[More about my services >](https://nancybilodeau.com/en/services)
+[More about my services >](https://nancybilodeau.com/en/holistic-coaching)

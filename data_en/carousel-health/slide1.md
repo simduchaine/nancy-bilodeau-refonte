@@ -1,9 +1,9 @@
 ---
-title: Activatrice de Santé et Bonheur!
-subtitle: Au service de votre mieux-être, vos objectifs et vos rêves
+title: Your Health and Happiness Coach
+subtitle: Serving your well-being, your dreams and your goals
 backgroundImg: "/uploads/acceuil-slide1.jpg"
-buttonText: Pour en savoir plus sur moi
-buttonLink: https://nancybilodeau.com/a-propos
+buttonText: Find out more about me
+buttonLink: https://nancybilodeau.com/en/about-me
 order: 1
 
 ---

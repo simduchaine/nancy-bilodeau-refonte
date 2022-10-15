@@ -9,7 +9,7 @@ texte: Since you can only offer what you have, it is essential to start with you
 
 ---
 * [Individual Coaching](https://nancybilodeau.com/en/holistic-coaching)
-* [Retreats open to all](/retraites)
+* [Retreats open to all](https://nancybilodeau.com/en/retreats)
 * [Reduce your stress](https://cours.nancybilodeau.com/reducestress)
 * [Overcome Chronic Fatigue](https://cours.nancybilodeau.com/bioenergy)
 * [Bioenergie](https://practitioners.neshealth.com/p/nancybilodeauinc)

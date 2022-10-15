@@ -1,9 +1,9 @@
 ---
-title: Trouvez votre équilibre et marchez vers votre destiné
-subtitle: Pour une vie harmonieuse, enrichissante et cohérente
+title: Find balance and walk towards your destiny
+subtitle: For a harmonious, enriching and coherent life
 backgroundImg: "/uploads/acceuil-slide5.jpg"
-buttonText: Réservez votre coaching avec Nancy
-buttonLink: https://nancybilodeau.com/accompagnement-holistique-coaching
+buttonText: Make an appointment
+buttonLink: https://www.gorendezvous.com/homepage/111690
 order: 5
 
 ---

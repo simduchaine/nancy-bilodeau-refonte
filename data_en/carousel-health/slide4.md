@@ -1,9 +1,9 @@
 ---
-title: Connectez à votre essence et réalisez votre plein potentiel
-subtitle: Libérez ce qui vous limite; peurs, relations, addictions
+title: Connect to your essence and reach for your full potential
+subtitle: Set yourself free from limiting fears, relationships, and addictions
 backgroundImg: "/uploads/acceuil-slide4.jpg"
-buttonText: Apprenez-en plus sur l’approche PEACE
-buttonLink: https://nancybilodeau.com/soins/peace/
+buttonText: Learn more about PEACE
+buttonLink: https://nancybilodeau.com/en/services/peace/
 order: 4
 
 ---

@@ -32,7 +32,7 @@
       </section>
 
       <section class="container section">
-        <h2 class="title is-5">Autres formations disponibles</h2>
+        <h2 class="title is-5">Other training available</h2>
 
         <div class="columns is-multiline">
           <div

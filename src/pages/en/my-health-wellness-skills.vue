@@ -18,6 +18,7 @@
             </li>
           </ul>
         </div>
+        <a :href="edge.node.link_formation">{{ edge.node.link_formation_text }}</a>
       </section>
 
       <section class="section has-background-info">

@@ -229,6 +229,10 @@ sections:
   templates:
   - carousel
 - type: document
+  path: data_en/retreats/intro.md
+  label: Retreats
+  match: "**/*"
+- type: document
   path: data_en/pages/detox.md
   label: Detox
 - type: heading

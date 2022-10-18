@@ -56,6 +56,7 @@
                  <g-link class="navbar-item" to="/en/training">Training</g-link>
                  <g-link class="navbar-item" to="/en/conferences">Conferences</g-link>
                  <g-link class="navbar-item" to="/en/holistic-coaching">Coaching</g-link>
+                 <g-link class="navbar-item" to="/en/for-your-team">For your team</g-link>
               </div>
             </div>
             <div class="navbar-item has-dropdown is-hoverable">

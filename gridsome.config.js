@@ -404,6 +404,24 @@ module.exports = {
         },
       },
     },
+     {
+      use: "@gridsome/source-filesystem",
+      options: {
+        path: "data_en/for-your-team/**/*.md",
+        typeName: "equipeEn",
+        resolveAbsolutePaths: true,
+        //route: "/formations/:type/:slug",
+        remark: {
+          plugins: [
+            [
+              "gridsome-plugin-remark-youtube",
+              ,
+              { width: "500px", align: "auto" },
+            ],
+          ],
+        },
+      },
+    },
     {
       use: "@gridsome/source-filesystem",
       options: {

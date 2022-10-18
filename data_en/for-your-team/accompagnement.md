@@ -1,11 +1,11 @@
 ---
 thumbnail: "/uploads/accompagnement.png"
-title: Accompagnement individuel ou d’équipe
+title: Individual and team coaching
 position: 4
 
 ---
-- Équipe cohérente
-- Gestion des priorités
-- Gestion de l’énergie
-- Gestion de l’anxiété
-- Coaching exécutif
+* Coherente Team
+* Priority Management
+* Energy Management
+* Anxiety Management
+* Executive Coaching

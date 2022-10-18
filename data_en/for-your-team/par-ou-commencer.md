@@ -1,18 +1,18 @@
 ---
-title: Par où commencer ?
+title: Where to start ?
 position: "5"
-texte: 'Tout dépend de vos objectifs. L’idéal est de prendre le temps de parler de
-  vos besoins, votre budget, vos échéanciers et la disponibilité de vos équipiers
-  pour identifier la meilleure façon d’atteindre votre but. '
+texte: It all depends on your goals. The best is to take the time to talk about your
+  needs, your budget, your deadlines, and team members’ availability to identify the
+  best way to achieve your goal.
 
 ---
-* Montrer votre appréciation
-* Améliorer l’ambiance de travail
-* Diminuer le taux de roulement
-* Réduire l’absentéisme
-* Résoudre un conflit
-* Inspirer et mobiliser
-* Réduire les frais d’assurance
-* Vivre un bon moment
-* Connecter à un autre niveau
-* Et +
+* Show your appreciation
+* Improve workspace spirit
+* Decrease turnover
+* Reduce absenteeism
+* Resolve conflict
+* Inspire and mobilize
+* Reduce insurance costs
+* Have a good time
+* Connect
+* And +

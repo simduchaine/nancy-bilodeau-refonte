@@ -19,7 +19,7 @@ query {
     title
     content
   },
-  vision: equipeEn(path: "/data/for-for-your-team/vision/") {
+  vision: equipeEn(path: "/data/for-your-team/vision/") {
     title
     content
   }

@@ -12,7 +12,7 @@ card2:
 card3:
   image: "/uploads/woman-coworkers_compressed.jpg"
   button_text: Your Business
-  button_link: https://nancybilodeau.com/transformation-organisationnelle
+  button_link: https://nancybilodeau.com/en/organizational-transformation
 
 ---
 <h1 style="color: #A88391" class="title">READY TO TRANSFORM YOUR LIFE OR BUSINESS?</h1>

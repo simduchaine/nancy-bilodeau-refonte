@@ -1,5 +1,5 @@
 ---
-title: Towards a more humane, fairer, more adaptive, more efficient management
+title: On a mission toward a more humane, adaptive, and fun work environment
 id: lead
 
 ---

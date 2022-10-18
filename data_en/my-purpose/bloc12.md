@@ -4,11 +4,11 @@ title: WHERE DO WE START?
 card1:
   image: "/uploads/young-smiling-man.jpg"
   button_text: For You
-  button_link: https://nancybilodeau.com/ameliorer-ma-sante
+  button_link: https://nancybilodeau.com/en/improve-my-health
 card2:
   image: "/uploads/ton-equipe.jpg"
   button_text: Your Team
-  button_link: https://nancybilodeau.com/pour-ton-equipe
+  button_link: https://nancybilodeau.com/en/for-your-team
 card3:
   image: "/uploads/woman-coworkers_compressed.jpg"
   button_text: Your Business

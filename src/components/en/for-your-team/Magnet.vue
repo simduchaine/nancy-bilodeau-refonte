@@ -102,7 +102,7 @@
 
 <static-query>
 query {
-  equipe: equipeEn(path: "/data-en/for-for-your-team/magnet/") {
+  equipe: equipeEn(path: "/data-en/for-your-team/magnet/") {
     title
     content
   }

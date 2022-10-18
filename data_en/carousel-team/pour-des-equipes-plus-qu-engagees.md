@@ -1,9 +1,9 @@
 ---
 order: 1
-title: Pour des équipes plus qu’engagées
-subtitle: Qui vous mèneront vers vos objectifs de façon autonome
+title: Get your team more than engaged
+subtitle: Empower them to lead the way where you want to go
 backgroundImg: "/uploads/acceuil-corpo-slide2.jpg"
-buttonText: Découvrez mes Services Conseils
-buttonLink: https://nancybilodeau.com/services-conseils
+buttonText: Discover my Consulting Services
+buttonLink: https://nancybilodeau.com/en/services
 
 ---

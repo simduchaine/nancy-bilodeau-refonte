@@ -1,7 +1,7 @@
 ---
 thumbnail: "/uploads/formations-d-impact.png"
-title: Des formations d’impacts
+title: Impactful Training
 position: 1
 
 ---
-<a class="button" href="/formations" target="_blank">Formations standards</a>
+<a class="button" href="/formations" target="_blank">See Standard Training</a>

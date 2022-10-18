@@ -1,5 +1,5 @@
 ---
-title: Commencez à prendre soin de votre équipe maintenant!
+title: Start taking care or your team now!
 
 ---
-Inscrivez-vous pour découvrir les éléments-clés d'un programme de mieux-être qui aidera vos employés à se dépasser.
+Sign up and receive my key elements to a good wellness program. Help your employees improve their health and happiness.

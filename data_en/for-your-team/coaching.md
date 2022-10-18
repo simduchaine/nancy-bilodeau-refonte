@@ -1,14 +1,14 @@
 ---
 thumbnail: "/uploads/conferences-inspirantes-2.png"
-title: Des conférences inspirantes
+title: Inspiring Conferences
 position: 2
 
 ---
-* Le sommeil, mon super pouvoir
-* La biochimie du bonheur
-* Sagesse ancestrale et science moderne
-* Neurosciences et intelligence artificielle
-* _Unplug_, détox numérique
-* Activer son intelligence émotionnelle
+* Sleep; my superpower
+* The biochemistry of happiness
+* Ancient wisdom and modern science
+* Neuroscience and artificial intelligence
+* Unplug & detox (digital detox)
+* Activate your heart's intelligence
 
-[Toutes mes conferences >](/conferences)
+[See all conferences >](https://nancybilodeau.com/en/conferences)

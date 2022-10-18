@@ -39,7 +39,7 @@ mission: 'I''m here for anyone who wants to learn how to take care of themselves
   thus have a positive ripple effect towards health and happiness for all. '
 cv_link: "/uploads/Nancy Bilodeau Resume July 2019.pdf"
 title_formation: Integrative health training summary
-link_formation: "/mes-competences-daffaires"
+link_formation: "/en/my-business-skills"
 link_formation_text: Visit my Business Skills page to know more about my business
   training
 mission_title: For Whom?

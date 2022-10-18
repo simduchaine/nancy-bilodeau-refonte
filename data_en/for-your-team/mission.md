@@ -1,5 +1,5 @@
 ---
-title: Un pour tous, et tous pour un!!
+title: All for one and all for one!
 
 ---
-Une équipe est aussi forte que son maillon le plus faible.
+A team is only as strong as its weakest player.

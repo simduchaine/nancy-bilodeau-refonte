@@ -1,9 +1,9 @@
 ---
 order: 2
-title: Aidez vos employés à trouver leur équilibre
-subtitle: Ils pourront ainsi atteindre leur plein potentiel
+title: Help your people find their balance
+subtitle: So they can reach their full potential
 backgroundImg: "/uploads/acceuil-corpo-slide-equilibre.jpg"
-buttonText: Découvrez mon programme équilibre
-buttonLink: https://cours.nancybilodeau.com/covid19equilibre
+buttonText: Contact me to find out more
+buttonLink: https://nancybilodeau.com/en/contact
 
 ---

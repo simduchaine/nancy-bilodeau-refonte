@@ -231,7 +231,6 @@ sections:
 - type: document
   path: data_en/retreats/intro.md
   label: Retreats
-  match: "**/*"
 - type: document
   path: data_en/pages/detox.md
   label: Detox
@@ -266,6 +265,18 @@ sections:
 - type: document
   path: data_en/pages/coaching.md
   label: Coaching
+- type: directory
+  path: data_en/for-your-team
+  label: For your team
+  create: all
+  match: "**/*"
+- type: directory
+  path: data_en/carousel-team
+  label: Carousel (team)
+  create: all
+  match: "**/*"
+  templates:
+  - carousel
 - type: heading
   label: Ressources (anglais)
 - type: directory

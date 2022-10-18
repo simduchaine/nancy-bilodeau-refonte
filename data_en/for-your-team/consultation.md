@@ -1,8 +1,8 @@
 ---
-title: PRÊTS À CRÉER UNE ÉQUIPE OÙ TOUT LE MONDE VEUT TRAVAILLER?
+title: READY TO CREATE A TEAM WHERE EVERYONE WANTS TO WORK ?
 position: "6"
 
 ---
-Que vous soyez prêts à passer à l’action ou que vous aimeriez explorer davantage, je vous invite à prendre rendez-vous pour une première rencontre exploratoire gratuite de 30 minutes où nous pourrons échanger sur les besoins de votre équipe.
+Whether you are ready to take action or would like to explore more, I invite you to make an appointment for a first free 30-minute exploratory call where we can discuss your team's needs.
 
-<a class="button" href="https://www.gorendezvous.com/homepage/111690" target="_blank">Prendre rendez-vous</a>
+<a class="button" href="https://www.gorendezvous.com/homepage/111690" target="_blank">Make an Appointment</a>

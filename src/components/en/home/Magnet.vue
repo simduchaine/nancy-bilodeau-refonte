@@ -86,7 +86,7 @@
                 id="mce-group[6174]-6174-1"
                 checked
               />
-              <label for="mce-group[6174]-6174-1">Website_Lead_Gen_Corpo</label>
+              <label for="mce-group[6174]-6174-1">Website_Lead_Gen_En</label>
             </div>
             <div id="mce-responses" class="clear">
               <div class="response" id="mce-error-response" style="display:none"></div>

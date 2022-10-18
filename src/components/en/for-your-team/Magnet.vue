@@ -82,7 +82,7 @@
                 id="mce-group[6174]-6174-0"
                 checked
               />
-              <label for="mce-group[6174]-6174-0">Website_Lead_Gen</label>
+              <label for="mce-group[6174]-6174-0">OWR</label>
             </div>
             <div id="mce-responses" class="clear">
               <div class="response" id="mce-error-response" style="display:none"></div>

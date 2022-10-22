@@ -4,7 +4,7 @@
 
     <section id="linkedIn">
       <div class="container" style="padding: 3rem 0;">
-        <h1 class="title is-size-5">References</h1>
+        <h1 class="title is-size-5">Testimonials</h1>
         <hr />
         <div
           v-for="reference in $page.linkedin.edges"

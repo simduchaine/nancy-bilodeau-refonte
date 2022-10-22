@@ -182,12 +182,12 @@
                 <font-awesome :icon="['fab', 'linkedin-in']" size="xs" />
               </a>
             </div>
-            <div class="navbar-item brands">
+            <!-- <div class="navbar-item brands">
               <a href="#">
                 <font-awesome :icon="['fa', 'envelope']" size="xs" />
               </a>
-            </div>
-            <g-link class="navbar-item" style="color: #004369" to="/en/"
+            </div> -->
+            <g-link class="navbar-item" style="color: #004369; padding-left: 1em;" to="/en/"
               >En</g-link
             >
           </div>

@@ -58,7 +58,7 @@
 
       <section id="linkedIn" class="has-background-info">
       <div class="container" style="padding: 3rem 0">
-        <h1 class="title is-size-5">References</h1>
+        <h1 class="title is-size-5">Testimonials</h1>
         <hr />
         <div
           v-for="reference in $page.linkedin.edges"
@@ -83,7 +83,7 @@
         </div>
         <hr />
         <p>
-          For more references, go to my profile on LinkedIn:
+          For more testimonials, go to my profile on LinkedIn:
           <a href="https://www.linkedin.com/in/nancybilodeau/"
             >https://www.linkedin.com/in/nancybilodeau/</a
           >

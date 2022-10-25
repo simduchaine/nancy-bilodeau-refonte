@@ -81,12 +81,12 @@
             <div class="mc-field-group input-group" hidden>
               <input
                 type="checkbox"
-                value="8"
-                name="group[6174][8]"
-                id="mce-group[6174]-6174-1"
+                value="32"
+                name="group[6174][32]"
+                id="mce-group[6174]-6174-2"
                 checked
               />
-              <label for="mce-group[6174]-6174-1">Website_Lead_Gen_En</label>
+              <label for="mce-group[6174]-6174-2">Website_Lead_Gen_En</label>
             </div>
             <div id="mce-responses" class="clear">
               <div class="response" id="mce-error-response" style="display:none"></div>

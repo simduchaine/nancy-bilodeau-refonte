@@ -77,12 +77,12 @@
             <div class="mc-field-group input-group" hidden>
               <input
                 type="checkbox"
-                value="4"
-                name="group[6174][4]"
-                id="mce-group[6174]-6174-0"
+                value="64"
+                name="group[6174][64]"
+                id="mce-group[6174]-6174-3"
                 checked
               />
-              <label for="mce-group[6174]-6174-0">OWR</label>
+              <label for="mce-group[6174]-6174-3">OWR</label>
             </div>
             <div id="mce-responses" class="clear">
               <div class="response" id="mce-error-response" style="display:none"></div>

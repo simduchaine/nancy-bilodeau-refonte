@@ -8,7 +8,7 @@
           height="450"
           frameborder="0"
           style="border:0; height:450px; margin-bottom: 1.5rem;"
-          src="https://www.google.com/maps/embed/v1/view?zoom=15&center=46.7329311%2C-71.2630347&key=AIzaSyBi6IpWLQlVCG16Y7KtdCdfCBrBFTR9UkM"
+          src="https://www.google.com/maps/embed/v1/view?zoom=15&center=46.7282483%2C-71.3192885&key=AIzaSyBi6IpWLQlVCG16Y7KtdCdfCBrBFTR9UkM"
           allowfullscreen
         ></iframe>
         <div class="columns">
@@ -46,7 +46,7 @@
           </div>
           <div id="contact-info" class="column is-one-third">
             <h2 class="title is-5">Coordinates</h2>
-            <div>Located close to Avril in St-Romuald.</div>
+            <div>Located close to Stastny golf in Lévis.</div>
             <div>
               <font-awesome :icon="['fa', 'phone']" class="contact-icon" />
               <a href="tel:418-955-9602">418-955-9602</a>

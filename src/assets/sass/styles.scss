@@ -42,7 +42,7 @@ $size-3: 1.6rem;
 $body-size: 24px;
 
 //responsivness
-$gap: 32px;
+$gap: 28px;
 $widescreen: 1152px+(2 * $gap);
 $desktop: 960px+(2 * $gap);
 $fullhd: 1344px+(2 * $gap);
@@ -58,7 +58,7 @@ Update some of Bulma's component variables
 //navbar
 $navbar-height: 3rem;
 $navbar-item-img-max-height: 2rem;
-$navbar-breakpoint: $widescreen;
+$navbar-breakpoint: $fullhd;
 
 //buttons
 $button-border-width: 3px;

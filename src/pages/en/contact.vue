@@ -46,7 +46,7 @@
           </div>
           <div id="contact-info" class="column is-one-third">
             <h2 class="title is-5">Coordinates</h2>
-            <div>Located close to Stastny golf in Lévis.</div>
+            <address>1279 rue de la Brigantine,<br />Lévis, Québec, <br /> G7A 0Z6</address>
             <div>
               <font-awesome :icon="['fa', 'phone']" class="contact-icon" />
               <a href="tel:418-955-9602">418-955-9602</a>

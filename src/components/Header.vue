@@ -165,7 +165,8 @@
             </div>
 
             <g-link class="navbar-item" to="/contact">Contact</g-link>
-            <div class="navbar-item brands">
+            
+            <!-- <div class="navbar-item brands">
               <a href="https://www.facebook.com/NancyBilodeauCoaching/">
                 <font-awesome :icon="['fab', 'facebook-f']" size="xs" />
               </a>
@@ -181,7 +182,7 @@
               <a href="https://ca.linkedin.com/in/nancybilodeau">
                 <font-awesome :icon="['fab', 'linkedin-in']" size="xs" />
               </a>
-            </div>
+            </div> -->
             <!-- <div class="navbar-item brands">
               <a href="#">
                 <font-awesome :icon="['fa', 'envelope']" size="xs" />

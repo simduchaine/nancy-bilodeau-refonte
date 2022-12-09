@@ -1,6 +1,6 @@
 ---
 type: Retraite
-order: 1
+order: 3
 thumbnail: "/uploads/synchroniser-son-couple-2560-x-1706-px.png"
 link: "#"
 title: Élever sa force vitale pour mieux vivre!

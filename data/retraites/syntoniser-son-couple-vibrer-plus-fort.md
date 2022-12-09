@@ -8,4 +8,4 @@ upcoming: true
 featured: false
 
 ---
-Venez vivre une expérience enrichissante et transformatrice pour votre couple dans le décor enchanteur du Spa Eastman. C’est une retraite pour vous déposer et vous faire du bien, à deux. Offert du 28 avril au 1er mai. Réservez tôt pour assurer votre place.
+Venez vivre une expérience enrichissante et transformatrice pour votre couple dans le décor enchanteur du Spa Eastman. C’est une retraite pour vous déposer et vous faire du bien, à deux. Offert du 28 avril au 1er mai 2023. Réservez tôt pour assurer votre place.

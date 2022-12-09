@@ -2,7 +2,7 @@
 type: Retraite
 order: 3
 thumbnail: "/uploads/synchroniser-son-couple-2560-x-1706-px.png"
-link: "#"
+link: https://www.spa-eastman.com/sejours/retraites/elever-sa-force-vitale-pour-mieux-vivre/
 title: Élever sa force vitale pour mieux vivre!
 upcoming: true
 featured: false

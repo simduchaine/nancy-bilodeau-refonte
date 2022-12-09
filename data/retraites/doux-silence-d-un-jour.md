@@ -2,7 +2,7 @@
 type: Retraite
 order: 1
 thumbnail: "/uploads/21-janvier.png"
-link: "#"
+link: https://monastere.ca/fr/programmation/activite/retraite-silencieuse-d-un-jour-s-arreter-pour-mieux-avancer-713?calendrier=%2Ffr%2Fprogrammation%2Fagenda-des-evenements-6
 title: 'Doux silence d''un jour '
 upcoming: true
 featured: false

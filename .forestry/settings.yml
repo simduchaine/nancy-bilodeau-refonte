@@ -104,8 +104,9 @@ sections:
   - retraites
   - content-only
 - type: document
-  path: data/pages/cures.md
+  path: data/pages/cure.md
   label: Cures
+  match: "**/*"
 - type: heading
   label: Santé et Mieux-être Entreprise
 - type: directory

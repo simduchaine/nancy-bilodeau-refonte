@@ -10,7 +10,7 @@ J'ai été formée de [Karyn Calabrese](https://karynraw.com/), de l’[institut
 
 Les programmes les plus populaires sont :
 
-* [NOUVEAU: Programme de transformation en ligne: Maître de mon Mieux-Être](https://coaching.nancybilodeau.com/boutique/programme-de-transformation)
+* [NOUVEAU: Programme de transformation en ligne: Maître de mon Mieux-Être]()
 * Détox de 30 jours en présence, signature d’OM Prana
 * Cure de jus, souvent combinée avec fin de semaine de yoga
 * Fin de semaine de jeûne et méditation

@@ -46,6 +46,7 @@ fields:
   description: Pour mettre une retraite à la une sur l'accueil<br>(1 seule à la fois)
 pages:
 - data/retraites/deconnecter-pour-mieux-reconnecter.md
+- data/retraites/doux-silence-d-un-jour-17-septembre-copy.md
 - data/retraites/doux-silence-d-un-jour-copy.md
 - data/retraites/doux-silence-d-un-jour.md
 - data/retraites/retraite-elever-sa-force-vitale-pour-mieux-vivre.md

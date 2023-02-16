@@ -1,9 +1,9 @@
 ---
 type: Retraite
-order: 2
-thumbnail: "/uploads/27-mai.png"
+order: 3
+thumbnail: "/uploads/17-septembre.png"
 link: https://monastere.ca/fr/programmation/activite/retraite-silencieuse-d-un-jour-s-arreter-pour-mieux-avancer-746?calendrier=%2Ffr%2Fprogrammation%2Fagenda-des-evenements-6
-title: Doux silence d'un jour -(copy)
+title: Doux silence d'un jour - 17 septembre
 upcoming: true
 featured: false
 

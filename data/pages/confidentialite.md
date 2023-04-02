@@ -1,7 +1,7 @@
 ---
 id: confidentialite
 title: Politique de confidentialité et de sécurité
-thumbnail: "/uploads/dan-nelson.jpg"
+thumbnail: "/uploads/data.jpg"
 
 ---
 
@@ -19,11 +19,11 @@ Le but de cette politique de confidentialité et de sécurité est d'informer le
 6. Disposition des données
 7. Vos droits
 
-Cette politique de confidentialité et de sécurité de Nancy Bilodeau Inc. fonctionne parallèlement aux conditions générales d'utilisation du site www.nancybilodeau.com
+Cette politique de confidentialité et de sécurité de Nancy Bilodeau Inc. fonctionne parallèlement aux conditions générales d'utilisation du site [www.nancybilodeau.com](https://nancybilodeau.com/)
 
 **Lois applicables**
 
-Cette politique est conforme aux lois énoncées dans la _Loi_ _sur la protection des renseignements personnels dans le secteur privé e_t la lo
+Cette politique est conforme aux lois énoncées dans la _Loi sur la protection des renseignements personnels dans le secteur privé_ et la lo
 
 **Personne responsable des données chez Nancy Bilodeau Inc.**
 

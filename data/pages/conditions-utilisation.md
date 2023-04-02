@@ -1,7 +1,7 @@
 ---
 id: conditions-utilisation
 title: Conditions d’utilisation du site www.nancybilodeau.com
-thumbnail: "/uploads/dan-nelson.jpg"
+thumbnail: "/uploads/data.jpg"
 
 ---
 

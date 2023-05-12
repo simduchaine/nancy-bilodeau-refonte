@@ -1,5 +1,5 @@
 ---
-title: Santé mentale: «J’étais la définition même de déséquilibre»
+title: "Santé mentale: «J’étais la définition même de déséquilibre»"
 id: sante-mentale
 thumbnail: "/uploads/sante-mentale.jpg"
 link: https://www.lesaffaires.com/blogues/nancy-bilodeau/sante-mentale-jetais-la-definition-meme-de-desequilibre/640739

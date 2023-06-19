@@ -32,6 +32,19 @@
           </a>
         </div>
       </div>
+
+      <div class="columns">
+        
+        <div class="column is-size-7">
+          <g-link class="has-text-white pr-2"  to="/en/terms-of-use">Terms of Use</g-link>
+
+          <g-link class="has-text-white" to="/en/privacy-policy">Privacy Policy</g-link>
+        </div>
+       
+
+      </div>
+
+
     </div>
   </footer>
 </template>

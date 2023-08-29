@@ -1,6 +1,6 @@
 ---
 id: terms-of-use
-title: WWW.NANCYBILODEAU.COM TERMS OF USE
+title: www.nancybilodeau.com terms of use
 thumbnail: "/uploads/data.jpg"
 
 ---

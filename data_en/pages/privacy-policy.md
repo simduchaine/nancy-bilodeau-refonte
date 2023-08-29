@@ -1,6 +1,6 @@
 ---
 id: privacy-policy
-title: NANCY BILODEAU INC. PRIVACY AND SECURITY POLICY
+title: Nancy Bilodeau Inc. Privacy and Security Policy
 thumbnail: "/uploads/data.jpg"
 
 ---

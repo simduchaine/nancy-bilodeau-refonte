@@ -1,7 +1,7 @@
 ---
 title: "Cultiver sa relation amoureuse: 7 astuces pour s’aligner"
 id: relation-amoureuse
-thumbnail: "/uploads/relation-amoureuse.jpg"
+thumbnail: "/uploads/couple.png"
 link: https://www.spa-eastman.com/blog/cultiver-sa-relation-amoureuse-7-astuces-pour-saligner/
 order: 1
 sticky: false

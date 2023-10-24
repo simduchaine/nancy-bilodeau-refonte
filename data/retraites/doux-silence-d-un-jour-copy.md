@@ -1,7 +1,7 @@
 ---
 type: Retraite
 order: 3
-thumbnail: "/uploads/17-septembre.png"
+thumbnail: "/uploads/retraite20janvier.png"
 link: https://monastere.ca/fr/programmation/activite/retraite-silencieuse-d-un-jour-s-arreter-pour-mieux-avancer-746?calendrier=%2Ffr%2Fprogrammation%2Fagenda-des-evenements-6
 title: Doux silence d'un jour - 20 janvier 2024
 upcoming: true

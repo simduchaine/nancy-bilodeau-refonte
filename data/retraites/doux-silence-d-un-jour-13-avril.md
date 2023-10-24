@@ -1,7 +1,7 @@
 ---
 type: Retraite
 order: 4
-thumbnail: "/uploads/5-novembre.png"
+thumbnail: "/uploads/retraite13avril.png"
 link: https://monastere.ca/activite/journee-en-silence-sarreter-pour-mieux-avancer/
 title: Doux silence d'un jour - 13 avril 2024
 upcoming: true

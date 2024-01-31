@@ -1,7 +1,7 @@
 ---
 type: Retraite
 order: 5
-thumbnail: "/uploads/spa-eastman-2.png"
+thumbnail: "/uploads/spa_eastmen_elever.png"
 link: https://www.spa-eastman.com/sejours/retraites/elever-sa-force-vitale-pour-mieux-vivre/
 title: Élever sa force vitale pour mieux vivre!
 upcoming: true

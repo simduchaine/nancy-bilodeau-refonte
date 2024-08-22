@@ -1,5 +1,5 @@
 <template>
-  <home-layout>
+  <CarouselHome>
     
     <section id="featured-in">
       <featuredIn></featuredIn>
@@ -41,7 +41,7 @@
       <bottom-anchor></bottom-anchor>
     </section>
 
-  </home-layout>
+  </CarouselHome>
 </template>
 
 <page-query>

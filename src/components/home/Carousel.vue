@@ -83,6 +83,9 @@ export default {
   }
 }
 
+.ssr-carousel-slide {
+  height: 800px;
+}
 
 
 </style>

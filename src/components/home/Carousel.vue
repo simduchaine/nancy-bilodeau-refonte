@@ -1,6 +1,20 @@
 <template>
   <section id="homeCarousel">
-    <VueSlickCarousel class="hero is-medium has-background" :arrows="true" :dots="true" :autoplay="true" >
+    <ssr-carousel>
+      <div class="slide">
+        <g-image
+          :src="$static.settings.hero_image1"
+          class="hero-background"
+          />
+      </div>
+      <div class="slide">
+        <g-image
+          :src="$static.settings.hero_image2"
+          class="hero-background"
+        />
+      </div>
+    </ssr-carousel>
+    <!-- <VueSlickCarousel class="hero is-medium has-background" :arrows="true" :dots="true" :autoplay="true" >
         <div id="slide1" >
           <g-image
           :src="$static.settings.hero_image1"
@@ -15,7 +29,7 @@
         />
         </div>
         
-    </VueSlickCarousel>
+    </VueSlickCarousel> -->
   </section>
 </template>
 
@@ -29,22 +43,19 @@ query {
 </static-query>
 
 <script>
-import VueSlickCarousel from "vue-slick-carousel";
-import "vue-slick-carousel/dist/vue-slick-carousel.css";
-// optional style for arrows & dots
-import "vue-slick-carousel/dist/vue-slick-carousel-theme.css";
+import SsrCarousel from 'vue-ssr-carousel'
+import ssrCarouselCss from 'vue-ssr-carousel/index.css'
 
 export default {
   name: "HCarousel",
-  components: { VueSlickCarousel },
+  components: {
+    SsrCarousel,
+    ssrCarouselCss
+  }
 };
 </script>
 
-<style scoped lang="scss">
-
-#slide1, #slide2{
-  height: 800px;
-}
+<style lang="scss">
 
 .hero {
   &.has-background {
@@ -73,19 +84,5 @@ export default {
 }
 
 
- .slick-list {
-  min-height: 800px;
-}
 
-.slick-slider {
-  position: relative;
-}
-
-.slick-next {
-  right: 25px;
-}
-.slick-prev {
-  left: 50px;
-  z-index: 1000;
-}
 </style>

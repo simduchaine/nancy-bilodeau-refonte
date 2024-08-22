@@ -1,25 +1,20 @@
 <template>
-  <section>
-    <VueSlickCarousel class="hero is-medium has-background" :arrows="true" :dots="true" :autoplay="true" :adaptiveHeight="true">
-      <div>
-        <g-image
+  <section id="homeCarousel">
+    <VueSlickCarousel class="hero is-medium has-background" :arrows="true" :dots="true" :autoplay="true" >
+        <div id="slide1" >
+          <g-image
           :src="$static.settings.hero_image1"
           class="hero-background"
-        />
-       <!--  <div class="hero-body">
-          <div class="container">
-            <h1 class="title is-size-2"></h1>
-            <h2 class="title is-size-3 is-family-primary">
-            </h2>
-          </div>
-        </div> -->
-      </div>
-      <div>
-        <g-image
+          />
+        </div>
+        
+        <div id="slide2" >
+          <g-image
           :src="$static.settings.hero_image2"
           class="hero-background"
         />
-      </div>
+        </div>
+        
     </VueSlickCarousel>
   </section>
 </template>
@@ -45,26 +40,41 @@ export default {
 };
 </script>
 
-<style lang="scss">
+<style scoped lang="scss">
+
+#slide1, #slide2{
+  height: 800px;
+}
+
 .hero {
-  // height: 800px;
-   &.has-background {
+  &.has-background {
     position: relative;
     overflow: hidden;
   }
 
   &-background {
-    // position: absolute;
+    //position: absolute;
     object-fit: cover;
-    object-position: top;
+    object-position: center;
     width: 100%;
-    height: 780px;
+    height: 100vh;
 
     &.is-transparent {
       opacity: 0.7;
     }
   }
 
+  &.is-medium {
+    .hero-body {
+      padding-bottom: 8.5rem;
+      padding-top: 8.5rem;
+    }
+  }
+}
+
+
+ .slick-list {
+  min-height: 800px;
 }
 
 .slick-slider {
@@ -75,7 +85,7 @@ export default {
   right: 25px;
 }
 .slick-prev {
-  left: 25px;
+  left: 50px;
   z-index: 1000;
 }
 </style>

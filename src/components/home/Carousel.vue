@@ -1,6 +1,6 @@
 <template>
   <section>
-    <VueSlickCarousel class="hero is-medium has-background" :arrows="true" :dots="true" :autoplay="true">
+    <VueSlickCarousel class="hero is-medium has-background" :arrows="true" :dots="true" :autoplay="true" :adaptiveHeight="true">
       <div>
         <g-image
           :src="$static.settings.hero_image1"
@@ -47,7 +47,7 @@ export default {
 
 <style lang="scss">
 .hero {
-  height: 800px;
+  // height: 800px;
    &.has-background {
     position: relative;
     overflow: hidden;
@@ -58,7 +58,7 @@ export default {
     object-fit: cover;
     object-position: top;
     width: 100%;
-    height: 100vh;
+    height: 780px;
 
     &.is-transparent {
       opacity: 0.7;

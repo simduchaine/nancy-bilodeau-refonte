@@ -2,12 +2,6 @@
   <section id="homeCarousel">
     <ssr-carousel>
       <div class="slide">
-        <g-image
-          :src="$static.settings.hero_image1"
-          class="hero-background"
-          />
-      </div>
-      <div class="slide">
         <a href="https://cours.nancybilodeau.com/lancement25" target="_blank" rel="noopener noreferrer">
         <g-image
           :src="$static.settings.hero_image2"
@@ -15,6 +9,12 @@
         />
         </a>
         <a href="https://cours.nancybilodeau.com/lancement25" target="_blank" class="button" style="position: absolute; bottom: 5%; left: 35%;">Je veux participer au lancement!</a>
+      </div>
+      <div class="slide">
+        <g-image
+          :src="$static.settings.hero_image1"
+          class="hero-background"
+          />
       </div>
     </ssr-carousel>
     <!-- <VueSlickCarousel class="hero is-medium has-background" :arrows="true" :dots="true" :autoplay="true" >

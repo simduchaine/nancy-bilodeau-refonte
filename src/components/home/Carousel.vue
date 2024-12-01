@@ -8,7 +8,7 @@
           class="hero-background"
         />
         </a>
-        <a href="https://cours.nancybilodeau.com/lancement25" target="_blank" class="button" style="position: absolute; bottom: 5%; left: 35%;">Je veux participer au lancement!</a>
+        <a href="https://lesallumés.com" target="_blank" class="button" style="position: absolute; bottom: 5%; left: 35%;">En savoir plus sur le livre</a>
       </div>
       <div class="slide">
         <g-image

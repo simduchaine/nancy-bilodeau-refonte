@@ -1,7 +1,7 @@
 ---
 title: Guide pour des fêtes ressourçantes
 thumbnail: "/uploads/fetes-ressourcantes.jpg"
-link: https://www.lesaffaires.com/blogues/nancy-bilodeau/guide-pour-des-fetes-ressourcantes/638312
+link: https://www.lesaffaires.com/sans-section/guide-pour-des-fetes-ressourcantes-2/
 order: 
 sticky: false
 sticky_transfo: false

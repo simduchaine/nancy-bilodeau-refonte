@@ -2,7 +2,7 @@
 title: Pourquoi il est important de gérer vos émotions au travail?
 id: emotions-travail
 thumbnail: "/uploads/emotions-travail.jpg"
-link: https://www.lesaffaires.com/blogues/nancy-bilodeau/pourquoi-il-est-important-de-gerer-vos-emotions-au-travail/639350
+link: https://www.lesaffaires.com/sans-section/pourquoi-il-est-important-de-gerer-vos-emotions-au-travail-2/
 order: 3
 sticky: false
 sticky_transfo: false

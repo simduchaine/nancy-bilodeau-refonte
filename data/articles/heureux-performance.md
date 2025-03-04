@@ -1,7 +1,7 @@
 ---
 title: Des salariés heureux pour une meilleure performance d'entreprise
 thumbnail: "/uploads/heureux-peformance.jpg"
-link: https://www.lesaffaires.com/blogues/nancy-bilodeau/des-salaries-heureux-pour-une-meilleure-performance-d-entreprise/639882
+link: https://www.lesaffaires.com/sans-section/des-salaries-heureux-pour-une-meilleure-performance-dentreprise-2/
 order: 2
 sticky: true
 sticky_transfo: false

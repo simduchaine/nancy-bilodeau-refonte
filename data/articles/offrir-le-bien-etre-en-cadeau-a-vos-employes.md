@@ -1,7 +1,7 @@
 ---
 title: Offrir le bien-être en cadeau à vos employés
 thumbnail: "/uploads/cadeau-employe.png"
-link: https://www.lesaffaires.com/blogues/nancy-bilodeau/offrir-le-bien-etre-en-cadeau-a-vos-employes/636980
+link: https://www.lesaffaires.com/sans-section/offrir-le-bien-etre-en-cadeau-a-vos-employes-2/
 order: 
 sticky: false
 sticky_transfo: true

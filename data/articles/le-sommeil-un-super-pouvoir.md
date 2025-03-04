@@ -1,7 +1,7 @@
 ---
 title: Le sommeil, un super pouvoir?
 thumbnail: "/uploads/sleep-super-pouvoir.png"
-link: https://www.lesaffaires.com/blogues/nancy-bilodeau/le-sommeil-un-super-pouvoir/635682
+link: https://www.lesaffaires.com/sans-section/le-sommeil-un-super-pouvoir-2/
 order: 
 sticky: false
 sticky_transfo: false

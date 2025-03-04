@@ -1,7 +1,7 @@
 ---
 title: "Détox: vous pouvez agir pour un monde moins toxique"
 thumbnail: "/uploads/detox-article.jpg"
-link: https://www.lesaffaires.com/blogues/nancy-bilodeau/detox-vous-pouvez-agir-pour-un-monde-moins-toxique/641141
+link: https://www.lesaffaires.com/sans-section/detox-vous-pouvez-agir-pour-un-monde-moins-toxique-2/
 order: 
 sticky: false
 sticky_transfo: false

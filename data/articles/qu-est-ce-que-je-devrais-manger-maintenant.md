@@ -1,7 +1,7 @@
 ---
 title: Quoi manger maintenant?
 thumbnail: "/uploads/quoi-manger-maintenant.png"
-link: https://www.lesaffaires.com/blogues/nancy-bilodeau/qu-est-ce-que-je-devrais-manger-maintenant/633259
+link: https://www.lesaffaires.com/sans-section/quest-ce-que-je-devrais-manger-maintenant-2/
 order: 9
 sticky: false
 sticky_transfo: false

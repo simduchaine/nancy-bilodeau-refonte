@@ -1,7 +1,7 @@
 ---
 title: Comment passer des résolutions à l’action?
 thumbnail: "/uploads/resolutions-action.jpg"
-link: https://www.lesaffaires.com/blogues/nancy-bilodeau/comment-passer-des-resolutions-a-laction/638802
+link: https://www.lesaffaires.com/sans-section/comment-passer-des-resolutions-a-laction-2/
 order: 
 sticky: false
 sticky_transfo: false

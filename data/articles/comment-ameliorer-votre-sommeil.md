@@ -1,7 +1,7 @@
 ---
 title: Comment améliorer votre sommeil?
 thumbnail: "/uploads/comment-mieux-dormir.png"
-link: https://www.lesaffaires.com/blogues/nancy-bilodeau/comment-ameliorer-votre-sommeil/636978
+link: https://www.lesaffaires.com/sans-section/comment-ameliorer-votre-sommeil-2/
 order: 
 sticky: false
 sticky_transfo: false

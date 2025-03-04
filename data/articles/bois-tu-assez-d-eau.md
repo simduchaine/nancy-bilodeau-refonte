@@ -1,7 +1,7 @@
 ---
 title: Bois-tu assez d'eau?
 thumbnail: "/uploads/bois-tu-assez-d-eau.png"
-link: https://www.lesaffaires.com/blogues/nancy-bilodeau/apporter-de-l-eau-a-son-moulin/635203
+link: https://www.lesaffaires.com/sans-section/apporter-de-leau-a-son-moulin-2/
 order: 
 sticky: true
 sticky_transfo: false

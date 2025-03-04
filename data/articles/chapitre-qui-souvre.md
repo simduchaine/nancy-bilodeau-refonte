@@ -1,7 +1,7 @@
 ---
 title: "Un chapitre qui s'ouvre"
 thumbnail: "/uploads/nancy-bilodeau-les-affaires.jpg"
-link: https://www.lesaffaires.com/blogues/nancy-bilodeau/un-chapitre-qui-s-ouvre/644145
+link: https://www.lesaffaires.com/sans-section/un-chapitre-qui-souvre-2/
 order: 
 sticky: false
 sticky_transfo: false

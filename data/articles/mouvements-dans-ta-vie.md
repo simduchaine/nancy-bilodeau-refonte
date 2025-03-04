@@ -1,7 +1,7 @@
 ---
 title: Y a-t-il assez de mouvements dans ta vie?
 thumbnail: "/uploads/Mouvement.png"
-link: https://www.lesaffaires.com/blogues/nancy-bilodeau/y-a-t-il-assez-de-mouvements-dans-ta-vie/641964
+link: https://www.lesaffaires.com/sans-section/y-a-t-il-assez-de-mouvements-dans-ta-vie-2/
 order: 
 sticky: true
 sticky_transfo: false

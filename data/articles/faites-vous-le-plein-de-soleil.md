@@ -1,7 +1,7 @@
 ---
 title: Faites-vous le plein de soleil?
 thumbnail: "/uploads/plein-de-soleil.png"
-link: https://www.lesaffaires.com/blogues/nancy-bilodeau/enfin-lete-faites-vous-suffisamment-le-plein-de-soleil/634001
+link: https://www.lesaffaires.com/sans-section/enfin-lete-faites-vous-suffisamment-le-plein-de-soleil-2/
 order: 
 sticky: false
 sticky_transfo: false

@@ -1,7 +1,7 @@
 ---
 title: Débranches-tu en vacances
 thumbnail: "/uploads/47d4ce02e25915258e7147f697a40b30.jpg"
-link: https://www.lesaffaires.com/blogues/nancy-bilodeau/debranches-tu-en-vacances-limportance-dune-nouvelle-hygiene-electromagnetique/634722
+link: https://www.lesaffaires.com/sans-section/debranches-tu-en-vacances-2/
 order: 
 sticky: false
 sticky_transfo: false

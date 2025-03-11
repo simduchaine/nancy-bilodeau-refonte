@@ -1,7 +1,7 @@
 <template>
   <section id="homeCarousel">
     <ssr-carousel>
-      <div class="slide">
+      <!-- <div class="slide">
         <a href="https://cours.nancybilodeau.com/lancement25" target="_blank" rel="noopener noreferrer">
         <g-image
           :src="$static.settings.hero_image2"
@@ -9,7 +9,7 @@
         />
         </a>
         <a href="https://lesallumés.com" target="_blank" class="button" style="position: absolute; bottom: 5%; left: 35%;">En savoir plus sur le livre</a>
-      </div>
+      </div> -->
       <div class="slide">
         <g-image
           :src="$static.settings.hero_image1"

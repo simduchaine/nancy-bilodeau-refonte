@@ -8,7 +8,6 @@ position: 3
 * Programmation neurolinguistique (PNL)
 * Neuroscience en affaires (MIT)
 * Cohérence cardiaque (Heart Math)
-* Défigement émotionnel PEACE
 * Formation en santé intégrative
 
-[Pour consulter tous mes outils >](/services)
+[Pour consulter tous mes outils >](/outils-sante-integrative)

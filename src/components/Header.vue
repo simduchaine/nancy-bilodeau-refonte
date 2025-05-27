@@ -120,22 +120,7 @@
               <div class="navbar-dropdown">
                 <g-link class="navbar-item" to="/blogue">Blogue</g-link>
                 <a class="navbar-item" href="https://anchor.fm/nancy-bilodeau">Podcast</a>
-                <g-link class="navbar-item" to="/boutique">Boutique</g-link>
-                <a
-                  class="navbar-item"
-                  href="https://cours.nancybilodeau.com/bioernergetic"
-                  >Premier scan du champs corporel
-                </a>
-                <a
-                  class="navbar-item"
-                  href="https://cours.nancybilodeau.com/coherence-cardiaque"
-                  >Pratique de cohérence cardiaque</a
-                >
-                <a
-                  class="navbar-item"
-                  href="https://cours.nancybilodeau.com/mmme"
-                  >Les 8 clés de la santé holistique
-                </a>
+                <g-link class="navbar-item" to="/boutique">Boutique</g-link>         
                 <a
                   class="navbar-item"
                   href="https://cours.nancybilodeau.com/programmemieuxetre"

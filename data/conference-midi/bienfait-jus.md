@@ -1,7 +1,7 @@
 ---
 title: La biochimie du bonheur
 id: bienfait-jus
-thumbnail: "/uploads/biochimie-du-bonheur.png"
+thumbnail: "/uploads/mi-pham-FtZL0r4DZYk-unsplash.jpg"
 link: "#"
 order: 1
 featured: false

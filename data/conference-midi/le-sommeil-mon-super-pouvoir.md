@@ -1,7 +1,7 @@
 ---
 order: 2
 title: Le sommeil, mon super pouvoir
-thumbnail: "/uploads/sommeil-super-power.png"
+thumbnail: "/uploads/2151257760.jpg"
 link: "#"
 featured: false
 

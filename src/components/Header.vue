@@ -71,14 +71,6 @@
                 <g-link class="navbar-item" to="/retraites"
                   >Participer à une retraite</g-link
                 >
-                <g-link class="navbar-item" to="/cures"
-                  >Faire une cure - détox</g-link
-                >
-                <g-link
-                  class="navbar-item"
-                  to="/boutique/programme-de-transformation/"
-                  >Devenir maitre de mon mieux-être</g-link
-                >
                 <g-link class="navbar-item" to="/boutique/shungite/"
                   >Améliorer mon hygiène électromagnétique</g-link
                 >

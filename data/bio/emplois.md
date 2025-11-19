@@ -50,5 +50,15 @@ compagnies:
   logo: ''
 - title: British Petroleum, US
   logo: ''
+- title: Syntell Inc
+  logo: ''
+- title: Kupa Station
+  logo: ''
+- title: AQCPE
+  logo: ''
+- title: CPE Escale
+  logo: ''
+- title: Lallemand
+  logo: ''
 
 ---

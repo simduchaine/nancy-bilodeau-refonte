@@ -3,7 +3,7 @@ title: La connexion entre notre santé physique et notre santé mentale
 thumbnail: "/uploads/sante-phyisque.png"
 link: https://www.mindset-entrepreneur.com/la-connexion-entre-notre-sante-physique-et-notre-sante-mentale/
 order: 
-sticky: true
+sticky: false
 sticky_transfo: false
 
 ---

@@ -3,7 +3,7 @@ title: Développez la créativité de vos équipes grâce à la nature
 thumbnail: "/uploads/earthing.png"
 link: https://www.lesaffaires.com/sans-section/developpez-la-creativite-de-vos-equipes-grace-a-la-nature-2/
 order: 
-sticky: true
+sticky: false
 sticky_transfo: false
 
 ---

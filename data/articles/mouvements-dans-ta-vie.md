@@ -3,7 +3,7 @@ title: Y a-t-il assez de mouvements dans ta vie?
 thumbnail: "/uploads/Mouvement.png"
 link: https://www.lesaffaires.com/sans-section/y-a-t-il-assez-de-mouvements-dans-ta-vie-2/
 order: 
-sticky: true
+sticky: false
 sticky_transfo: false
 
 ---

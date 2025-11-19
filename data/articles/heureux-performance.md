@@ -3,7 +3,7 @@ title: Des salariés heureux pour une meilleure performance d'entreprise
 thumbnail: "/uploads/heureux-peformance.jpg"
 link: https://www.lesaffaires.com/sans-section/des-salaries-heureux-pour-une-meilleure-performance-dentreprise-2/
 order: 2
-sticky: true
+sticky: false
 sticky_transfo: false
 
 ---

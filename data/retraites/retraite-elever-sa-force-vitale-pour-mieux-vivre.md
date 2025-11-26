@@ -1,9 +1,9 @@
 ---
 type: Retraite
-order: 5
-thumbnail: "/uploads/force_vitale.png"
+order: 1
+thumbnail: "/uploads/force-vitale-avril-2026.png"
 link: https://www.spa-eastman.com/sejours/retraites/elever-sa-force-vitale-pour-mieux-vivre/
-title: Élever sa force vitale pour mieux vivre!
+title: Élever sa force vitale pour mieux vivre! - Avril 2026
 upcoming: true
 featured: true
 

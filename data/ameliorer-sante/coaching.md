@@ -7,9 +7,8 @@ position: 2
 * Augmenter sa résilience
 * Mieux gérer son stress
 * Diminuer son anxiété
-* Trouver l’équilibre travail-vie personnelle
+* Trouver l’équilibre
 * Avoir plus d’énergie
-* Vaincre ses peurs et dépendances
+* Vaincre ses peurs
 * Adopter de bonnes habitudes de vie
 * Calmer son esprit
-* Perdre du poids

@@ -60,5 +60,9 @@ compagnies:
   logo: ''
 - title: Lallemand
   logo: ''
+- title: Pillar5 Pharma
+  logo: ''
+- title: KUPA Station
+  logo: ''
 
 ---

@@ -5,7 +5,7 @@ position: "3"
 id: tools
 
 ---
-* Bioenergy (NES Health, Bio-Well)
+* Bioenergy (E4L, Bio-Well)
 * Neurolinguistic Programming (NLP)
 * Neuroscience in Business (MIT)
 * Heart Coherence (Heart Math)

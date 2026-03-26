@@ -24,5 +24,8 @@ Formations d’affaires additionnelles :
 * Maîtriser la gestion de programmes, Harvard (HBS)
 * Coût de revient pour les restaurants
 * Cours de la MAPAC
+* Belbin Accompagnatrice Accréditée, Belbin UK
+* L’enneagramme au travail, IAE
+* Transformation d’équipe, IAE
 
 Visitez mes [compétences en santé et mieux-être](https://nancy-bilodeau-refonte.vercel.app/mes-competences-sante-mieux-etre "santé et me") pour en savoir plus sur mes formations en santé intégrative.

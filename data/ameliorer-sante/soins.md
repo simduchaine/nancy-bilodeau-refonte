@@ -4,7 +4,7 @@ title: Mes outils
 position: 3
 
 ---
-* Bioénergie (NES Health, Bio-Well)
+* Bioénergie (E4L, Bio-Well)
 * Programmation neurolinguistique (PNL)
 * Neuroscience en affaires (MIT)
 * Cohérence cardiaque (Heart Math)

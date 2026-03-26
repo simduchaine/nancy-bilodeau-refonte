@@ -2,7 +2,7 @@
 type: Retraite
 order: 3
 thumbnail: "/uploads/silence-31-octobre-2026.png"
-link: https://monastere.ca/activite/journee-en-silence-sarreter-pour-mieux-avancer-janvier-2025/
+link: https://monastere.ca/activite/journee-en-silence-sarreter-pour-mieux-avancer-oct-2026/
 title: Doux silence d'un jour - 31 octobre 2026
 upcoming: true
 featured: false

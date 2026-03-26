@@ -2,7 +2,7 @@
 type: Retraite
 order: 1
 thumbnail: "/uploads/eastman-avril-2026.png"
-link: https://www.spa-eastman.com/sejours/retraites/elever-sa-force-vitale-pour-mieux-vivre/
+link: https://www.spa-eastman.com/sejours/retraites/retrouver-energie-de-ses-ambitions/
 title: Retrouver l'énergie de ses ambitions - Avril 2026
 upcoming: true
 featured: true
